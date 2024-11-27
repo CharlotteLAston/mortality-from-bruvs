@@ -1,0 +1,124 @@
+Sample,Latitude,Longitude,Date,Time,Location,Status,Site,Depth,Observer,Successful.count,Successful.length,Comment,DBCA_Zone,DBCA_Sanctuary
+NCB1151,-22.9044,113.7254,20150824,13:23:00,Cloates.Sanctuary,No-take,C1,42.6,Todd Bond,Yes,Yes,NA,Sanctuary,Cloates
+NCB1152,-22.8887,113.7136,20150824,13:32:00,Cloates.Sanctuary,No-take,C1,43.8,Todd Bond,Yes,Yes,NA,Sanctuary,Cloates
+NCB1153,-22.8727,113.7047,20150824,13:41:00,Cloates.Sanctuary,No-take,C1,40,Todd Bond,Yes,Yes,NA,Sanctuary,Cloates
+NCB1154,-22.8527,113.6959,20150824,13:30:00,Cloates.Sanctuary,No-take,C2,40.2,Todd Bond,Yes,No,NA,Sanctuary,Cloates
+NCB1155,-22.8379,113.6816,20150824,13:57:00,Cloates.Sanctuary,No-take,C2,40.7,Todd Bond,Yes,Yes,NA,Sanctuary,Cloates
+NCB1156,-22.8186,113.6748,20150824,14:07:00,Cloates.Sanctuary,No-take,C2,41.6,NA,No,No,NA,Sanctuary,Cloates
+NCB1157,-22.8037,113.6651,20150824,14:14:00,Cloates.Sanctuary,No-take,C3,44,NA,No,No,NA,Sanctuary,Cloates
+NCB1158,-22.7889,113.652,20150824,14:20:00,Cloates.Sanctuary,No-take,C3,40.9,Todd Bond,Yes,Yes,NA,Sanctuary,Cloates
+NCB1159,-22.7727,113.6426,20150824,14:25:00,Cloates.Sanctuary,No-take,C3,40.1,Todd Bond,Yes,Yes,NA,Sanctuary,Cloates
+NCB1160,-22.7573,113.6284,20150824,14:35:00,Cloates.Sanctuary,No-take,C4,40.5,Todd Bond,Yes,Yes,NA,Sanctuary,Cloates
+NCB1161,-22.7372,113.6176,20150825,8:49:00,Cloates.Sanctuary,No-take,C4,42.4,Todd Bond,Yes,Yes,NA,Sanctuary,Cloates
+NCB1163,-22.7202,113.61,20150825,8:57:00,Cloates.Sanctuary,No-take,C4,32.4,Katrina Bornt,Yes,Yes,NA,Sanctuary,Cloates
+NCB1162,-22.7095,113.601,20150825,9:03:00,Cloates.Sanctuary,No-take,C5,48.3,Matt Birt,Yes,Yes,NA,Sanctuary,Cloates
+NCB1164,-22.6884,113.5936,20150825,9:10:00,Cloates.Sanctuary,No-take,C5,43.9,Brigit Vaughan,Yes,Yes,NA,Sanctuary,Cloates
+NCB1165,-22.6704,113.5918,20150825,9:18:00,Cloates.Sanctuary,No-take,C5,39.9,Matt Birt,Yes,Yes,NA,Sanctuary,Cloates
+NCB1054,-22.6243,113.6083,20150820,13:41:00,Cloates.Sanctuary,No-take,C6,45.4,Brigit Vaughan,Yes,Yes,NA,Sanctuary,Cloates
+NCB1055,-22.6386,113.603,20150820,13:53:00,Cloates.Sanctuary,No-take,C6,47.9,Katrina Bornt,Yes,No,NA,Sanctuary,Cloates
+NCB1166,-22.6523,113.597,20150825,9:25:00,Cloates.Sanctuary,No-take,C6,45,Todd Bond,Yes,Yes,NA,Sanctuary,Cloates
+NCB1052,-22.5913,113.6227,20150820,13:26:00,Cloates.Sanctuary,No-take,C7,47.9,Izzy Lindgren,Yes,Yes,NA,Sanctuary,Cloates
+NCB1053,-22.608,113.6131,20150820,13:33:00,Cloates.Sanctuary,No-take,C7,46.3,Izzy Lindgren,Yes,Yes,NA,Sanctuary,Cloates
+NCB1050,-22.5605,113.6362,20150820,13:11:00,Between.Winderabandi.and.Cloates,Fished,CN1,48.2,Brigit Vaughan,Yes,Yes,NA,General Use,Cloates
+NCB1051,-22.5767,113.6303,20150820,13:19:00,Between.Winderabandi.and.Cloates,Fished,CN1,50.6,Izzy Lindgren,Yes,Yes,NA,General Use,Cloates
+NCB1048,-22.5266,113.6439,20150820,12:56:00,Between.Winderabandi.and.Cloates,Fished,CN2,53.6,Todd Bond,Yes,Yes,NA,General Use,Cloates
+NCB1049,-22.5427,113.64,20150820,13:02:00,Between.Winderabandi.and.Cloates,Fished,CN2,50.3,Todd Bond,Yes,Yes,NA,General Use,Cloates
+NCB1045,-22.4789,113.6716,20150820,10:15:00,Winderabandi.deep.outside,Fished,CN3,37.2,Katrina Bornt,Yes,Yes,NA,General Use,Cloates
+NCB1046,-22.4965,113.6593,20150820,10:39:00,Winderabandi.deep.outside,Fished,CN3,49.7,Izzy Lindgren,Yes,Yes,NA,General Use,Cloates
+NCB1047,-22.5114,113.653,20150820,12:43:00,Between.Winderabandi.and.Cloates,Fished,CN3,46.6,Todd Bond,Yes,Yes,NA,General Use,Cloates
+NCB1042,-22.433,113.7015,20150820,9:52:00,Winderabandi.deep.outside,Fished,CN4,47.7,Izzy Lindgren,Yes,Yes,NA,General Use,Cloates
+NCB1043,-22.4502,113.695,20150820,10:00:00,Winderabandi.deep.outside,Fished,CN4,46.8,Katrina Bornt,Yes,Yes,NA,General Use,Cloates
+NCB1044,-22.4662,113.6865,20150820,10:06:00,Winderabandi.deep.outside,Fished,CN4,45.9,Izzy Lindgren,Yes,Yes,NA,General Use,Cloates
+NCB1039,-22.381,113.7293,20150820,9:22:00,Winderabandi.deep.outside,Fished,CN5,46.5,Todd Bond,Yes,Yes,NA,General Use,Osprey
+NCB1040,-22.3984,113.7232,20150820,9:35:00,Winderabandi.deep.outside,Fished,CN5,44.9,Todd Bond,Yes,Yes,NA,General Use,Osprey
+NCB1041,-22.4147,113.7137,20150820,9:43:00,Winderabandi.deep.outside,Fished,CN5,43.9,Izzy Lindgren,Yes,Yes,NA,General Use,Osprey
+NCB1038,-22.3645,113.7366,20150820,9:12:00,Between.Winderabandi.and.Cloates,Fished,CN6,45.2,Katrina Bornt,Yes,Yes,NA,General Use,Osprey
+NCB1167,-22.3534,113.748,20150825,12:19:00,Between.Osprey.and.Winderabandi,Fished,CN6,39.9,Brigit Vaughan,Yes,Yes,NA,General Use,Osprey
+NCB1168,-22.3354,113.752,20150825,12:28:00,Between.Osprey.and.Winderabandi,Fished,CN6,46.5,Matt Birt,Yes,Yes,NA,General Use,Osprey
+NCB1199,-22.1573,113.8473,20150826,12:30:00,Mandu.Sanctuary,No-take,MA1,41.9,Arthur de Lima,Yes,Yes,NA,SP Benthic,Mandu SP
+NCB1200,-22.1486,113.8491,20150826,12:38:00,Mandu.Sanctuary,No-take,MA1,46.7,Arthur de Lima,Yes,Yes,NA,SP Benthic,Mandu SP
+NCB1201,-22.1398,113.8554,20150826,12:45:00,Mandu.Sanctuary,No-take,MA1,42.5,Arthur de Lima,Yes,Yes,NA,SP Benthic,Mandu SP
+NCB1202,-22.1297,113.8546,20150826,12:54:00,Mandu.Sanctuary,No-take,MA2,56.2,Arthur de Lima,Yes,Yes,NA,SP Benthic,Mandu SP
+NCB1203,-22.1221,113.8638,20150826,13:01:00,Mandu.Sanctuary,No-take,MA2,41.2,Matt Birt,Yes,Yes,NA,SP Benthic,Mandu SP
+NCB1204,-22.1128,113.8625,20150826,13:07:00,Mandu.Sanctuary,No-take,MA2,46.2,Matt Birt,Yes,Yes,NA,SP Benthic,Mandu SP
+NCB1205,-22.1057,113.8639,20150826,13:12:00,Mandu.Sanctuary,No-take,MA3,42.4,Arthur de Lima,Yes,Yes,NA,SP Benthic,Mandu SP
+NCB1206,-22.0988,113.8658,20150826,13:17:00,Mandu.Sanctuary,No-take,MA3,44,Matt Birt,Yes,Yes,NA,SP Benthic,Mandu SP
+NCB1207,-22.0884,113.8685,20150826,13:22:00,Mandu.Sanctuary,No-take,MA4,50,Brigit Vaughan,Yes,No,NA,SP Benthic,Mandu SP
+NCB1208,-22.078,113.8737,20150826,13:28:00,Mandu.Sanctuary,No-take,MA4,47,Arthur de Lima,Yes,No,NA,SP Benthic,Mandu SP
+NCB1209,-22.0654,113.8794,20150826,15:07:00,North.Mandu,Fished,MAN1,40.8,Katrina Bornt,Yes,Yes,NA,General Use,Mandu SP
+NCB1210,-22.052,113.8806,20150826,15:13:00,North.Mandu,Fished,MAN1,48.7,Brigit Vaughan,Yes,Yes,NA,General Use,Mandu SP
+NCB1211,-22.0395,113.8867,20150826,15:24:00,North.Mandu,Fished,MAN1,39.4,Matt Birt,Yes,Yes,NA,General Use,Mandu SP
+NCB1212,-22.0243,113.8873,20150826,15:32:00,North.Mandu,Fished,MAN2,43.1,Brigit Vaughan,Yes,Yes,NA,General Use,Mandu SP
+NCB1213,-22.0094,113.8916,20150826,15:40:00,North.Mandu,Fished,MAN2,47.5,Matt Birt,Yes,Yes,NA,General Use,Mandu SP
+NCB1214,-21.9962,113.8967,20150827,8:03:00,North.Mandu,Fished,MAN2,43.3,Matt Birt,Yes,Yes,NA,General Use,Mandu SP
+NCB1215,-21.9824,113.9017,20150827,8:19:00,North.Mandu,Fished,MAN3,47.2,Brigit Vaughan,Yes,Yes,NA,General Use,Mandu SP
+NCB1216,-21.9673,113.9013,20150827,8:28:00,North.Mandu,Fished,MAN3,50,Arthur de Lima,Yes,Yes,NA,General Use,Mandu SP
+NCB1217,-21.9537,113.9066,20150827,8:41:00,North.Mandu,Fished,MAN3,43.2,Arthur de Lima,Yes,Yes,NA,General Use,Mandu SP
+NCB1218,-21.9415,113.9079,20150827,8:48:00,North.Mandu,Fished,MAN4,45,Katrina Bornt,Yes,Yes,NA,General Use,Mandu SP
+NCB1219,-21.9352,113.9038,20150827,8:54:00,North.Mandu,Fished,MAN4,56.2,Brigit Vaughan,Yes,Yes,NA,General Use,Mandu SP
+NCB1220,-21.9206,113.9104,20150827,9:01:00,North.Mandu,Fished,MAN4,54.3,Matt Birt,Yes,Yes,NA,General Use,Mandu SP
+NCB1221,-21.9072,113.9167,20150827,9:09:00,North.Mandu,Fished,MAN5,50.2,Brigit Vaughan,Yes,No,NA,General Use,Mandu SP
+NCB1222,-21.8938,113.9252,20150827,9:18:00,North.Mandu,Fished,MAN5,53.1,Brigit Vaughan,Yes,No,NA,General Use,Mandu SP
+NCB1223,-21.8831,113.936,20150827,11:09:00,North.Mandu,Fished,MAN5,53.2,Brigit Vaughan,Yes,Yes,NA,General Use,Mandu SP
+NCB1224,-21.8763,113.9478,20150827,11:15:00,North.Mandu,Fished,MAN6,39.4,Katrina Bornt,Yes,Yes,NA,General Use,Mandu SP
+NCB1225,-21.8663,113.9572,20150827,11:29:00,North.Mandu,Fished,MAN6,41.5,Michael Taylor,Yes,Yes,NA,General Use,Mandu SP
+NCB1226,-21.8553,113.964,20150827,11:36:00,North.Mandu,Fished,MAN6,39.8,Katrina Bornt,Yes,Yes,NA,General Use,Mandu SP
+NCB1169,-22.3193,113.7596,20150825,12:38:00,Osprey.Sanctuary,No-take,O1,52.8,Matt Birt,Yes,Yes,NA,Sanctuary,Osprey
+NCB1177,-22.3115,113.7658,20150825,15:00:00,Osprey.Sanctuary,No-take,O1,47.7,Brigit Vaughan,Yes,Yes,NA,Sanctuary,Osprey
+NCB1179,-22.3218,113.766,20150826,7:50:00,Osprey.Sanctuary,No-take,O1,26.2,Matt Birt,Yes,Yes,NA,Sanctuary,Osprey
+NCB1170,-22.3044,113.7739,20150825,12:56:00,Osprey.Sanctuary,No-take,O2,52.8,Todd Bond,Yes,Yes,NA,Sanctuary,Osprey
+NCB1178,-22.2996,113.779,20150825,15:10:00,Osprey.Sanctuary,No-take,O2,53.4,Matt Birt,Yes,Yes,NA,Sanctuary,Osprey
+NCB1180,-22.3126,113.7778,20150826,7:56:00,Osprey.Sanctuary,No-take,O2,28.1,Matt Birt,Yes,Yes,NA,Sanctuary,Osprey
+NCB1171,-22.2956,113.7875,20150825,13:03:00,Osprey.Sanctuary,No-take,O3,39.4,Nicole Ryan,Yes,Yes,NA,Sanctuary,Osprey
+NCB1181,-22.3031,113.7885,20150826,8:02:00,Osprey.Sanctuary,No-take,O3,32.5,Brigit Vaughan,Yes,Yes,NA,Sanctuary,Osprey
+NCB1182,-22.2912,113.7942,20150826,8:09:00,Osprey.Sanctuary,No-take,O3,28.4,Brigit Vaughan,Yes,Yes,NA,Sanctuary,Osprey
+NCB1172,-22.2822,113.7909,20150825,13:15:00,Osprey.Sanctuary,No-take,O4,53.7,Brigit Vaughan,Yes,Yes,NA,Sanctuary,Osprey
+NCB1173,-22.2704,113.7979,20150825,13:23:00,Osprey.Sanctuary,No-take,O4,51.1,Brigit Vaughan,Yes,Yes,NA,Sanctuary,Osprey
+NCB1183,-22.2802,113.8021,20150826,8:15:00,Osprey.Sanctuary,No-take,O4,23.1,Matt Birt,Yes,Yes,NA,Sanctuary,Osprey
+NCB1174,-22.2599,113.8073,20150825,13:33:00,Osprey.Sanctuary,No-take,O5,39.4,Matt Birt,Yes,Yes,NA,Sanctuary,Osprey
+NCB1175,-22.2483,113.8118,20150825,13:40:00,Osprey.Sanctuary,No-take,O5,45.1,Brigit Vaughan,Yes,Yes,NA,Sanctuary,Osprey
+NCB1184,-22.2661,113.805,20150826,8:20:00,Osprey.Sanctuary,No-take,O5,36.6,Arthur de Lima,Yes,Yes,NA,Sanctuary,Osprey
+NCB1185,-22.2557,113.8134,20150826,8:26:00,Osprey.Sanctuary,No-take,O5,29.3,Matt Birt,Yes,Yes,NA,Sanctuary,Osprey
+NCB1176,-22.2297,113.818,20150825,13:52:00,Osprey.Sanctuary,No-take,O6,44.5,Matt Birt,Yes,Yes,NA,Sanctuary,Osprey
+NCB1186,-22.242,113.8166,20150826,8:33:00,Osprey.Sanctuary,No-take,O6,38.1,Brigit Vaughan,Yes,Yes,NA,Sanctuary,Osprey
+NCB1187,-22.2308,113.8224,20150826,8:38:00,Osprey.Sanctuary,No-take,O6,30.9,Brigit Vaughan,Yes,Yes,NA,Sanctuary,Osprey
+NCB1188,-22.2229,113.8249,20150826,8:44:00,Osprey.Sanctuary,No-take,O6,32.5,Matt Birt,Yes,Yes,NA,Sanctuary,Osprey
+NCB1189,-22.2173,113.8284,20150826,10:24:00,Between.Mandu.and.Osprey,Fished,ON1,23.8,Arthur de Lima,Yes,Yes,NA,General Use,Osprey
+NCB1190,-22.2135,113.8266,20150826,10:22:00,Between.Mandu.and.Osprey,Fished,ON1,38.7,Matt Birt,Yes,Yes,NA,General Use,Osprey
+NCB1191,-22.2094,113.8308,20150826,10:32:00,Between.Mandu.and.Osprey,Fished,ON1,21.2,Matt Birt,Yes,Yes,NA,General Use,Osprey
+NCB1192,-22.2054,113.8291,20150826,10:36:00,Between.Mandu.and.Osprey,Fished,ON2,39.2,Brigit Vaughan,Yes,Yes,NA,General Use,Osprey
+NCB1193,-22.2016,113.8326,20150826,10:41:00,Between.Mandu.and.Osprey,Fished,ON2,19,Katrina Bornt,No,No,NA,General Use,Osprey
+NCB1194,-22.1982,113.831,20150826,10:44:00,Between.Mandu.and.Osprey,Fished,ON2,38,Matt Birt,Yes,Yes,NA,General Use,Osprey
+NCB1195,-22.194,113.8349,20150826,10:48:00,Between.Mandu.and.Osprey,Fished,ON3,19.9,Matt Birt,Yes,Yes,NA,General Use,Osprey
+NCB1196,-22.1876,113.8346,20150826,10:54:00,Between.Mandu.and.Osprey,Fished,ON3,38.7,Brigit Vaughan,Yes,Yes,NA,General Use,Osprey
+NCB1197,-22.1815,113.8402,20150826,10:58:00,Between.Mandu.and.Osprey,Fished,ON4,21.4,Arthur de Lima,Yes,Yes,NA,General Use,Osprey
+NCB1198,-22.1709,113.8419,20150826,11:04:00,Between.Mandu.and.Osprey,Fished,ON4,39.2,Matt Birt,Yes,Yes,NA,General Use,Osprey
+NCB1126,-23.4351,113.7402,20150823,10:08:00,Pelican.Sanctuary,No-take,P1,41.3,Brigit Vaughan,Yes,Yes,NA,Sanctuary,Pelican
+NCB1128,-23.4169,113.7442,20150823,12:12:00,South.Pelican,No-take,P1,37.4,Matt Birt,Yes,Yes,NA,Sanctuary,Pelican
+NCB1130,-23.3995,113.7476,20150823,12:32:00,Pelican.Sanctuary,No-take,P1,41.3,Matt Birt,Yes,Yes,NA,Sanctuary,Pelican
+NCB1131,-23.383,113.751,20150823,12:38:00,Pelican.Sanctuary,No-take,P2,42,Brigit Vaughan,Yes,Yes,NA,Sanctuary,Pelican
+NCB1132,-23.3676,113.7533,20150823,12:44:00,Pelican.Sanctuary,No-take,P2,41.6,Matt Birt,Yes,Yes,NA,Sanctuary,Pelican
+NCB1127,-23.3532,113.7526,20150823,11:54:00,Pelican.Sanctuary,No-take,P2,42.9,Brigit Vaughan,Yes,Yes,NA,Sanctuary,Pelican
+NCB1133,-23.3401,113.7537,20150823,12:52:00,Pelican.Sanctuary,No-take,P3,41.7,Brigit Vaughan,Yes,Yes,NA,Sanctuary,Pelican
+NCB1134,-23.3283,113.7517,20150823,12:56:00,Pelican.Sanctuary,No-take,P3,41,Matt Birt,Yes,Yes,NA,Sanctuary,Pelican
+NCB1135,-23.3151,113.749,20150823,13:01:00,Pelican.Sanctuary,No-take,P4,40.6,Matt Birt,Yes,Yes,NA,Sanctuary,Pelican
+NCB1136,-23.2981,113.7487,20150823,13:11:00,Pelican.Sanctuary,No-take,P4,40.5,Matt Birt,Yes,Yes,NA,Sanctuary,Pelican
+NCB1137,-23.2788,113.7461,20150823,15:05:00,Between.Maud.and.Pelican,Fished,PN1,41.9,Michael Taylor,Yes,Yes,NA,General Use,Pelican
+NCB1138,-23.256,113.7371,20150823,15:19:00,Between.Maud.and.Pelican,Fished,PN1,42.6,Todd Bond,Yes,Yes,NA,General Use,Pelican
+NCB1139,-23.237,113.7303,20150823,15:27:00,Between.Maud.and.Pelican,Fished,PN2,41.6,Todd Bond,Yes,Yes,NA,General Use,Pelican
+NCB1140,-23.2202,113.7273,20150823,15:32:00,Between.Maud.and.Pelican,Fished,PN2,43.9,Todd Bond,Yes,Yes,NA,General Use,Pelican
+NCB1141,-23.1887,113.7315,20150824,8:10:00,Between.Maud.and.Pelican,Fished,PN2,41.5,Todd Bond,Yes,Yes,NA,General Use,Pelican
+NCB1142,-23.1667,113.7322,20150824,8:24:00,Maud.deep.outside,Fished,PN3,40.1,Nicole Ryan,Yes,Yes,NA,General Use,Pelican
+NCB1143,-23.1435,113.7259,20150824,8:42:00,Maud.deep.outside,Fished,PN3,42.8,Nicole Ryan,Yes,Yes,NA,General Use,Pelican
+NCB1144,-23.117,113.7222,20150824,8:57:00,Maud.deep.outside,Fished,PN3,43.4,Nicole Ryan,Yes,Yes,NA,General Use,Pelican
+NCB1145,-23.0921,113.7196,20150824,9:08:00,Maud.deep.outside,Fished,PN4,38.5,Nicole Ryan,Yes,Yes,NA,General Use,Cloates
+NCB1146,-23.07,113.7175,20150824,9:19:00,Maud.deep.outside,Fished,PN4,39.6,Todd Bond,Yes,No,NA,General Use,Cloates
+NCB1147,-23.0437,113.7129,20150824,9:29:00,Between.Cloates.and.Maud,Fished,PN4,44.2,Nicole Ryan,Yes,Yes,NA,General Use,Cloates
+NCB1148,-23.0162,113.7143,20150824,9:42:00,Between.Cloates.and.Maud,Fished,PN5,43.6,Nicole Ryan,Yes,Yes,NA,General Use,Cloates
+NCB1149,-22.9818,113.7262,20150824,9:53:00,Between.Cloates.and.Maud,Fished,PN5,48.3,Nicole Ryan,Yes,Yes,NA,General Use,Cloates
+NCB1150,-22.9501,113.7235,20150824,10:06:00,Between.Cloates.and.Maud,Fished,PN5,38.7,Nicole Ryan,Yes,Yes,NA,General Use,Cloates
+NCB1122,-23.5202,113.6894,20150823,9:25:00,South.Pelican,Fished,PS1,38.5,Matt Birt,Yes,Yes,NA,General Use,Pelican
+NCB1123,-23.505,113.6971,20150823,9:40:00,South.Pelican,Fished,PS1,41.9,Todd Bond,Yes,Yes,NA,General Use,Pelican
+NCB1124,-23.4698,113.7287,20150823,9:55:00,South.Pelican,Fished,PS2,39.9,Michael Taylor,Yes,Yes,NA,General Use,Pelican
+NCB1125,-23.4559,113.741,20150823,10:01:00,South.Pelican,Fished,PS2,40.3,Todd Bond,Yes,Yes,NA,General Use,Pelican
+NCB1129,-23.4462,113.742,20150823,12:22:00,Pelican.Sanctuary,Fished,PS2,42.4,Brigit Vaughan,Yes,Yes,NA,General Use,Pelican

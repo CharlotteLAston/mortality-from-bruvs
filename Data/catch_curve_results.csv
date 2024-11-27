@@ -1,0 +1,21 @@
+Species,Location,Data,Method,F_value,Lower_95_CI,Upper_95_CI
+Pink Snapper,Metro/SW,BRUV,L3,0.24,0.21,0.28
+Pink Snapper,Metro/SW,BRUV,Pauly,0.38,0.31,0.44
+Pink Snapper,Metro/SW,DPIRD,L3,0.17,0.15,0.19
+Pink Snapper,Metro/SW,DPIRD,Pauly,0.21,0.19,0.25
+Breaksea Cod,Metro,BRUV,L3,0.25,0.146,0.383
+Breaksea Cod,Metro,BRUV,Pauly,0.3,0.21,0.39
+Breaksea Cod,Metro,DPIRD,L3,,,
+Breaksea Cod,Metro,DPIRD,Pauly,0.23,0.17,0.29
+King Wrasse,Metro,BRUV,L3,0.32,0.2,0.48
+King Wrasse,Metro,BRUV,Pauly,0.22,0.07,0.36
+King Wrasse,Metro,DPIRD,L3,,,
+King Wrasse,Metro,DPIRD,Pauly,,,
+King Wrasse,Jurien,BRUV,L3,,,
+King Wrasse,Jurien,BRUV,Pauly,,,
+King Wrasse,Jurien,DPIRD,L3,0.22,0.14,0.32
+King Wrasse,Jurien,DPIRD,Pauly,0.33,0.15,0.5
+Maori Wrasse,Metro,BRUV,L3,0.11,0.04,0.31
+Maori Wrasse,Metro,BRUV,Pauly,0.13,0.08,0.18
+Maori Wrasse,Metro,DPIRD,L3,0.18,0.06,0.41
+Maori Wrasse,Metro,DPIRD,Pauly,,,

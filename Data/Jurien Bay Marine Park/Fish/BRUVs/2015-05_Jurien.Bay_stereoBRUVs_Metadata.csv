@@ -1,0 +1,117 @@
+Sample,Latitude,Longitude,Date,Time,Location,Status,Site,Depth,Observer,Observer.length,Successful.count,Successful.length,DBCA_Zone,DBCA_Sanctuary
+BISZS1-R1,-30.33213515,115.0039284,20150522,8:57:00,Jurien Bay,No Take,Boullanger Island,1.9,Meg,Unknown,Yes,No,Sanctuary,Boullanger Island
+BISZS1-R2,-30.3354833,115.0036499,20150522,9:04:00,Jurien Bay,No Take,Boullanger Island,1.3,Lauren,Unknown,Yes,Yes,Sanctuary,Boullanger Island
+BISZS1-R3,-30.33885383,115.0043708,20150522,9:07:00,Jurien Bay,No Take,Boullanger Island,2.2,Meg,Unknown,Yes,No,Sanctuary,Boullanger Island
+BISZS1-R4,-30.34193225,115.0017653,20150522,11:17:00,Jurien Bay,No Take,Boullanger Island,2,Lauren,Unknown,Yes,No,Sanctuary,Boullanger Island
+BISZS2-R1,-30.34538333,115.0375167,20150524,9:17:00,Jurien Bay,No Take,Boullanger Island,4.9,Meg,Unknown,Yes,Yes,Sanctuary,Boullanger Island
+BISZS2-R2,-30.34880919,115.0409405,20150524,9:21:00,Jurien Bay,No Take,Boullanger Island,2.8,Lauren,Unknown,Yes,No,Sanctuary,Boullanger Island
+BISZS2-R3,-30.3446101,115.0391656,20150524,9:26:00,Jurien Bay,No Take,Boullanger Island,0.7,Lauren,Unknown,Yes,Yes,Sanctuary,Boullanger Island
+BISZS2-R4,-30.34288938,115.0385095,20150524,9:33:00,Jurien Bay,No Take,Boullanger Island,3.6,Lauren,Unknown,Yes,No,Sanctuary,Boullanger Island
+FISPZS1-R1,-30.1516166,114.947333,20150523,12:39:00,Jurien Bay,No Take,Fisherman Islands,4.4,Jeff,Unknown,Yes,No,SP Scientific Reference,Fisherman Islands
+FISPZS1-R2,-30.1523997,114.950589,20150523,12:42:00,Jurien Bay,No Take,Fisherman Islands,4.9,Meg,Unknown,Yes,No,SP Scientific Reference,Fisherman Islands
+FISPZS1-R3,-30.1547,114.953583,20150523,14:13:00,Jurien Bay,No Take,Fisherman Islands,0.6,Meg,Unknown,Yes,Yes,SP Scientific Reference,Fisherman Islands
+FISPZS1-R4,-30.1535123,114.956144,20150523,13:01:00,Jurien Bay,No Take,Fisherman Islands,2.5,Meg,Unknown,Yes,Yes,SP Scientific Reference,Fisherman Islands
+FISPZS2-R1,-30.1722666,114.945533,20150523,11:40:00,Jurien Bay,No Take,Fisherman Islands,3.6,Meg,Unknown,Yes,Yes,SP Scientific Reference,Fisherman Islands
+FISPZS2-R2,-30.1722805,114.94987,20150523,11:43:00,Jurien Bay,No Take,Fisherman Islands,3.9,Jeff,Unknown,Yes,Yes,SP Scientific Reference,Fisherman Islands
+FISPZS2-R3,-30.1699996,114.951814,20150523,11:45:00,Jurien Bay,No Take,Fisherman Islands,4.1,Meg,Unknown,Yes,Yes,SP Scientific Reference,Fisherman Islands
+FISPZS2-R4,-30.17125,114.9555,20150523,11:48:00,Jurien Bay,No Take,Fisherman Islands,2.8,Meg,Unknown,Yes,Yes,SP Scientific Reference,Fisherman Islands
+FISPZS3-R1,-30.1540837,114.967175,20150523,1:45:00,Jurien Bay,No Take,Fisherman Islands,4.07,Laura,Unknown,Yes,No,SP Scientific Reference,Fisherman Islands
+FISPZS3-R2,-30.1567833,114.96685,20150523,1:50:00,Jurien Bay,No Take,Fisherman Islands,4,Lauren,Unknown,Yes,Yes,SP Scientific Reference,Fisherman Islands
+FISPZS3-R3-R,-30.1593666,114.970683,20150523,1:57:00,Jurien Bay,No Take,Fisherman Islands,7.1,Meg,Unknown,Yes,Yes,SP Scientific Reference,Fisherman Islands
+FISPZS3-R4,-30.1566479,114.972255,20150523,2:00:00,Jurien Bay,No Take,Fisherman Islands,5.2,Lizzy,Unknown,Yes,Yes,SP Scientific Reference,Fisherman Islands
+FISPZS4-R1,-30.1595,114.994383,20150523,2:08:00,Jurien Bay,No Take,Fisherman Islands,7,Laura,Unknown,Yes,Yes,SP Scientific Reference,Fisherman Islands
+FISPZS4-R2,-30.1568666,114.9955,20150523,2:13:00,Jurien Bay,No Take,Fisherman Islands,4.1,Meg,Unknown,Yes,Yes,SP Scientific Reference,Fisherman Islands
+FISPZS4-R3,-30.1541232,114.994957,20150523,2:20:00,Jurien Bay,No Take,Fisherman Islands,3.5,Lauren,Unknown,Yes,Yes,SP Scientific Reference,Fisherman Islands
+FISPZS4-R4,-30.1516693,114.994039,20150523,2:25:00,Jurien Bay,No Take,Fisherman Islands,4.1,Lizzy,Unknown,Yes,Yes,SP Scientific Reference,Fisherman Islands
+FISZS1-R1,-30.13401663,114.9489166,20150523,11:50:00,Jurien Bay,No Take,Fisherman Islands,7.5,Jeff,Unknown,Yes,No,Sanctuary,Fisherman Islands
+FISZS1-R2,-30.13463697,114.9512602,20150523,11:38:00,Jurien Bay,No Take,Fisherman Islands,6.7,Jeff,Unknown,Yes,No,Sanctuary,Fisherman Islands
+FISZS1-R3,-30.13316662,114.95255,20150523,11:34:00,Jurien Bay,No Take,Fisherman Islands,5.2,Jeff,Unknown,Yes,No,Sanctuary,Fisherman Islands
+FISZS1-R4,-30.13539998,114.9557666,20150523,11:26:00,Jurien Bay,No Take,Fisherman Islands,4.9,Lizzy,Unknown,Yes,Yes,Sanctuary,Fisherman Islands
+FISZS2-R1,-30.13451661,114.9677166,20150523,15:24:00,Jurien Bay,No Take,Fisherman Islands,11,Lizzy,Unknown,Yes,Yes,Sanctuary,Fisherman Islands
+FISZS2-R2,-30.13034997,114.9684666,20150523,15:29:00,Jurien Bay,No Take,Fisherman Islands,9.7,Lizzy,Unknown,Yes,Yes,Sanctuary,Fisherman Islands
+FISZS2-R3,-30.13505171,114.9733388,20150523,13:34:00,Jurien Bay,No Take,Fisherman Islands,6.8,Lizzy,Unknown,Yes,Yes,Sanctuary,Fisherman Islands
+FISZS2-R4,-30.13167515,114.9666193,20150523,13:41:00,Jurien Bay,No Take,Fisherman Islands,7.1,Lizzy,Unknown,Yes,No,Sanctuary,Fisherman Islands
+GUZ(C)S1-R1,-30.4725666,115.03835,20150521,8:54:00,Jurien Bay,Fished,Cervantes,3.4,Meg,Unknown,Yes,Yes,General Use,Hill River
+GUZ(C)S1-R2,-30.4745306,115.039764,20150521,8:51:00,Jurien Bay,Fished,Cervantes,2.6,Meg,Unknown,Yes,Yes,General Use,Hill River
+GUZ(C)S1-R3,-30.4762719,115.044558,20150521,8:46:00,Jurien Bay,Fished,Cervantes,4.9,Meg,Unknown,Yes,Yes,General Use,Hill River
+GUZ(C)S1-R4,-30.478015,115.047673,20150521,8:44:00,Jurien Bay,Fished,Cervantes,5,Meg,Unknown,Yes,Yes,General Use,Hill River
+GUZ(C)S2-R1,-30.4839666,115.032083,20150521,9:01:00,Jurien Bay,Fished,Cervantes,5.4,Meg,Unknown,Yes,Yes,General Use,Hill River
+GUZ(C)S2-R2,-30.4859232,115.027812,20150521,9:07:00,Jurien Bay,Fished,Cervantes,6.5,Meg,Unknown,Yes,Yes,General Use,Hill River
+GUZ(C)S2-R3,-30.48513,115.02998,20150521,9:12:00,Jurien Bay,Fished,Cervantes,3.5,Meg,Unknown,Yes,Yes,General Use,Hill River
+GUZ(C)S2-R4,-30.487463,115.025147,20150521,9:17:00,Jurien Bay,Fished,Cervantes,6,Meg,Unknown,Yes,Yes,General Use,Hill River
+GUZ(ER)S1-R1,-30.3584549,114.997418,20150522,10:48:00,Jurien Bay,Fished,Essex Rocks,3.1,Meg,Unknown,Yes,Yes,General Use,Boullanger Island
+GUZ(ER)S1-R2,-30.36162,114.997733,20150522,10:52:00,Jurien Bay,Fished,Essex Rocks,3.5,Meg,Unknown,Yes,Yes,General Use,Boullanger Island
+GUZ(ER)S1-R3,-30.3614977,115.000253,20150522,10:56:00,Jurien Bay,Fished,Essex Rocks,2.7,Meg,Unknown,Yes,Yes,General Use,Boullanger Island
+GUZ(ER)S1-R4,-30.3623179,115.003469,20150522,11:01:00,Jurien Bay,Fished,Essex Rocks,3,Meg,Unknown,Yes,No,General Use,Boullanger Island
+GUZ(ER)S2-R1,-30.3574925,115.042777,20150524,13:09:00,Jurien Bay,Fished,Essex Rocks,0.8,Meg,Unknown,Yes,Yes,General Use,Boullanger Island
+GUZ(ER)S2-R2,-30.3599868,115.044039,20150524,13:13:00,Jurien Bay,Fished,Essex Rocks,2,Meg,Unknown,Yes,Yes,General Use,Boullanger Island
+GUZ(ER)S2-R3,-30.3631754,115.044597,20150524,13:17:00,Jurien Bay,Fished,Essex Rocks,2.9,Lauren,Unknown,Yes,Yes,General Use,Boullanger Island
+GUZ(ER)S2-R4,-30.3669278,115.044785,20150524,13:24:00,Jurien Bay,Fished,Essex Rocks,2.4,Lauren,Unknown,Yes,Yes,General Use,Boullanger Island
+GUZ(GH)S1-R1,-30.0793167,114.9678,20150524,14:46:00,Jurien Bay,Fished,Green Head,3.5,Meg,Unknown,Yes,Yes,General Use,Fisherman Islands
+GUZ(GH)S1-R2,-30.0776169,114.966355,20150524,14:42:00,Jurien Bay,Fished,Green Head,2.9,Meg,Unknown,Yes,No,General Use,Fisherman Islands
+GUZ(GH)S1-R3,-30.0757291,114.962708,20150524,14:38:00,Jurien Bay,Fished,Green Head,4.1,Meg,Unknown,Yes,Yes,General Use,Fisherman Islands
+GUZ(GH)S1-R4,-30.0761667,114.959367,20150524,14:51:00,Jurien Bay,Fished,Green Head,4.5,Meg,Unknown,Yes,Yes,General Use,Fisherman Islands
+GUZ(GH)S2-R1,-30.0972833,114.976067,20150524,15:12:00,Jurien Bay,Fished,Green Head,6.3,Meg,Unknown,Yes,Yes,General Use,Fisherman Islands
+GUZ(GH)S2-R2,-30.0991648,114.97087,20150524,15:07:00,Jurien Bay,Fished,Green Head,3.9,Meg,Unknown,Yes,Yes,General Use,Fisherman Islands
+GUZ(GH)S2-R3,-30.1009729,114.966927,20150524,15:00:00,Jurien Bay,Fished,Green Head,4.9,Jeff,Unknown,Yes,Yes,General Use,Fisherman Islands
+GUZ(GH)S2-R4,-30.1032833,114.96515,20150524,15:16:00,Jurien Bay,Fished,Green Head,5.2,Jeff,Unknown,Yes,Yes,General Use,Fisherman Islands
+GUZ(GH)S3-R1,-30.1179,114.952217,20150523,16:00:00,Jurien Bay,Fished,Green Head,3.4,Meg,Unknown,Yes,Yes,General Use,Fisherman Islands
+GUZ(GH)S3-R2,-30.1203833,114.95365,20150523,16:04:00,Jurien Bay,Fished,Green Head,2.1,Meg,Unknown,Yes,Yes,General Use,Fisherman Islands
+GUZ(GH)S3-R3,-30.1233611,114.953406,20150523,16:09:00,Jurien Bay,Fished,Green Head,0.7,Meg,Unknown,Yes,No,General Use,Fisherman Islands
+GUZ(GH)S3-R4,-30.1218174,114.950104,20150523,16:13:00,Jurien Bay,Fished,Green Head,2,Meg,Unknown,Yes,Yes,General Use,Fisherman Islands
+GUZ(JB)S1-R1,-30.2550655,115.036016,20150524,11:04:00,Jurien Bay,Fished,Jurien Bay,2.2,Meg,Unknown,Yes,Yes,General Use,Pumpkin Hollow
+GUZ(JB)S1-R2,-30.2587948,115.036876,20150524,11:12:00,Jurien Bay,Fished,Jurien Bay,1,Meg,Unknown,Yes,Yes,General Use,Pumpkin Hollow
+GUZ(JB)S1-R3,-30.2624747,115.037834,20150524,10:44:00,Jurien Bay,Fished,Jurien Bay,1.2,Meg,Unknown,Yes,No,General Use,Pumpkin Hollow
+GUZ(JB)S1-R4,-30.264324,115.038645,20150524,10:56:00,Jurien Bay,Fished,Jurien Bay,1.3,Meg,Unknown,Yes,Yes,General Use,Pumpkin Hollow
+GUZ(JB)S2-R1,-30.2787833,115.002483,20150522,11:25:00,Jurien Bay,Fished,Jurien Bay,7.2,Meg,Unknown,Yes,Yes,General Use,Boullanger Island
+GUZ(JB)S2-R2,-30.2793298,115.00579,20150522,11:34:00,Jurien Bay,Fished,Jurien Bay,4.6,Meg,Unknown,Yes,Yes,General Use,Boullanger Island
+GUZ(JB)S2-R3,-30.2797236,115.008155,20150522,11:46:00,Jurien Bay,Fished,Jurien Bay,2.7,Meg,Unknown,Yes,No,General Use,Boullanger Island
+GUZ(JB)S2-R4,-30.2815157,115.00714,20150522,11:39:00,Jurien Bay,Fished,Jurien Bay,3.2,Meg,Unknown,Yes,Yes,General Use,Boullanger Island
+GUZ(SC)S1-R1,-30.1809407,114.969734,20150523,9:06:00,Jurien Bay,Fished,Sandy Cape,5.5,Meg,Unknown,Yes,Yes,General Use,Fisherman Islands
+GUZ(SC)S1-R2,-30.1795133,114.972468,20150523,8:40:00,Jurien Bay,Fished,Sandy Cape,5,Meg,Unknown,Yes,Yes,General Use,Fisherman Islands
+GUZ(SC)S1-R3,-30.1769041,114.973288,20150523,8:47:00,Jurien Bay,Fished,Sandy Cape,4.5,Damo,Unknown,Yes,No,General Use,Fisherman Islands
+GUZ(SC)S1-R4,-30.1837587,114.968848,20150523,9:11:00,Jurien Bay,Fished,Sandy Cape,6.6,Meg,Unknown,Yes,Yes,General Use,Fisherman Islands
+GUZ(SC)S2-R1,-30.1804833,114.992983,20150523,9:17:00,Jurien Bay,Fished,Sandy Cape,2,Jeff,Unknown,Yes,Yes,General Use,North Head
+GUZ(SC)S2-R2,-30.1838569,114.991142,20150523,9:25:00,Jurien Bay,Fished,Sandy Cape,3.2,Lauren,Unknown,Yes,Yes,General Use,North Head
+GUZ(SC)S2-R3,-30.1876244,114.990797,20150523,9:31:00,Jurien Bay,Fished,Sandy Cape,2.6,Laura,Unknown,Yes,Yes,General Use,North Head
+GUZ(SC)S2-R4,-30.191613,114.990696,20150523,9:37:00,Jurien Bay,Fished,Sandy Cape,6.6,Meg,Unknown,Yes,Yes,General Use,North Head
+HRSPZS1-R1,-30.4195463,115.038403,20150521,13:35:00,Jurien Bay,No Take,Hill River,3.6,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+HRSPZS1-R2,-30.4212249,115.039301,20150521,15:20:00,Jurien Bay,No Take,Hill River,3.9,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+HRSPZS1-R3,-30.415291,115.038577,20150521,8:54:00,Jurien Bay,No Take,Hill River,3.1,Meg,Unknown,Yes,No,SP Scientific Reference,Hill River
+HRSPZS1-R4,-30.417511,115.038081,20150521,11:59:00,Jurien Bay,No Take,Hill River,3.8,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+HRSPZS2-R1,-30.43518,115.0355,20150521,9:41:00,Jurien Bay,No Take,Hill River,5.4,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+HRSPZS2-R2,-30.43735,115.035533,20150521,9:48:00,Jurien Bay,No Take,Hill River,0.6,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+HRSPZS2-R3,-30.4393308,115.035636,20150521,11:08:00,Jurien Bay,No Take,Hill River,5.7,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+HRSPZS2-R4,-30.4398484,115.033531,20150521,14:49:00,Jurien Bay,No Take,Hill River,5.5,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+HRSPZS3-R1,-30.4450666,114.998367,20150522,11:16:00,Jurien Bay,No Take,Hill River,8.5,Meg,Unknown,Yes,No,SP Scientific Reference,Hill River
+HRSPZS3-R2,-30.4494352,114.994969,20150522,2:31:00,Jurien Bay,No Take,Hill River,5.1,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+HRSPZS3-R3,-30.44847,114.99298,20150522,12:16:00,Jurien Bay,No Take,Hill River,8.4,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+HRSPZS3-R4,-30.4417166,114.998433,20150522,15:11:00,Jurien Bay,No Take,Hill River,8.5,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+HRSPZS4-R1,-30.4289695,115.002233,20150522,15:00:00,Jurien Bay,No Take,Hill River,5,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+HRSPZS4-R2,-30.4265567,115.002522,20150522,16:16:00,Jurien Bay,No Take,Hill River,3.9,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+HRSPZS4-R3,-30.4236051,115.0005,20150522,9:23:00,Jurien Bay,No Take,Hill River,7.7,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+HRSPZS4-R4,-30.4214,115.001933,20150522,12:26:00,Jurien Bay,No Take,Hill River,8.1,Meg,Unknown,Yes,No,SP Scientific Reference,Hill River
+JC10_JOIR10,-30.29762,115.02903,20150524,12:16:00,Jurien Bay,Fished,Jurien Bay,5,Meg,Unknown,Yes,Yes,General Use,Boullanger Island
+JC21_JOOR21,-30.29423,114.96625,20150522,15:15:00,Jurien Bay,Fished,Jurien Bay,11.3,Meg,Unknown,Yes,Yes,General Use,NA
+JC22_JROR22,-30.44597,114.99073,20150522,15:05:00,Jurien Bay,No Take,Jurien Bay,10,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+JC26_JRMR26,-30.44532,115.02077,20150521,15:00:00,Jurien Bay,No Take,Jurien Bay,6.6,Meg,Unknown,Yes,No,SP Scientific Reference,Hill River
+JC33_GRMR33,-30.14312,114.97332,20150523,13:34:00,Jurien Bay,No Take,Jurien Bay,3.2,Meg,Unknown,Yes,Yes,SP Scientific Reference,Fisherman Islands
+JC4_GOOR4,-30.12615,114.93702,20150523,13:43:00,Jurien Bay,Fished,Jurien Bay,11.9,Meg,Unknown,Yes,Yes,General Use,NA
+JV_013,-30.38805,114.99492,20150522,14:21:00,Jurien Bay,Fished,Essex Rocks,8.1,Meg,Unknown,Yes,Yes,General Use,Hill River
+JV_025,-30.47487,115.01943,20150521,14:25:00,Jurien Bay,Fished,Cervantes,6,Meg,Unknown,Yes,Yes,General Use,Hill River
+JV_027,-30.40835,115.00265,20150521,14:28:00,Jurien Bay,No Take,Jurien bay,6.4,Meg,Unknown,Yes,Yes,SP Scientific Reference,Hill River
+JV_031,-30.29003,114.97257,20150522,14:32:00,Jurien Bay,Fished,Jurien Bay,5.2,Meg,Unknown,Yes,Yes,General Use,NA
+JV_032,-30.26385,114.97448,20150522,14:12:00,Jurien Bay,Fished,Jurien Bay,7,Lizzy,Unknown,Yes,Yes,General Use,NA
+JV_034,-30.19588,114.9886,20150523,14:01:00,Jurien Bay,Fished,Sandy Cape,4.3,Meg,Unknown,Yes,Yes,General Use,North Head
+JV_046,-30.10392,114.94863,20150524,12:31:00,Jurien Bay,Fished,Jurien Bay,7.9,Meg,Unknown,Yes,Yes,General Use,Fisherman Islands
+NHSZS1-R1,-30.21523,114.99207,20150524,10:57:00,Jurien Bay,No Take,North Head,4.7,Lizzy,Unknown,Yes,Yes,Sanctuary,North Head
+NHSZS1-R2,-30.21775,114.9922,20150524,10:59:00,Jurien Bay,No Take,North Head,4.9,Damo,Unknown,Yes,No,Sanctuary,North Head
+NHSZS1-R3,-30.13761666,114.9921166,20150524,11:03:00,Jurien Bay,No Take,North Head,4.4,Lizzy,Unknown,Yes,Yes,Sanctuary,North Head
+NHSZS1-R4,-30.22428269,114.9923214,20150524,11:05:00,Jurien Bay,No Take,North Head,4.1,Lizzy,Unknown,Yes,Yes,Sanctuary,North Head
+NHSZS2-R1,-30.23234993,114.9990666,20150524,11:18:00,Jurien Bay,No Take,North Head,2.4,Damo,Unknown,Yes,Yes,Sanctuary,North Head
+NHSZS2-R2,-30.23003535,115.0029649,20150524,11:26:00,Jurien Bay,No Take,North Head,3.7,Lizzy,Unknown,Yes,Yes,Sanctuary,North Head
+NHSZS2-R3,-30.23263525,115.0104699,20150524,11:30:00,Jurien Bay,No Take,North Head,1.8,Lizzy,Unknown,Yes,Yes,Sanctuary,North Head
+PHSZS1-R1,-30.23359817,115.0172891,20150524,12:44:00,Jurien Bay,No Take,Pumpkin Hollow,1.9,Damo,Unknown,Yes,No,Sanctuary,Pumpkin Hollow
+PHSZS1-R2,-30.23581602,115.0181939,20150524,12:48:00,Jurien Bay,No Take,Pumpkin Hollow,2.9,Lauren,Unknown,Yes,Yes,Sanctuary,Pumpkin Hollow
+PHSZS1-R3,-30.23731981,115.0202345,20150524,12:53:00,Jurien Bay,No Take,Pumpkin Hollow,1.5,Lauren,Unknown,Yes,Yes,Sanctuary,Pumpkin Hollow
+PHSZS1-R4,-30.23931454,115.0227529,20150524,13:02:00,Jurien Bay,No Take,Pumpkin Hollow,1.2,Meg,Unknown,Yes,No,Sanctuary,Pumpkin Hollow

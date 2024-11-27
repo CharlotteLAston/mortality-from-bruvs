@@ -1,0 +1,258 @@
+Sample,Latitude,Longitude,Date,Time,Location,Status,Site,Successful.count,Successful.length,Depth,Observer,Transect_Length,DBCA_Zone,DBCA_Sanctuary
+B1-01,-21.83921,114.17564,20140822,11:00:00,Ningaloo Marine Park,Fished,B1,Yes,Yes,3.5,Nicole Ryan,50,Recreation,Bundegi
+B1-02,-21.83921,114.17564,20140822,11:00:00,Ningaloo Marine Park,Fished,B1,Yes,Yes,3.5,Nicole Ryan,50,Recreation,Bundegi
+B1-03,-21.83921,114.17564,20140822,11:00:00,Ningaloo Marine Park,Fished,B1,Yes,Yes,3.5,Nicole Ryan,50,Recreation,Bundegi
+B1-04,-21.83921,114.17564,20140822,11:00:00,Ningaloo Marine Park,Fished,B1,Yes,Yes,3.5,Nicole Ryan,50,Recreation,Bundegi
+B1-05,-21.83921,114.17564,20140822,11:00:00,Ningaloo Marine Park,Fished,B1,Yes,Yes,3.5,Nicole Ryan,50,Recreation,Bundegi
+B1-06,-21.83921,114.17564,20140822,11:00:00,Ningaloo Marine Park,Fished,B1,Yes,Yes,3.5,Nicole Ryan,50,Recreation,Bundegi
+B2-01,-21.856,114.16995,20140822,11:00:00,Ningaloo Marine Park,No-take,B2,Yes,Yes,5,Nicole Ryan,50,Sanctuary,Bundegi
+B2-02,-21.856,114.16995,20140822,11:00:00,Ningaloo Marine Park,No-take,B2,Yes,Yes,5,Nicole Ryan,50,Sanctuary,Bundegi
+B2-03,-21.856,114.16995,20140822,11:00:00,Ningaloo Marine Park,No-take,B2,Yes,Yes,5,Nicole Ryan,50,Sanctuary,Bundegi
+B2-04,-21.856,114.16995,20140822,11:00:00,Ningaloo Marine Park,No-take,B2,Yes,Yes,5,Nicole Ryan,50,Sanctuary,Bundegi
+B2-05,-21.856,114.16995,20140822,11:00:00,Ningaloo Marine Park,No-take,B2,Yes,Yes,5,Nicole Ryan,50,Sanctuary,Bundegi
+B2-06,-21.856,114.16995,20140822,11:00:00,Ningaloo Marine Park,No-take,B2,Yes,Yes,5,Nicole Ryan,50,Sanctuary,Bundegi
+B3-01,-21.86648,114.15926,20140822,11:00:00,Ningaloo Marine Park,No-take,B3,Yes,Yes,4,Nicole Ryan,50,Sanctuary,Bundegi
+B3-02,-21.86648,114.15926,20140822,11:00:00,Ningaloo Marine Park,No-take,B3,Yes,Yes,4,Nicole Ryan,50,Sanctuary,Bundegi
+B3-03,-21.86648,114.15926,20140822,11:00:00,Ningaloo Marine Park,No-take,B3,Yes,Yes,4,Nicole Ryan,50,Sanctuary,Bundegi
+B3-04,-21.86648,114.15926,20140822,11:00:00,Ningaloo Marine Park,No-take,B3,Yes,Yes,4,Nicole Ryan,50,Sanctuary,Bundegi
+B3-05,-21.86648,114.15926,20140822,11:00:00,Ningaloo Marine Park,No-take,B3,Yes,Yes,4,Nicole Ryan,50,Sanctuary,Bundegi
+B3-06,-21.86648,114.15926,20140822,11:00:00,Ningaloo Marine Park,No-take,B3,Yes,Yes,4,Nicole Ryan,50,Sanctuary,Bundegi
+B4-01,-21.83633,114.1777,20140822,11:00:00,Ningaloo Marine Park,Fished,B4,Yes,Yes,3.5,Nicole Ryan,50,Recreation,Bundegi
+B4-02,-21.83633,114.1777,20140822,11:00:00,Ningaloo Marine Park,Fished,B4,Yes,Yes,3.5,Nicole Ryan,50,Recreation,Bundegi
+B4-03,-21.83633,114.1777,20140822,11:00:00,Ningaloo Marine Park,Fished,B4,Yes,Yes,3.5,Nicole Ryan,50,Recreation,Bundegi
+B4-04,-21.83633,114.1777,20140822,11:00:00,Ningaloo Marine Park,Fished,B4,Yes,Yes,3.5,Nicole Ryan,50,Recreation,Bundegi
+B4-05,-21.83633,114.1777,20140822,11:00:00,Ningaloo Marine Park,Fished,B4,Yes,Yes,3.5,Nicole Ryan,50,Recreation,Bundegi
+B4-06,-21.83633,114.1777,20140822,11:00:00,Ningaloo Marine Park,Fished,B4,Yes,Yes,3.5,Nicole Ryan,50,Recreation,Bundegi
+CB1-01,-23.17701,113.75987,20140823,11:00:00,Ningaloo Marine Park,Fished,CB1,Yes,Yes,3,Nicole Ryan,50,Recreation,Coral Bay
+CB1-02,-23.17701,113.75987,20140823,11:00:00,Ningaloo Marine Park,Fished,CB1,Yes,Yes,3,Nicole Ryan,50,Recreation,Coral Bay
+CB1-03,-23.17701,113.75987,20140823,11:00:00,Ningaloo Marine Park,Fished,CB1,Yes,Yes,3,Nicole Ryan,50,Recreation,Coral Bay
+CB1-04,-23.17701,113.75987,20140823,11:00:00,Ningaloo Marine Park,Fished,CB1,Yes,Yes,3,Nicole Ryan,50,Recreation,Coral Bay
+CB1-05,-23.17701,113.75987,20140823,11:00:00,Ningaloo Marine Park,Fished,CB1,Yes,Yes,3,Nicole Ryan,50,Recreation,Coral Bay
+CB1-06,-23.17701,113.75987,20140823,11:00:00,Ningaloo Marine Park,Fished,CB1,Yes,Yes,3,Nicole Ryan,50,Recreation,Coral Bay
+CB2-01,-23.14517,113.76387,20140826,11:00:00,Ningaloo Marine Park,No-take,CB2,Yes,Yes,3,Nicole Ryan,50,Sanctuary,Coral Bay
+CB2-02,-23.14517,113.76387,20140826,11:00:00,Ningaloo Marine Park,No-take,CB2,Yes,Yes,3,Nicole Ryan,50,Sanctuary,Coral Bay
+CB2-03,-23.14517,113.76387,20140826,11:00:00,Ningaloo Marine Park,No-take,CB2,Yes,Yes,3,Nicole Ryan,50,Sanctuary,Coral Bay
+CB2-04,-23.14517,113.76387,20140826,11:00:00,Ningaloo Marine Park,No-take,CB2,Yes,Yes,3,Nicole Ryan,50,Sanctuary,Coral Bay
+CB2-05,-23.14517,113.76387,20140826,11:00:00,Ningaloo Marine Park,No-take,CB2,Yes,Yes,3,Nicole Ryan,50,Sanctuary,Coral Bay
+CB2-06,-23.14517,113.76387,20140826,11:00:00,Ningaloo Marine Park,No-take,CB2,Yes,Yes,3,Nicole Ryan,50,Sanctuary,Coral Bay
+CB3-01,-23.14875,113.75278,20140826,11:00:00,Ningaloo Marine Park,No-take,CB3,Yes,Yes,2.5,Nicole Ryan,50,Sanctuary,Coral Bay
+CB3-02,-23.14875,113.75278,20140826,11:00:00,Ningaloo Marine Park,No-take,CB3,Yes,Yes,2.5,Nicole Ryan,50,Sanctuary,Coral Bay
+CB3-03,-23.14875,113.75278,20140826,11:00:00,Ningaloo Marine Park,No-take,CB3,Yes,Yes,2.5,Nicole Ryan,50,Sanctuary,Coral Bay
+CB3-04,-23.14875,113.75278,20140826,11:00:00,Ningaloo Marine Park,No-take,CB3,Yes,Yes,2.5,Nicole Ryan,50,Sanctuary,Coral Bay
+CB3-05,-23.14875,113.75278,20140826,11:00:00,Ningaloo Marine Park,No-take,CB3,Yes,Yes,2.5,Nicole Ryan,50,Sanctuary,Coral Bay
+CB3-06,-23.14875,113.75278,20140826,11:00:00,Ningaloo Marine Park,No-take,CB3,Yes,Yes,2.5,Nicole Ryan,50,Sanctuary,Coral Bay
+CB4-01,-23.19949,113.76297,20140826,11:00:00,Ningaloo Marine Park,Fished,CB4,Yes,Yes,5,Nicole Ryan,50,Recreation,Coral Bay
+CB4-02,-23.19949,113.76297,20140826,11:00:00,Ningaloo Marine Park,Fished,CB4,Yes,Yes,5,Nicole Ryan,50,Recreation,Coral Bay
+CB4-03,-23.19949,113.76297,20140826,11:00:00,Ningaloo Marine Park,Fished,CB4,Yes,Yes,5,Nicole Ryan,50,Recreation,Coral Bay
+CB4-04,-23.19949,113.76297,20140826,11:00:00,Ningaloo Marine Park,Fished,CB4,Yes,Yes,5,Nicole Ryan,50,Recreation,Coral Bay
+CB4-05,-23.19949,113.76297,20140826,11:00:00,Ningaloo Marine Park,Fished,CB4,Yes,Yes,5,Nicole Ryan,50,Recreation,Coral Bay
+CB4-06,-23.19949,113.76297,20140826,11:00:00,Ningaloo Marine Park,Fished,CB4,Yes,Yes,5,Nicole Ryan,50,Recreation,Coral Bay
+CB5-01,-23.21458,113.76228,20140826,11:00:00,Ningaloo Marine Park,Fished,CB5,Yes,Yes,2,Nicole Ryan,50,Recreation,Coral Bay
+CB5-02,-23.21458,113.76228,20140826,11:00:00,Ningaloo Marine Park,Fished,CB5,Yes,Yes,2,Nicole Ryan,50,Recreation,Coral Bay
+CB5-03,-23.21458,113.76228,20140826,11:00:00,Ningaloo Marine Park,Fished,CB5,Yes,Yes,2,Nicole Ryan,50,Recreation,Coral Bay
+CB5-04,-23.21458,113.76228,20140826,11:00:00,Ningaloo Marine Park,Fished,CB5,Yes,Yes,2,Nicole Ryan,50,Recreation,Coral Bay
+CB5-05,-23.21458,113.76228,20140826,11:00:00,Ningaloo Marine Park,Fished,CB5,Yes,Yes,2,Nicole Ryan,50,Recreation,Coral Bay
+CB5-06,-23.21458,113.76228,20140826,11:00:00,Ningaloo Marine Park,Fished,CB5,Yes,Yes,2,Nicole Ryan,50,Recreation,Coral Bay
+CF1-01,-23.65255,113.60065,20140825,11:00:00,Ningaloo Marine Park,Fished,CF1,Yes,Yes,2,Nicole Ryan,50,Recreation,Cape Farquhar
+CF1-02,-23.65255,113.60065,20140825,11:00:00,Ningaloo Marine Park,Fished,CF1,Yes,Yes,2,Nicole Ryan,50,Recreation,Cape Farquhar
+CF1-03,-23.65255,113.60065,20140825,11:00:00,Ningaloo Marine Park,Fished,CF1,Yes,Yes,2,Nicole Ryan,50,Recreation,Cape Farquhar
+CF1-04,-23.65255,113.60065,20140825,11:00:00,Ningaloo Marine Park,Fished,CF1,Yes,Yes,2,Nicole Ryan,50,Recreation,Cape Farquhar
+CF1-05,-23.65255,113.60065,20140825,11:00:00,Ningaloo Marine Park,Fished,CF1,Yes,Yes,2,Nicole Ryan,50,Recreation,Cape Farquhar
+CF1-06,-23.65255,113.60065,20140825,11:00:00,Ningaloo Marine Park,Fished,CF1,Yes,Yes,2,Nicole Ryan,50,Recreation,Cape Farquhar
+CF2-01,-23.62978,113.61387,20140825,11:00:00,Ningaloo Marine Park,No-take,CF2,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cape Farquhar
+CF2-02,-23.62978,113.61387,20140825,11:00:00,Ningaloo Marine Park,No-take,CF2,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cape Farquhar
+CF2-03,-23.62978,113.61387,20140825,11:00:00,Ningaloo Marine Park,No-take,CF2,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cape Farquhar
+CF2-04,-23.62978,113.61387,20140825,11:00:00,Ningaloo Marine Park,No-take,CF2,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cape Farquhar
+CF2-05,-23.62978,113.61387,20140825,11:00:00,Ningaloo Marine Park,No-take,CF2,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cape Farquhar
+CF2-06,-23.62978,113.61387,20140825,11:00:00,Ningaloo Marine Park,No-take,CF2,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cape Farquhar
+CF3-01,-23.58848,113.64269,20140825,11:00:00,Ningaloo Marine Park,No-take,CF3,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cape Farquhar
+CF3-02,-23.58848,113.64269,20140825,11:00:00,Ningaloo Marine Park,No-take,CF3,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cape Farquhar
+CF3-03,-23.58848,113.64269,20140825,11:00:00,Ningaloo Marine Park,No-take,CF3,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cape Farquhar
+CF3-04,-23.58848,113.64269,20140825,11:00:00,Ningaloo Marine Park,No-take,CF3,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cape Farquhar
+CF3-05,-23.58848,113.64269,20140825,11:00:00,Ningaloo Marine Park,No-take,CF3,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cape Farquhar
+CF3-06,-23.58848,113.64269,20140825,11:00:00,Ningaloo Marine Park,No-take,CF3,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cape Farquhar
+CL1-01,-22.8695,113.76411,20140824,11:00:00,Ningaloo Marine Park,No-take,CL1,Yes,Yes,3,Nicole Ryan,50,Sanctuary,Cloates
+CL1-02,-22.8695,113.76411,20140824,11:00:00,Ningaloo Marine Park,No-take,CL1,Yes,Yes,3,Nicole Ryan,50,Sanctuary,Cloates
+CL1-03,-22.8695,113.76411,20140824,11:00:00,Ningaloo Marine Park,No-take,CL1,Yes,Yes,3,Nicole Ryan,50,Sanctuary,Cloates
+CL1-04,-22.8695,113.76411,20140824,11:00:00,Ningaloo Marine Park,No-take,CL1,Yes,Yes,3,Nicole Ryan,50,Sanctuary,Cloates
+CL1-05,-22.8695,113.76411,20140824,11:00:00,Ningaloo Marine Park,No-take,CL1,Yes,Yes,3,Nicole Ryan,50,Sanctuary,Cloates
+CL1-06,-22.8695,113.76411,20140824,11:00:00,Ningaloo Marine Park,No-take,CL1,Yes,Yes,3,Nicole Ryan,50,Sanctuary,Cloates
+CL2-01,-22.92786,113.77872,20140824,11:00:00,Ningaloo Marine Park,Fished,CL2,Yes,Yes,3,Nicole Ryan,50,Recreation,Cloates
+CL2-02,-22.92786,113.77872,20140824,11:00:00,Ningaloo Marine Park,Fished,CL2,Yes,Yes,3,Nicole Ryan,50,Recreation,Cloates
+CL2-03,-22.92786,113.77872,20140824,11:00:00,Ningaloo Marine Park,Fished,CL2,Yes,Yes,3,Nicole Ryan,50,Recreation,Cloates
+CL2-04,-22.92786,113.77872,20140824,11:00:00,Ningaloo Marine Park,Fished,CL2,Yes,Yes,3,Nicole Ryan,50,Recreation,Cloates
+CL2-05,-22.92786,113.77872,20140824,11:00:00,Ningaloo Marine Park,Fished,CL2,Yes,Yes,3,Nicole Ryan,50,Recreation,Cloates
+CL2-06,-22.92786,113.77872,20140824,11:00:00,Ningaloo Marine Park,Fished,CL2,Yes,Yes,3,Nicole Ryan,50,Recreation,Cloates
+CL3-01,-22.64138,113.62766,20140820,11:00:00,Ningaloo Marine Park,No-take,CL3,Yes,Yes,3,Todd Bond,50,Sanctuary,Cloates
+CL3-02,-22.64138,113.62766,20140820,11:00:00,Ningaloo Marine Park,No-take,CL3,Yes,Yes,3,Todd Bond,50,Sanctuary,Cloates
+CL3-03,-22.64138,113.62766,20140820,11:00:00,Ningaloo Marine Park,No-take,CL3,Yes,Yes,3,Todd Bond,50,Sanctuary,Cloates
+CL3-04,-22.64138,113.62766,20140820,11:00:00,Ningaloo Marine Park,No-take,CL3,Yes,Yes,3,Todd Bond,50,Sanctuary,Cloates
+CL3-05,-22.64138,113.62766,20140820,11:00:00,Ningaloo Marine Park,No-take,CL3,Yes,Yes,3,Todd Bond,50,Sanctuary,Cloates
+CL3-06,-22.64138,113.62766,20140820,11:00:00,Ningaloo Marine Park,No-take,CL3,Yes,Yes,3,Todd Bond,50,Sanctuary,Cloates
+CL4-01,-22.55429,113.65923,20140820,11:00:00,Ningaloo Marine Park,Fished,CL4,Yes,Yes,2,Nicole Ryan,50,Recreation,Cloates
+CL4-02,-22.55429,113.65923,20140820,11:00:00,Ningaloo Marine Park,Fished,CL4,Yes,Yes,2,Nicole Ryan,50,Recreation,Cloates
+CL4-03,-22.55429,113.65923,20140820,11:00:00,Ningaloo Marine Park,Fished,CL4,Yes,Yes,2,Nicole Ryan,50,Recreation,Cloates
+CL4-04,-22.55429,113.65923,20140820,11:00:00,Ningaloo Marine Park,Fished,CL4,Yes,Yes,2,Nicole Ryan,50,Recreation,Cloates
+CL4-05,-22.55429,113.65923,20140820,11:00:00,Ningaloo Marine Park,Fished,CL4,Yes,Yes,2,Nicole Ryan,50,Recreation,Cloates
+CL4-06,-22.55429,113.65923,20140820,11:00:00,Ningaloo Marine Park,Fished,CL4,Yes,Yes,2,Nicole Ryan,50,Recreation,Cloates
+CL5-01,-22.71045,113.65596,20140824,11:00:00,Ningaloo Marine Park,No-take,CL5,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cloates
+CL5-02,-22.71045,113.65596,20140824,11:00:00,Ningaloo Marine Park,No-take,CL5,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cloates
+CL5-03,-22.71045,113.65596,20140824,11:00:00,Ningaloo Marine Park,No-take,CL5,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cloates
+CL5-04,-22.71045,113.65596,20140824,11:00:00,Ningaloo Marine Park,No-take,CL5,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cloates
+CL5-05,-22.71045,113.65596,20140824,11:00:00,Ningaloo Marine Park,No-take,CL5,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cloates
+CL5-06,-22.71045,113.65596,20140824,11:00:00,Ningaloo Marine Park,No-take,CL5,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Cloates
+L1-01,-21.79904,114.12791,20140902,11:00:00,Ningaloo Marine Park,Fished,L1,Yes,Yes,12,Todd,50,Recreation,Lighthouse
+L1-02,-21.79904,114.12791,20140902,11:00:00,Ningaloo Marine Park,Fished,L1,Yes,Yes,12,Todd,50,Recreation,Lighthouse
+L1-03,-21.79904,114.12791,20140902,11:00:00,Ningaloo Marine Park,Fished,L1,Yes,Yes,12,Todd,50,Recreation,Lighthouse
+L1-04,-21.79904,114.12791,20140902,11:00:00,Ningaloo Marine Park,Fished,L1,Yes,Yes,12,Todd,50,Recreation,Lighthouse
+L1-05,-21.79904,114.12791,20140902,11:00:00,Ningaloo Marine Park,Fished,L1,Yes,Yes,12,Todd,50,Recreation,Lighthouse
+L1-06,-21.79904,114.12791,20140902,11:00:00,Ningaloo Marine Park,Fished,L1,Yes,Yes,12,Todd,50,Recreation,Lighthouse
+L2-01,-21.79652,114.13527,20140902,11:00:00,Ningaloo Marine Park,No-take,L2,Yes,Yes,11,Todd/Nicole,50,Sanctuary,Lighthouse
+L2-02,-21.79652,114.13527,20140902,11:00:00,Ningaloo Marine Park,No-take,L2,Yes,Yes,11,Todd/Nicole,50,Sanctuary,Lighthouse
+L2-03,-21.79652,114.13527,20140902,11:00:00,Ningaloo Marine Park,No-take,L2,Yes,Yes,11,Todd/Nicole,50,Sanctuary,Lighthouse
+L2-04,-21.79652,114.13527,20140902,11:00:00,Ningaloo Marine Park,No-take,L2,Yes,Yes,11,Todd/Nicole,50,Sanctuary,Lighthouse
+L2-05,-21.79652,114.13527,20140902,11:00:00,Ningaloo Marine Park,No-take,L2,Yes,Yes,11,Todd/Nicole,50,Sanctuary,Lighthouse
+L2-06,-21.79652,114.13527,20140902,11:00:00,Ningaloo Marine Park,No-take,L2,Yes,Yes,11,Todd/Nicole,50,Sanctuary,Lighthouse
+L3-01,-21.79915,114.17612,20140818,11:00:00,Ningaloo Marine Park,Fished,L3,Yes,Yes,3,Nicole Ryan,50,Recreation,Lighthouse
+L3-02,-21.79915,114.17612,20140818,11:00:00,Ningaloo Marine Park,Fished,L3,Yes,Yes,3,Nicole Ryan,50,Recreation,Lighthouse
+L3-03,-21.79915,114.17612,20140818,11:00:00,Ningaloo Marine Park,Fished,L3,Yes,Yes,3,Nicole Ryan,50,Recreation,Lighthouse
+L3-04,-21.79915,114.17612,20140818,11:00:00,Ningaloo Marine Park,Fished,L3,Yes,Yes,3,Nicole Ryan,50,Recreation,Lighthouse
+L3-05,-21.79915,114.17612,20140818,11:00:00,Ningaloo Marine Park,Fished,L3,Yes,Yes,3,Nicole Ryan,50,Recreation,Lighthouse
+L3-06,-21.79915,114.17612,20140818,11:00:00,Ningaloo Marine Park,Fished,L3,Yes,Yes,3,Nicole Ryan,50,Recreation,Lighthouse
+L4-01,-21.78184,114.15656,20140818,11:00:00,Ningaloo Marine Park,No-take,L4,Yes,Yes,5,Nicole Ryan,50,Sanctuary,Lighthouse
+L4-02,-21.78184,114.15656,20140818,11:00:00,Ningaloo Marine Park,No-take,L4,Yes,Yes,5,Nicole Ryan,50,Sanctuary,Lighthouse
+L4-03,-21.78184,114.15656,20140818,11:00:00,Ningaloo Marine Park,No-take,L4,Yes,Yes,5,Nicole Ryan,50,Sanctuary,Lighthouse
+L4-04,-21.78184,114.15656,20140818,11:00:00,Ningaloo Marine Park,No-take,L4,Yes,Yes,5,Nicole Ryan,50,Sanctuary,Lighthouse
+L4-05,-21.78184,114.15656,20140818,11:00:00,Ningaloo Marine Park,No-take,L4,Yes,Yes,5,Nicole Ryan,50,Sanctuary,Lighthouse
+L4-06,-21.78184,114.15656,20140818,11:00:00,Ningaloo Marine Park,No-take,L4,Yes,Yes,5,Nicole Ryan,50,Sanctuary,Lighthouse
+M1-01,-22.10341,113.88142,20140819,11:00:00,Ningaloo Marine Park,No-take,M1,Yes,Yes,3,Ryan D,50,Sanctuary,Mandu
+M1-02,-22.10341,113.88142,20140819,11:00:00,Ningaloo Marine Park,No-take,M1,Yes,Yes,3,Ryan D,50,Sanctuary,Mandu
+M1-03,-22.10341,113.88142,20140819,11:00:00,Ningaloo Marine Park,No-take,M1,Yes,Yes,3,Ryan D,50,Sanctuary,Mandu
+M1-04,-22.10341,113.88142,20140819,11:00:00,Ningaloo Marine Park,No-take,M1,Yes,Yes,3,Ryan D,50,Sanctuary,Mandu
+M1-05,-22.10341,113.88142,20140819,11:00:00,Ningaloo Marine Park,No-take,M1,Yes,Yes,3,Ryan D,50,Sanctuary,Mandu
+M1-06,-22.10341,113.88142,20140819,11:00:00,Ningaloo Marine Park,No-take,M1,Yes,Yes,3,Ryan D,50,Sanctuary,Mandu
+M2-01,-22.08061,113.89336,20140819,11:00:00,Ningaloo Marine Park,No-take,M2,Yes,Yes,3,Todd Bond,50,Sanctuary,Mandu
+M2-02,-22.08061,113.89336,20140819,11:00:00,Ningaloo Marine Park,No-take,M2,Yes,Yes,3,Todd Bond,50,Sanctuary,Mandu
+M2-03,-22.08061,113.89336,20140819,11:00:00,Ningaloo Marine Park,No-take,M2,Yes,Yes,3,Todd Bond,50,Sanctuary,Mandu
+M2-04,-22.08061,113.89336,20140819,11:00:00,Ningaloo Marine Park,No-take,M2,Yes,Yes,3,Todd Bond,50,Sanctuary,Mandu
+M2-05,-22.08061,113.89336,20140819,11:00:00,Ningaloo Marine Park,No-take,M2,Yes,Yes,3,Todd Bond,50,Sanctuary,Mandu
+M2-06,-22.08061,113.89336,20140819,11:00:00,Ningaloo Marine Park,No-take,M2,Yes,Yes,3,Todd Bond,50,Sanctuary,Mandu
+M3-01,-22.05195,113.89831,20140819,11:00:00,Ningaloo Marine Park,Fished,M3,Yes,Yes,5,Ryan D,50,Recreation,Mandu
+M3-02,-22.05195,113.89831,20140819,11:00:00,Ningaloo Marine Park,Fished,M3,Yes,Yes,5,Ryan D,50,Recreation,Mandu
+M3-03,-22.05195,113.89831,20140819,11:00:00,Ningaloo Marine Park,Fished,M3,Yes,Yes,5,Ryan D,50,Recreation,Mandu
+M3-04,-22.05195,113.89831,20140819,11:00:00,Ningaloo Marine Park,Fished,M3,Yes,Yes,5,Ryan D,50,Recreation,Mandu
+M3-05,-22.05195,113.89831,20140819,11:00:00,Ningaloo Marine Park,Fished,M3,Yes,Yes,5,Ryan D,50,Recreation,Mandu
+M3-06,-22.05195,113.89831,20140819,11:00:00,Ningaloo Marine Park,Fished,M3,Yes,Yes,5,Ryan D,50,Recreation,Mandu
+MB1-01,-21.96544,113.92226,20140817,11:00:00,Ningaloo Marine Park,No-take,MB1,Yes,Yes,2,Ryan D,50,Sanctuary,Mangrove
+MB1-02,-21.96544,113.92226,20140817,11:00:00,Ningaloo Marine Park,No-take,MB1,Yes,Yes,2,Ryan D,50,Sanctuary,Mangrove
+MB1-03,-21.96544,113.92226,20140817,11:00:00,Ningaloo Marine Park,No-take,MB1,Yes,Yes,2,Ryan D,50,Sanctuary,Mangrove
+MB1-04,-21.96544,113.92226,20140817,11:00:00,Ningaloo Marine Park,No-take,MB1,Yes,Yes,2,Ryan D,50,Sanctuary,Mangrove
+MB1-05,-21.96544,113.92226,20140817,11:00:00,Ningaloo Marine Park,No-take,MB1,Yes,Yes,2,Ryan D,50,Sanctuary,Mangrove
+MB1-06,-21.96544,113.92226,20140817,11:00:00,Ningaloo Marine Park,No-take,MB1,Yes,Yes,2,Ryan D,50,Sanctuary,Mangrove
+MB2-01,-21.99948,113.91345,20140817,11:00:00,Ningaloo Marine Park,Fished,MB2,Yes,Yes,2,Ryan D,50,Recreation,Mangrove
+MB2-02,-21.99948,113.91345,20140817,11:00:00,Ningaloo Marine Park,Fished,MB2,Yes,Yes,2,Ryan D,50,Recreation,Mangrove
+MB2-03,-21.99948,113.91345,20140817,11:00:00,Ningaloo Marine Park,Fished,MB2,Yes,Yes,2,Ryan D,50,Recreation,Mangrove
+MB2-04,-21.99948,113.91345,20140817,11:00:00,Ningaloo Marine Park,Fished,MB2,Yes,Yes,2,Ryan D,50,Recreation,Mangrove
+MB2-05,-21.99948,113.91345,20140817,11:00:00,Ningaloo Marine Park,Fished,MB2,Yes,Yes,2,Ryan D,50,Recreation,Mangrove
+MB2-06,-21.99948,113.91345,20140817,11:00:00,Ningaloo Marine Park,Fished,MB2,Yes,Yes,2,Ryan D,50,Recreation,Mangrove
+MB3-01,-21.9314,113.94476,20140821,11:00:00,Ningaloo Marine Park,Fished,MB3,Yes,Yes,4,Ryan D,50,Recreation,Mangrove
+MB3-02,-21.9314,113.94476,20140821,11:00:00,Ningaloo Marine Park,Fished,MB3,Yes,Yes,4,Ryan D,50,Recreation,Mangrove
+MB3-03,-21.9314,113.94476,20140821,11:00:00,Ningaloo Marine Park,Fished,MB3,Yes,Yes,4,Ryan D,50,Recreation,Mangrove
+MB3-04,-21.9314,113.94476,20140821,11:00:00,Ningaloo Marine Park,Fished,MB3,Yes,Yes,4,Ryan D,50,Recreation,Mangrove
+MB3-05,-21.9314,113.94476,20140821,11:00:00,Ningaloo Marine Park,Fished,MB3,Yes,Yes,4,Ryan D,50,Recreation,Mangrove
+MB3-06,-21.9314,113.94476,20140821,11:00:00,Ningaloo Marine Park,Fished,MB3,Yes,Yes,4,Ryan D,50,Recreation,Mangrove
+MB4-01,-21.95164,113.93959,20140817,11:00:00,Ningaloo Marine Park,No-take,MB4,Yes,Yes,4,Ryan D,50,Sanctuary,Mangrove
+MB4-02,-21.95164,113.93959,20140817,11:00:00,Ningaloo Marine Park,No-take,MB4,Yes,Yes,4,Ryan D,50,Sanctuary,Mangrove
+MB4-03,-21.95164,113.93959,20140817,11:00:00,Ningaloo Marine Park,No-take,MB4,Yes,Yes,4,Ryan D,50,Sanctuary,Mangrove
+MB4-04,-21.95164,113.93959,20140817,11:00:00,Ningaloo Marine Park,No-take,MB4,Yes,Yes,4,Nicole Ryan,50,Sanctuary,Mangrove
+MB4-05,-21.95164,113.93959,20140817,11:00:00,Ningaloo Marine Park,No-take,MB4,Yes,Yes,4,Nicole Ryan,50,Sanctuary,Mangrove
+MB5-01,-21.95062,113.92059,20140817,11:00:00,Ningaloo Marine Park,No-take,MB5,Yes,Yes,2,Todd Bond,50,Sanctuary,Mangrove
+MB5-02,-21.95062,113.92059,20140817,11:00:00,Ningaloo Marine Park,No-take,MB5,Yes,Yes,2,Todd Bond,50,Sanctuary,Mangrove
+MB5-03,-21.95062,113.92059,20140817,11:00:00,Ningaloo Marine Park,No-take,MB5,Yes,Yes,2,Todd Bond,50,Sanctuary,Mangrove
+MB5-04,-21.95062,113.92059,20140817,11:00:00,Ningaloo Marine Park,No-take,MB5,Yes,Yes,2,Todd Bond,50,Sanctuary,Mangrove
+MB5-05,-21.95062,113.92059,20140817,11:00:00,Ningaloo Marine Park,No-take,MB5,Yes,Yes,2,Todd Bond,50,Sanctuary,Mangrove
+MB5-06,-21.95062,113.92059,20140817,11:00:00,Ningaloo Marine Park,No-take,MB5,Yes,Yes,2,Todd Bond,50,Sanctuary,Mangrove
+MI1-01,-21.63678,114.39077,20140821,11:00:00,Ningaloo Marine Park,Fished,MI1,Yes,Yes,4,Nicole Ryan,50,Recreation,North Muiron
+MI1-02,-21.63678,114.39077,20140821,11:00:00,Ningaloo Marine Park,Fished,MI1,Yes,Yes,4,Nicole Ryan,50,Recreation,North Muiron
+MI1-03,-21.63678,114.39077,20140821,11:00:00,Ningaloo Marine Park,Fished,MI1,Yes,Yes,4,Nicole Ryan,50,Recreation,North Muiron
+MI1-04,-21.63678,114.39077,20140821,11:00:00,Ningaloo Marine Park,Fished,MI1,Yes,Yes,4,Nicole Ryan,50,Recreation,North Muiron
+MI1-05,-21.63678,114.39077,20140821,11:00:00,Ningaloo Marine Park,Fished,MI1,Yes,Yes,4,Nicole Ryan,50,Recreation,North Muiron
+MI1-06,-21.63678,114.39077,20140821,11:00:00,Ningaloo Marine Park,Fished,MI1,Yes,Yes,4,Nicole Ryan,50,Recreation,North Muiron
+MI2-01,-21.65079,114.37691,20140821,11:00:00,Ningaloo Marine Park,No-take,MI2,Yes,Yes,3.5,Nicole Ryan,50,Sanctuary,North Muiron
+MI2-02,-21.65079,114.37691,20140821,11:00:00,Ningaloo Marine Park,No-take,MI2,Yes,Yes,3.5,Nicole Ryan,50,Sanctuary,North Muiron
+MI2-03,-21.65079,114.37691,20140821,11:00:00,Ningaloo Marine Park,No-take,MI2,Yes,Yes,3.5,Nicole Ryan,50,Sanctuary,North Muiron
+MI2-04,-21.65079,114.37691,20140821,11:00:00,Ningaloo Marine Park,No-take,MI2,Yes,Yes,3.5,Nicole Ryan,50,Sanctuary,North Muiron
+MI2-05,-21.65079,114.37691,20140821,11:00:00,Ningaloo Marine Park,No-take,MI2,Yes,Yes,3.5,Nicole Ryan,50,Sanctuary,North Muiron
+MI2-06,-21.65079,114.37691,20140821,11:00:00,Ningaloo Marine Park,No-take,MI2,Yes,Yes,3.5,Nicole Ryan,50,Sanctuary,North Muiron
+MI3-01,-21.66043,114.3735,20140821,11:00:00,Ningaloo Marine Park,No-take,MI3,Yes,Yes,5,Nicole Ryan,50,Sanctuary,North Muiron
+MI3-02,-21.66043,114.3735,20140821,11:00:00,Ningaloo Marine Park,No-take,MI3,Yes,Yes,5,Nicole Ryan,50,Sanctuary,North Muiron
+MI3-03,-21.66043,114.3735,20140821,11:00:00,Ningaloo Marine Park,No-take,MI3,Yes,Yes,5,Nicole Ryan,50,Sanctuary,North Muiron
+MI3-04,-21.66043,114.3735,20140821,11:00:00,Ningaloo Marine Park,No-take,MI3,Yes,Yes,5,Nicole Ryan,50,Sanctuary,North Muiron
+MI3-05,-21.66043,114.3735,20140821,11:00:00,Ningaloo Marine Park,No-take,MI3,Yes,Yes,5,Nicole Ryan,50,Sanctuary,North Muiron
+MI3-06,-21.66043,114.3735,20140821,11:00:00,Ningaloo Marine Park,No-take,MI3,Yes,Yes,5,Nicole Ryan,50,Sanctuary,North Muiron
+MI4-01,-21.67022,114.35251,20140821,11:00:00,Ningaloo Marine Park,Fished,MI4,Yes,Yes,5,Nicole Ryan,50,Recreation,North Muiron
+MI4-02,-21.67022,114.35251,20140821,11:00:00,Ningaloo Marine Park,Fished,MI4,Yes,Yes,5,Nicole Ryan,50,Recreation,North Muiron
+MI4-03,-21.67022,114.35251,20140821,11:00:00,Ningaloo Marine Park,Fished,MI4,Yes,Yes,5,Nicole Ryan,50,Recreation,North Muiron
+MI4-04,-21.67022,114.35251,20140821,11:00:00,Ningaloo Marine Park,Fished,MI4,Yes,Yes,5,Nicole Ryan,50,Recreation,North Muiron
+MI4-05,-21.67022,114.35251,20140821,11:00:00,Ningaloo Marine Park,Fished,MI4,Yes,Yes,5,Nicole Ryan,50,Recreation,North Muiron
+MI4-06,-21.67022,114.35251,20140821,11:00:00,Ningaloo Marine Park,Fished,MI4,Yes,Yes,5,Nicole Ryan,50,Recreation,North Muiron
+O1-01,-22.28751,113.81079,20140820,11:00:00,Ningaloo Marine Park,No-take,O1,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Osprey
+O1-02,-22.28751,113.81079,20140820,11:00:00,Ningaloo Marine Park,No-take,O1,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Osprey
+O1-03,-22.28751,113.81079,20140820,11:00:00,Ningaloo Marine Park,No-take,O1,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Osprey
+O1-04,-22.28751,113.81079,20140820,11:00:00,Ningaloo Marine Park,No-take,O1,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Osprey
+O1-05,-22.28751,113.81079,20140820,11:00:00,Ningaloo Marine Park,No-take,O1,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Osprey
+O1-06,-22.28751,113.81079,20140820,11:00:00,Ningaloo Marine Park,No-take,O1,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Osprey
+O3-01,-22.22635,113.83485,20140819,11:00:00,Ningaloo Marine Park,No-take,O3,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Osprey
+O3-02,-22.22635,113.83485,20140819,11:00:00,Ningaloo Marine Park,No-take,O3,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Osprey
+O3-03,-22.22635,113.83485,20140819,11:00:00,Ningaloo Marine Park,No-take,O3,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Osprey
+O3-04,-22.22635,113.83485,20140819,11:00:00,Ningaloo Marine Park,No-take,O3,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Osprey
+O3-05,-22.22635,113.83485,20140819,11:00:00,Ningaloo Marine Park,No-take,O3,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Osprey
+O3-06,-22.22635,113.83485,20140819,11:00:00,Ningaloo Marine Park,No-take,O3,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Osprey
+O4-01,-22.20492,113.84399,20140819,11:00:00,Ningaloo Marine Park,Fished,O4,Yes,Yes,2,Nicole Ryan,50,Recreation,Osprey
+O4-02,-22.20492,113.84399,20140819,11:00:00,Ningaloo Marine Park,Fished,O4,Yes,Yes,2,Nicole Ryan,50,Recreation,Osprey
+O4-03,-22.20492,113.84399,20140819,11:00:00,Ningaloo Marine Park,Fished,O4,Yes,Yes,2,Nicole Ryan,50,Recreation,Osprey
+O4-04,-22.20492,113.84399,20140819,11:00:00,Ningaloo Marine Park,Fished,O4,Yes,Yes,2,Nicole Ryan,50,Recreation,Osprey
+O4-05,-22.20492,113.84399,20140819,11:00:00,Ningaloo Marine Park,Fished,O4,Yes,Yes,2,Nicole Ryan,50,Recreation,Osprey
+O4-06,-22.20492,113.84399,20140819,11:00:00,Ningaloo Marine Park,Fished,O4,Yes,Yes,2,Nicole Ryan,50,Recreation,Osprey
+P1-01,-23.32832,113.78085,20140825,11:00:00,Ningaloo Marine Park,No-take,P1,Yes,Yes,2.5,Todd Bond,50,Sanctuary,Pelican
+P1-02,-23.32832,113.78085,20140825,11:00:00,Ningaloo Marine Park,No-take,P1,Yes,Yes,2.5,Todd Bond,50,Sanctuary,Pelican
+P1-03,-23.32832,113.78085,20140825,11:00:00,Ningaloo Marine Park,No-take,P1,Yes,Yes,2.5,Todd Bond,50,Sanctuary,Pelican
+P1-04,-23.32832,113.78085,20140825,11:00:00,Ningaloo Marine Park,No-take,P1,Yes,Yes,2.5,Todd Bond,50,Sanctuary,Pelican
+P1-05,-23.32832,113.78085,20140825,11:00:00,Ningaloo Marine Park,No-take,P1,Yes,Yes,2.5,Todd Bond,50,Sanctuary,Pelican
+P1-06,-23.32832,113.78085,20140825,11:00:00,Ningaloo Marine Park,No-take,P1,Yes,Yes,2.5,Todd Bond,50,Sanctuary,Pelican
+P2-01,-23.31876,113.78,20140825,11:00:00,Ningaloo Marine Park,No-take,P2,Yes,Yes,2.5,Nicole Ryan,50,Sanctuary,Pelican
+P2-02,-23.31876,113.78,20140825,11:00:00,Ningaloo Marine Park,No-take,P2,Yes,Yes,2.5,Nicole Ryan,50,Sanctuary,Pelican
+P2-03,-23.31876,113.78,20140825,11:00:00,Ningaloo Marine Park,No-take,P2,Yes,Yes,2.5,Nicole Ryan,50,Sanctuary,Pelican
+P2-04,-23.31876,113.78,20140825,11:00:00,Ningaloo Marine Park,No-take,P2,Yes,Yes,2.5,Nicole Ryan,50,Sanctuary,Pelican
+P2-05,-23.31876,113.78,20140825,11:00:00,Ningaloo Marine Park,No-take,P2,Yes,Yes,2.5,Nicole Ryan,50,Sanctuary,Pelican
+P2-06,-23.31876,113.78,20140825,11:00:00,Ningaloo Marine Park,No-take,P2,Yes,Yes,2.5,Nicole Ryan,50,Sanctuary,Pelican
+P3-01,-23.23191,113.76211,20140826,11:00:00,Ningaloo Marine Park,Fished,P3,Yes,Yes,3,Nicole Ryan,50,Recreation,Pelican
+P3-02,-23.23191,113.76211,20140826,11:00:00,Ningaloo Marine Park,Fished,P3,Yes,Yes,3,Nicole Ryan,50,Recreation,Pelican
+P3-03,-23.23191,113.76211,20140826,11:00:00,Ningaloo Marine Park,Fished,P3,Yes,Yes,3,Nicole Ryan,50,Recreation,Pelican
+P3-04,-23.23191,113.76211,20140826,11:00:00,Ningaloo Marine Park,Fished,P3,Yes,Yes,3,Nicole Ryan,50,Recreation,Pelican
+P3-05,-23.23191,113.76211,20140826,11:00:00,Ningaloo Marine Park,Fished,P3,Yes,Yes,3,Nicole Ryan,50,Recreation,Pelican
+P3-06,-23.23191,113.76211,20140826,11:00:00,Ningaloo Marine Park,Fished,P3,Yes,Yes,3,Nicole Ryan,50,Recreation,Pelican
+T1-01,-21.90432,113.9684,20140817,11:00:00,Ningaloo Marine Park,Fished,T1,Yes,Yes,4,Nicole Ryan,50,Recreation,Tantabiddi
+T1-02,-21.90432,113.9684,20140817,11:00:00,Ningaloo Marine Park,Fished,T1,Yes,Yes,4,Nicole Ryan,50,Recreation,Tantabiddi
+T1-03,-21.90432,113.9684,20140817,11:00:00,Ningaloo Marine Park,Fished,T1,Yes,Yes,4,Nicole Ryan,50,Recreation,Tantabiddi
+T1-04,-21.90432,113.9684,20140817,11:00:00,Ningaloo Marine Park,Fished,T1,Yes,Yes,4,Nicole Ryan,50,Recreation,Tantabiddi
+T1-05,-21.90432,113.9684,20140817,11:00:00,Ningaloo Marine Park,Fished,T1,Yes,Yes,4,Nicole Ryan,50,Recreation,Tantabiddi
+T1-06,-21.90432,113.9684,20140817,11:00:00,Ningaloo Marine Park,Fished,T1,Yes,Yes,4,Nicole Ryan,50,Recreation,Tantabiddi
+T2-01,-21.90879,113.96397,20140817,11:00:00,Ningaloo Marine Park,No-take,T2,Yes,Yes,3.5,Nicole Ryan,50,Sanctuary,Tantabiddi
+T2-02,-21.90879,113.96397,20140817,11:00:00,Ningaloo Marine Park,No-take,T2,Yes,Yes,3.5,Nicole Ryan,50,Sanctuary,Tantabiddi
+T2-03,-21.90879,113.96397,20140817,11:00:00,Ningaloo Marine Park,No-take,T2,Yes,Yes,3.5,Nicole Ryan,50,Sanctuary,Tantabiddi
+T2-04,-21.90879,113.96397,20140817,11:00:00,Ningaloo Marine Park,No-take,T2,Yes,Yes,3.5,Nicole Ryan,50,Sanctuary,Tantabiddi
+T2-05,-21.90879,113.96397,20140817,11:00:00,Ningaloo Marine Park,No-take,T2,Yes,Yes,3.5,Nicole Ryan,50,Sanctuary,Tantabiddi
+T2-06,-21.90879,113.96397,20140817,11:00:00,Ningaloo Marine Park,No-take,T2,Yes,Yes,3.5,Nicole Ryan,50,Sanctuary,Tantabiddi
+W1-01,-22.48597,113.70692,20140820,11:00:00,Ningaloo Marine Park,No-take,W1,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Winderabandi
+W1-02,-22.48597,113.70692,20140820,11:00:00,Ningaloo Marine Park,No-take,W1,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Winderabandi
+W1-03,-22.48597,113.70692,20140820,11:00:00,Ningaloo Marine Park,No-take,W1,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Winderabandi
+W1-04,-22.48597,113.70692,20140820,11:00:00,Ningaloo Marine Park,No-take,W1,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Winderabandi
+W1-05,-22.48597,113.70692,20140820,11:00:00,Ningaloo Marine Park,No-take,W1,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Winderabandi
+W1-06,-22.48597,113.70692,20140820,11:00:00,Ningaloo Marine Park,No-take,W1,Yes,Yes,2,Nicole Ryan,50,Sanctuary,Winderabandi
+W2-01,-22.36853,113.75797,20140820,11:00:00,Ningaloo Marine Park,Fished,W2,Yes,Yes,2,Nicole Ryan,50,Recreation,Winderabandi
+W2-02,-22.36853,113.75797,20140820,11:00:00,Ningaloo Marine Park,Fished,W2,Yes,Yes,2,Nicole Ryan,50,Recreation,Winderabandi
+W2-03,-22.36853,113.75797,20140820,11:00:00,Ningaloo Marine Park,Fished,W2,Yes,Yes,2,Nicole Ryan,50,Recreation,Winderabandi
+W2-04,-22.36853,113.75797,20140820,11:00:00,Ningaloo Marine Park,Fished,W2,Yes,Yes,2,Nicole Ryan,50,Recreation,Winderabandi
+W2-05,-22.36853,113.75797,20140820,11:00:00,Ningaloo Marine Park,Fished,W2,Yes,Yes,2,Nicole Ryan,50,Recreation,Winderabandi
+W2-06,-22.36853,113.75797,20140820,11:00:00,Ningaloo Marine Park,Fished,W2,Yes,Yes,2,Nicole Ryan,50,Recreation,Winderabandi

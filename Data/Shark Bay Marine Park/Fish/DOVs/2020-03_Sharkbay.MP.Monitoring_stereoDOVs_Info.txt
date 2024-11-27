@@ -1,0 +1,9 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+SBMP_20200317_SB204_DOV	Damon	4		Latitude	-24.80628	Longitude	113.16649	Date	20200317	Time	15:00	Location	Shark Bay	Site	SB204	Cameras	DOV L102/R103		
+SBMP_20200318_SB202_DOV	Damon	6		Latitude	-25.12671	Longitude	113.1129	Date	20200318	Time	09:15	Location	Shark Bay	Site	SB202	Cameras	DOV L102/R103		
+SBMP_20200318_SBTurtle_DOV	Damon	6		Latitude	-25.4863	Longitude	112.97813	Date	20200318	Time	15:00	Location	Shark Bay	Site	SBTurtle	Cameras	DOV L102/R103		
+SBMP_20200319_SBSPT_DOV	Damon	4		Latitude	-25.72378	Longitude	113.09111	Date	20200319	Time	08:40	Location	Shark Bay	Site	SBSPT	Cameras	DOV L102/R103		
+SBMP_20200319_SBEgg_DOV	Damon	4		Latitude	-25.8978	Longitude	113.1552	Date	20200319	Time	14:15	Location	Shark Bay	Site	SBEgg	Cameras	DOV L102/R103		
+SBMP_20200320_SBShelter_DOV	Damon	4		Latitude	-26.15306	Longitude	113.17542	Date	20200320	Time	07:30	Location	Shark Bay	Site	SBShelter	Cameras	DOV L102/R103		
+SBMP_20200320_SBHSTD_DOV	Damon	4		Latitude	-25.98036	Longitude	113.19049	Date	20200320	Time	10:10	Location	Shark Bay	Site	SBHSTD	Cameras	DOV L102/R103		
+SBMP_20200324_SBBFlat_DOV	Damon	4		Latitude	-25.85155	Longitude	113.34877	Date	20200324	Time	10:15	Location	Shark Bay	Site	SBBFlat	Cameras	DOV L102/R103		

@@ -1,0 +1,25 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+JMP-S1	Damon			Location	JMP	Date	20210428	Time	8:51:00	Latitude	-30.23186684	Longitude	114.9987335	Cameras	L41_R41				
+JMP-S10	Sarah			Location	JMP	Date	20210505	Time	11:22:13	Latitude	-30.2645	Longitude	114.975	Cameras		info11		info12	
+JMP-S14	Sarah			Location	JMP	Date	20210429	Time	08:57:39	Latitude	-30.15686607	Longitude	114.9954987	Cameras		info11		info12	
+JMP-S15	Sarah			Location	JMP	Date	20210502	Time	08:45:07	Latitude	-30.15678406	Longitude	114.9668503	Cameras		info11		info12	
+JMP-S18	Damon			Location	JMP	Date	20210518	Time	9:08:00	Latitude	-30.75415039	Longitude	115.1695633	Cameras	ROVL_R				
+JMP-S22	Damon			Location	JMP	Date	20210517	Time	14:59:00	Latitude	-30.58995056	Longitude	115.0648193	Cameras	ROVL_R				
+JMP-S23	Sarah			Location	JMP	Date	20210517	Time	07:57:34	Latitude	-30.48513413	Longitude	115.0299835	Cameras		info11		info12	
+JMP-S24	Sarah			Location	JMP	Date	20210501	Time	14:53:52	Latitude	-30.43518257	Longitude	115.0354996	Cameras		info11		info12	
+JMP-S25	Sarah			Location	JMP	Date	20210502	Time	10:03:15	Latitude	-30.12073326	Longitude	114.9536514	Cameras		info11		info12	
+JMP-S26	Damon			Location	JMP	Date	20210518	Time	14:31:00	Latitude	-30.68143272	Longitude	115.0954819	Cameras	ROVL_R				
+JMP-S28	Damon			Location	JMP	Date	20210517	Time	13:56:00	Latitude	-30.58913422	Longitude	115.0488663	Cameras	ROVL_R				
+JMP-S3	Sarah			Location	JMP	Date	20210501	Time	13:42:00	Latitude	-30.42141724	Longitude	115.0019302	Cameras		info11		info12	
+JMP-S30	Damon			Location	JMP	Date	20210518	Time	15:32:00	Latitude	-30.64620018	Longitude	115.1239014	Cameras	ROVL_R				
+JMP-S33	Sarah			Location	JMP	Date	20210517	Time	09:23:00	Latitude	-30.44763374	Longitude	114.991333	Cameras		info11		info12	
+JMP-S35	Sarah			Location	JMP	Date	20210505	Time	07:59:54	Latitude	-30.33466663	Longitude	115.0039978	Cameras		info11		info12	
+JMP-S36	Sarah			Location	JMP	Date	20210428	Time	13:39:45	Latitude	-30.3461	Longitude	115.03757	Cameras		info11		info12	
+JMP-S38	Damon			Location	JMP	Date	20210518	Time	10:08:00	Latitude	-30.79918289	Longitude	115.1869507	Cameras	ROVL_R				
+JMP-S40	Damon			Location	JMP	Date	20210518	Time	8:11:00	Latitude	-30.76675034	Longitude	115.1419678	Cameras	ROVL_R				
+JMP-S41	Damon			Location	JMP	Date	20210518	Time	13:28:00	Latitude	-30.712017	Longitude	115.113217	Cameras	ROVL_R				
+JMP-S42	Sarah			Location	JMP	Date	20210505	Time	10:24:39	Latitude		Longitude		Cameras		info11		info12	
+JMP-S43	Damon			Location	JMP	Date	20210518	Time	11:09:00	Latitude	-30.8052	Longitude	115.1648	Cameras	ROVL_R				
+JMP-S44_2	Sarah			Location	JMP	Date	20210517	Time	12:19:20	Latitude	-30.479	Longitude	115.048	Cameras		info11		info12	
+JMP-S5	Sarah			Location	JMP	Date	20210505	Time	09:03:05	Latitude	-30.32908249	Longitude	114.9877167	Cameras					
+JMP-S9	Sarah			Location	JMP	Date	20210429	Time	10:35:55	Latitude	-30.1340332	Longitude	114.9489136	Cameras		info11		info12	

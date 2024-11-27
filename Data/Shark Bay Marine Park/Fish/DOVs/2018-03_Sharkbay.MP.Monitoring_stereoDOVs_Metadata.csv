@@ -1,0 +1,43 @@
+OpCode,Period,Latitude,Longitude,Date,Time,Location,Status,Site,Depth,Observer,Successful.count,Successful.length,Transect_Length,Zone
+SB204_20180320_DOV,T1,-24.80628,113.16649,20180320,12:01:00,Shark Bay,Fished,SB204,4,Tanika Shalders,Yes,Yes,50,Outside
+SB204_20180320_DOV,T2,-24.80628,113.16649,20180320,12:01:00,Shark Bay,Fished,SB204,4,Tanika Shalders,Yes,Yes,50,Outside
+SB204_20180320_DOV,T3,-24.80628,113.16649,20180320,12:01:00,Shark Bay,Fished,SB204,4,Tanika Shalders,Yes,Yes,50,Outside
+SB204_20180320_DOV,T4,-24.80628,113.16649,20180320,12:01:00,Shark Bay,Fished,SB204,4,Tanika Shalders,Yes,Yes,50,Outside
+SB204_20180320_DOV,T5,-24.80628,113.16649,20180320,12:01:00,Shark Bay,Fished,SB204,4,Tanika Shalders,Yes,Yes,50,Outside
+SB204_20180320_DOV,T6,-24.80628,113.16649,20180320,12:01:00,Shark Bay,Fished,SB204,4,Tanika Shalders,Yes,Yes,50,Outside
+SB202_20180321_DOV,T1,-25.12671,113.1129,20180321,12:01:00,Shark Bay,Fished,SB202,6,Tanika Shalders,Yes,Yes,50,Outside
+SB202_20180321_DOV,T2,-25.12671,113.1129,20180321,12:01:00,Shark Bay,Fished,SB202,6,Tanika Shalders,Yes,Yes,50,Outside
+SB202_20180321_DOV,T3,-25.12671,113.1129,20180321,12:01:00,Shark Bay,Fished,SB202,6,Tanika Shalders,Yes,Yes,50,Outside
+SB202_20180321_DOV,T4,-25.12671,113.1129,20180321,12:01:00,Shark Bay,Fished,SB202,6,Tanika Shalders,Yes,Yes,50,Outside
+SB202_20180321_DOV,T5,-25.12671,113.1129,20180321,12:01:00,Shark Bay,Fished,SB202,6,Tanika Shalders,Yes,Yes,50,Outside
+SB202_20180321_DOV,T6,-25.12671,113.1129,20180321,12:01:00,Shark Bay,Fished,SB202,6,Tanika Shalders,Yes,Yes,50,Outside
+SBTurtle_20180321_DOV,T1,-25.4863,112.97813,20180321,12:01:00,Shark Bay,Fished,SBTurtle,6,Tanika Shalders,Yes,Yes,50,General Use
+SBTurtle_20180321_DOV,T2,-25.4863,112.97813,20180321,12:01:00,Shark Bay,Fished,SBTurtle,6,Tanika Shalders,Yes,Yes,50,General Use
+SBTurtle_20180321_DOV,T3,-25.4863,112.97813,20180321,12:01:00,Shark Bay,Fished,SBTurtle,6,Tanika Shalders,Yes,Yes,50,General Use
+SBTurtle_20180321_DOV,T4,-25.4863,112.97813,20180321,12:01:00,Shark Bay,Fished,SBTurtle,6,Tanika Shalders,Yes,Yes,50,General Use
+SBTurtle_20180321_DOV,T5,-25.4863,112.97813,20180321,12:01:00,Shark Bay,Fished,SBTurtle,6,Tanika Shalders,Yes,Yes,50,General Use
+SBTurtle_20180321_DOV,T6,-25.4863,112.97813,20180321,12:01:00,Shark Bay,Fished,SBTurtle,6,Tanika Shalders,No,No,50,General Use
+SBY_SPT_20180321_DOV,T1,-25.72378,113.09111,20180321,12:01:00,Shark Bay,Protected,SBSPT,4,Caprice Hyde,Yes,Yes,50,Sanctuary
+SBY_SPT_20180321_DOV,T2,-25.72378,113.09111,20180321,12:01:00,Shark Bay,Protected,SBSPT,4,Caprice Hyde,Yes,Yes,50,Sanctuary
+SBY_SPT_20180321_DOV,T3,-25.72378,113.09111,20180321,12:01:00,Shark Bay,Protected,SBSPT,4,Caprice Hyde,Yes,Yes,50,Sanctuary
+SBY_SPT_20180321_DOV,T4,-25.72378,113.09111,20180321,12:01:00,Shark Bay,Protected,SBSPT,4,Caprice Hyde,Yes,Yes,50,Sanctuary
+SBY_SPT_20180321_DOV,T5,-25.72378,113.09111,20180321,12:01:00,Shark Bay,Protected,SBSPT,4,Caprice Hyde,Yes,Yes,50,Sanctuary
+SBY_SPT_20180321_DOV,T6,-25.72378,113.09111,20180321,12:01:00,Shark Bay,Protected,SBSPT,4,Caprice Hyde,No,No,50,Sanctuary
+SB Shelter_20180323_DOV,T1,-26.15306,113.17542,20180323,12:01:00,Shark Bay,Fished,SBShelter,4,Tanika Shalders,Yes,Yes,50,General Use
+SB Shelter_20180323_DOV,T2,-26.15306,113.17542,20180323,12:01:00,Shark Bay,Fished,SBShelter,4,Tanika Shalders,Yes,Yes,50,General Use
+SB Shelter_20180323_DOV,T3,-26.15306,113.17542,20180323,12:01:00,Shark Bay,Fished,SBShelter,4,Tanika Shalders,Yes,Yes,50,General Use
+SB Shelter_20180323_DOV,T4,-26.15306,113.17542,20180323,12:01:00,Shark Bay,Fished,SBShelter,4,Tanika Shalders,Yes,Yes,50,General Use
+SB Shelter_20180323_DOV,T5,-26.15306,113.17542,20180323,12:01:00,Shark Bay,Fished,SBShelter,4,Tanika Shalders,Yes,Yes,50,General Use
+SB Shelter_20180323_DOV,T6,-26.15306,113.17542,20180323,12:01:00,Shark Bay,Fished,SBShelter,4,Tanika Shalders,Yes,Yes,50,General Use
+SBY_HSTD_20180322_DOV,T1,-25.98036,113.19049,20180322,12:01:00,Shark Bay,Fished,SBHSTD,4,Caprice Hyde,Yes,Yes,50,General Use
+SBY_HSTD_20180322_DOV,T2,-25.98036,113.19049,20180322,12:01:00,Shark Bay,Fished,SBHSTD,4,Caprice Hyde,Yes,Yes,50,General Use
+SBY_HSTD_20180322_DOV,T3,-25.98036,113.19049,20180322,12:01:00,Shark Bay,Fished,SBHSTD,4,Caprice Hyde,Yes,Yes,50,General Use
+SBY_HSTD_20180322_DOV,T4,-25.98036,113.19049,20180322,12:01:00,Shark Bay,Fished,SBHSTD,4,Caprice Hyde,Yes,Yes,50,General Use
+SBY_HSTD_20180322_DOV,T5,-25.98036,113.19049,20180322,12:01:00,Shark Bay,Fished,SBHSTD,4,Caprice Hyde,Yes,Yes,50,General Use
+SBY_HSTD_20180322_DOV,T6,-25.98036,113.19049,20180322,12:01:00,Shark Bay,Fished,SBHSTD,4,Caprice Hyde,Yes,Yes,50,General Use
+SBBFLAT_20180322_DOV,T1,-25.85155,113.34877,20180322,12:01:00,Shark Bay,Fished,SBBFlat,4,Tanika Shalders,Yes,Yes,50,General Use
+SBBFLAT_20180322_DOV,T2,-25.85155,113.34877,20180322,12:01:00,Shark Bay,Fished,SBBFlat,4,Tanika Shalders,Yes,Yes,50,General Use
+SBBFLAT_20180322_DOV,T3,-25.85155,113.34877,20180322,12:01:00,Shark Bay,Fished,SBBFlat,4,Tanika Shalders,Yes,Yes,50,General Use
+SBBFLAT_20180322_DOV,T4,-25.85155,113.34877,20180322,12:01:00,Shark Bay,Fished,SBBFlat,4,Tanika Shalders,Yes,Yes,50,General Use
+SBBFLAT_20180322_DOV,T5,-25.85155,113.34877,20180322,12:01:00,Shark Bay,Fished,SBBFlat,4,Tanika Shalders,Yes,Yes,50,General Use
+SBBFLAT_20180322_DOV,T6,-25.85155,113.34877,20180322,12:01:00,Shark Bay,Fished,SBBFlat,4,Tanika Shalders,Yes,Yes,50,General Use

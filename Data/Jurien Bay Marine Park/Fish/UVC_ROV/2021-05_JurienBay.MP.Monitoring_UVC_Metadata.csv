@@ -1,0 +1,49 @@
+Sample,Latitude,Longitude,Date,Time,Location,Site,Depth,Observer,DBCA_Zone,DBCA_Sanctuary,Status,Successful.count,Successful.length
+JBMP14-1,-30.15686,114.99549,20210502,11:00:00,Jurien Marine Park,14,2,Paul Day,SP Scientific Reference,Fisherman Islands,No-take,Yes,Yes
+JBMP14-2,-30.15686,114.99549,20210502,11:00:00,Jurien Marine Park,14,2,Paul Day,SP Scientific Reference,Fisherman Islands,No-take,Yes,Yes
+JBMP14-3,-30.15686,114.99549,20210502,11:00:00,Jurien Marine Park,14,2,Paul Day,SP Scientific Reference,Fisherman Islands,No-take,Yes,Yes
+JBMP14-4,-30.15686,114.99549,20210502,11:00:00,Jurien Marine Park,14,2,Paul Day,SP Scientific Reference,Fisherman Islands,No-take,Yes,Yes
+JBMP15-1,-30.15678,114.96685,20210429,11:00:00,Jurien Marine Park,15,5,Paul Day,SP Scientific Reference,Fisherman Islands,No-take,Yes,Yes
+JBMP15-2,-30.15678,114.96685,20210429,11:00:00,Jurien Marine Park,15,5,Paul Day,SP Scientific Reference,Fisherman Islands,No-take,Yes,Yes
+JBMP15-3,-30.15678,114.96685,20210429,11:00:00,Jurien Marine Park,15,5,Paul Day,SP Scientific Reference,Fisherman Islands,No-take,Yes,Yes
+JBMP15-4,-30.15678,114.96685,20210429,11:00:00,Jurien Marine Park,15,5,Paul Day,SP Scientific Reference,Fisherman Islands,No-take,Yes,Yes
+JBMP24-1,-30.43518,115.03549,20210501,11:00:00,Jurien Marine Park,24,3,Paul Day,SP Scientific Reference,Hill River,No-take,Yes,Yes
+JBMP24-2,-30.43518,115.03549,20210501,11:00:00,Jurien Marine Park,24,3,Paul Day,SP Scientific Reference,Hill River,No-take,Yes,Yes
+JBMP24-3,-30.43518,115.03549,20210501,11:00:00,Jurien Marine Park,24,3,Paul Day,SP Scientific Reference,Hill River,No-take,Yes,Yes
+JBMP24-4,-30.43518,115.03549,20210501,11:00:00,Jurien Marine Park,24,3,Paul Day,SP Scientific Reference,Hill River,No-take,Yes,Yes
+JBMP25-1,-30.12073,114.95365,20210502,11:00:00,Jurien Marine Park,25,4,Paul Day,General Use,Fisherman Islands,Fished,Yes,Yes
+JBMP25-2,-30.12073,114.95365,20210502,11:00:00,Jurien Marine Park,25,4,Paul Day,General Use,Fisherman Islands,Fished,Yes,Yes
+JBMP25-3,-30.12073,114.95365,20210502,11:00:00,Jurien Marine Park,25,4,Paul Day,General Use,Fisherman Islands,Fished,Yes,Yes
+JBMP25-4,-30.12073,114.95365,20210502,11:00:00,Jurien Marine Park,25,4,Paul Day,General Use,Fisherman Islands,Fished,Yes,Yes
+JBMP3-1,-30.42141,115.00193,20210501,11:00:00,Jurien Marine Park,3,5,Paul Day,SP Scientific Reference,Hill River,No-take,Yes,Yes
+JBMP3-2,-30.42141,115.00193,20210501,11:00:00,Jurien Marine Park,3,5,Paul Day,SP Scientific Reference,Hill River,No-take,Yes,Yes
+JBMP3-3,-30.42141,115.00193,20210501,11:00:00,Jurien Marine Park,3,5,Paul Day,SP Scientific Reference,Hill River,No-take,Yes,Yes
+JBMP3-4,-30.42141,115.00193,20210501,11:00:00,Jurien Marine Park,3,5,Paul Day,SP Scientific Reference,Hill River,No-take,Yes,Yes
+JBMP33-1,-30.44763,114.99133,20210505,11:00:00,Jurien Marine Park,33,10,Paul Day,SP Scientific Reference,Hill River,No-take,Yes,Yes
+JBMP33-2,-30.44763,114.99133,20210505,11:00:00,Jurien Marine Park,33,10,Paul Day,SP Scientific Reference,Hill River,No-take,Yes,Yes
+JBMP33-3,-30.44763,114.99133,20210505,11:00:00,Jurien Marine Park,33,10,Paul Day,SP Scientific Reference,Hill River,No-take,Yes,Yes
+JBMP33-4,-30.44763,114.99133,20210505,11:00:00,Jurien Marine Park,33,10,Paul Day,SP Scientific Reference,Hill River,No-take,Yes,Yes
+JBMP35-1,-30.34666,115.00399,20210430,11:00:00,Jurien Marine Park,35,2,Paul Day,Sanctuary,NA,No-take,Yes,Yes
+JBMP35-2,-30.34666,115.00399,20210430,11:00:00,Jurien Marine Park,35,2,Paul Day,Sanctuary,NA,No-take,Yes,Yes
+JBMP35-3,-30.34666,115.00399,20210430,11:00:00,Jurien Marine Park,35,2,Paul Day,Sanctuary,NA,No-take,Yes,Yes
+JBMP35-4,-30.34666,115.00399,20210430,11:00:00,Jurien Marine Park,35,2,Paul Day,Sanctuary,NA,No-take,Yes,Yes
+JBMP36-1,-30.34609,115.03756,20210504,11:00:00,Jurien Marine Park,36,5,Paul Day,Sanctuary,NA,No-take,Yes,Yes
+JBMP36-2,-30.34609,115.03756,20210504,11:00:00,Jurien Marine Park,36,5,Paul Day,Sanctuary,NA,No-take,Yes,Yes
+JBMP36-3,-30.34609,115.03756,20210504,11:00:00,Jurien Marine Park,36,5,Paul Day,Sanctuary,NA,No-take,Yes,Yes
+JBMP36-4,-30.34609,115.03756,20210504,11:00:00,Jurien Marine Park,36,5,Paul Day,Sanctuary,NA,No-take,Yes,Yes
+JBMP42-1,-30.29043,114.9665,20210505,11:00:00,Jurien Marine Park,42,10,Paul Day,General Use,NA,Fished,Yes,Yes
+JBMP42-2,-30.29043,114.9665,20210505,11:00:00,Jurien Marine Park,42,10,Paul Day,General Use,NA,Fished,Yes,Yes
+JBMP42-3,-30.29043,114.9665,20210505,11:00:00,Jurien Marine Park,42,10,Paul Day,General Use,NA,Fished,Yes,Yes
+JBMP42-4,-30.29043,114.9665,20210505,11:00:00,Jurien Marine Park,42,10,Paul Day,General Use,NA,Fished,Yes,Yes
+JBMP44-1,-30.479,115.048,20210501,11:00:00,Jurien Marine Park,44,3,Paul Day,General Use,Hill River,Fished,Yes,Yes
+JBMP44-2,-30.479,115.048,20210501,11:00:00,Jurien Marine Park,44,3,Paul Day,General Use,Hill River,Fished,Yes,Yes
+JBMP44-3,-30.479,115.048,20210501,11:00:00,Jurien Marine Park,44,3,Paul Day,General Use,Hill River,Fished,Yes,Yes
+JBMP44-4,-30.479,115.048,20210501,11:00:00,Jurien Marine Park,44,3,Paul Day,General Use,Hill River,Fished,Yes,Yes
+JBMP5-1,-30.32908,114.98771,20210505,11:00:00,Jurien Marine Park,5,5,Paul Day,General Use,Hill River,Fished,Yes,Yes
+JBMP5-2,-30.32908,114.98771,20210505,11:00:00,Jurien Marine Park,5,5,Paul Day,General Use,Hill River,Fished,Yes,Yes
+JBMP5-3,-30.32908,114.98771,20210505,11:00:00,Jurien Marine Park,5,5,Paul Day,General Use,Hill River,Fished,Yes,Yes
+JBMP5-4,-30.32908,114.98771,20210505,11:00:00,Jurien Marine Park,5,5,Paul Day,General Use,Hill River,Fished,Yes,Yes
+JBMP8-1,-30.13403,114.94891,20210429,11:00:00,Jurien Marine Park,8,3,Paul Day,Sanctuary,Fisherman Islands,No-take,Yes,Yes
+JBMP8-2,-30.13403,114.94891,20210429,11:00:00,Jurien Marine Park,8,3,Paul Day,Sanctuary,Fisherman Islands,No-take,Yes,Yes
+JBMP8-3,-30.13403,114.94891,20210429,11:00:00,Jurien Marine Park,8,3,Paul Day,Sanctuary,Fisherman Islands,No-take,Yes,Yes
+JBMP8-4,-30.13403,114.94891,20210429,11:00:00,Jurien Marine Park,8,3,Paul Day,Sanctuary,Fisherman Islands,No-take,Yes,Yes

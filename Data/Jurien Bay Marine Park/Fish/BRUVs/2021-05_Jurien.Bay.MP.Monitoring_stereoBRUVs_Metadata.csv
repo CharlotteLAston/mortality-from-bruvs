@@ -1,0 +1,145 @@
+Sample,Latitude,Longitude,Date,Time,Location,Status,Site,Depth,Successful.count,Successful.length,Observer,Observer.length,DBCA_Zone,DBCA_Sanctuary
+BD01-1,-30.3561,114.9626,20210507,7:42:54,Jurien Bay,Fished,NA,32.8,Yes,Yes,Ethan,Damon Driessen,General Use,NA
+BD01-2,-30.358,114.9651,20210507,7:48:14,Jurien Bay,Fished,NA,32.5,Yes,Yes,Ethan,Damon Driessen,General Use,NA
+BD01-3,-30.3597,114.9643,20210507,7:54:09,Jurien Bay,Fished,NA,33.6,Yes,Yes,Ethan,Damon Driessen,General Use,NA
+BD01-4,-30.3563,114.9698,20210507,8:01:44,Jurien Bay,Fished,NA,29.8,Yes,Yes,Ethan,Damon Driessen,General Use,NA
+BD02-1,-30.3522,114.9365,20210507,8:13:25,Jurien Bay,Fished,NA,35.3,Yes,Yes,Damon Driessen,Damon Driessen,General Use,NA
+BD02-2,-30.3531,114.9343,20210507,8:18:10,Jurien Bay,Fished,NA,35.8,No,No,Damon Driessen,NA,General Use,NA
+BD02-3,-30.3509,114.934,20210507,8:22:10,Jurien Bay,Fished,NA,34.8,Yes,Yes,Damon Driessen,Damon Driessen,General Use,NA
+BD02-4,-30.3526,114.939,20210507,8:27:29,Jurien Bay,Fished,NA,34.2,Yes,Yes,Damon Driessen,Damon Driessen,General Use,NA
+BD03-1,-30.2572,114.9387,20210507,10:00:03,Jurien Bay,Fished,NA,34,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BD03-2,-30.2595,114.9323,20210507,10:05:23,Jurien Bay,Fished,NA,35.2,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BD03-3,-30.2536,114.9261,20210507,10:09:21,Jurien Bay,Fished,NA,34.7,Yes,No,Chris Douglas,NA,General Use,NA
+BD03-4,-30.2503,114.9332,20210507,10:12:44,Jurien Bay,Fished,NA,34.1,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BD04-1,-30.2342,114.934,20210507,10:19:01,Jurien Bay,Fished,NA,34.3,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BD04-2,-30.2358,114.9331,20210507,10:22:34,Jurien Bay,Fished,NA,33.7,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BD04-3,-30.2399,114.9337,20210507,10:26:07,Jurien Bay,Fished,NA,33.6,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BD04-4,-30.2406,114.9424,20210507,10:30:18,Jurien Bay,Fished,NA,33.7,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BISZS1-1,-30.333,115.0039,20210501,10:38:10,Jurien Bay,No-take,NA,3.4,Yes,Yes,Brae,Mike Taylor,Sanctuary,Boullanger Island
+BISZS1-2,-30.3354,115.004,20210501,10:42:10,Jurien Bay,No-take,NA,2.2,Yes,Yes,Katrina Bornt,Mike Taylor,Sanctuary,Boullanger Island
+BISZS1-3,-30.3383,115.0036,20210501,10:45:27,Jurien Bay,No-take,NA,3.5,Yes,Yes,Ethan,Mike Taylor,Sanctuary,Boullanger Island
+BISZS1-4,-30.3422,115.002,20210501,10:49:51,Jurien Bay,No-take,NA,3.5,Yes,Yes,Ethan,Mike Taylor,Sanctuary,Boullanger Island
+BISZ2-1,-30.346,115.0376,20210429,14:01:37,Jurien Bay,No-take,NA,5,Yes,Yes,Ethan,Chris Douglas,Sanctuary,Boullanger Island
+BIZS2-2,-30.3448,115.0393,20210429,14:06:45,Jurien Bay,No-take,NA,2.7,Yes,Yes,Ethan,Mike Taylor,Sanctuary,Boullanger Island
+BIZS2-3,-30.3429,115.0386,20210429,14:10:23,Jurien Bay,No-take,NA,3.8,Yes,Yes,Ethan,Mike Taylor,Sanctuary,Boullanger Island
+BIZS2-4,-30.3489,115.0408,20210429,14:15:26,Jurien Bay,No-take,NA,1.8,Yes,Yes,Ethan,Mike Taylor,Sanctuary,Boullanger Island
+BS03-1,-30.1717,114.9417,20210506,13:44:28,Jurien Bay,Fished,NA,20.2,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS03-2,-30.1702,114.9411,20210506,13:47:07,Jurien Bay,Fished,NA,21.8,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS03-3,-30.1672,114.9396,20210506,13:49:48,Jurien Bay,Fished,NA,19.8,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS03-4,-30.1647,114.9386,20210506,13:52:23,Jurien Bay,Fished,NA,22,Yes,No,Chris Douglas,NA,General Use,NA
+BS04-1,-30.2115,114.9583,20210506,13:25:58,Jurien Bay,Fished,NA,20.2,Yes,Yes,Ethan,Damon Driessen,General Use,NA
+BS04-2,-30.209,114.9567,20210506,13:28:32,Jurien Bay,Fished,NA,20.4,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS04-3,-30.206,114.9546,20210506,13:31:26,Jurien Bay,Fished,NA,22.9,Yes,Yes,Chris Douglas,Daisy Church,General Use,NA
+BS04-4,-30.2035,114.9541,20210506,13:34:13,Jurien Bay,Fished,NA,19.8,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS05-1,-30.2744,114.9624,20210506,11:50:42,Jurien Bay,Fished,NA,17.8,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS05-2,-30.2715,114.9603,20210506,11:53:44,Jurien Bay,Fished,NA,20,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS05-3,-30.268,114.9599,20210506,11:57:05,Jurien Bay,Fished,NA,18.2,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS05-4,-30.263,114.9589,20210506,12:00:14,Jurien Bay,Fished,NA,17.9,Yes,No,Chris Douglas,NA,General Use,NA
+BS06-1,-30.323,114.968,20210506,11:29:28,Jurien Bay,Fished,NA,22,No,No,Chris Douglas,NA,General Use,NA
+BS06-2,-30.3196,114.9662,20210506,11:31:54,Jurien Bay,Fished,NA,21.5,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS06-3,-30.3164,114.9647,20210506,11:34:48,Jurien Bay,Fished,NA,23.2,No,No,Chris Douglas,NA,General Use,NA
+BS06-4,-30.3142,114.9651,20210506,11:37:30,Jurien Bay,Fished,NA,21.3,Yes,Yes,Damon Driessen,Daisy Church,General Use,NA
+BS07-1,-30.395,114.9759,20210506,9:53:22,Jurien Bay,Fished,NA,18.7,Yes,No,Ethan,NA,General Use,NA
+BS07-2,-30.3923,114.978,20210506,9:56:21,Jurien Bay,Fished,NA,21.7,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS07-3,-30.3878,114.98,20210506,9:59:15,Jurien Bay,Fished,NA,20.8,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS07-4,-30.3837,114.98,20210506,10:02:24,Jurien Bay,Fished,NA,20.7,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS08-1,-30.426,114.978,20210506,9:34:43,Jurien Bay,Fished,NA,23,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS08-2,-30.4224,114.9774,20210506,9:38:21,Jurien Bay,Fished,NA,25.5,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS08-3,-30.4182,114.9775,20210506,9:41:32,Jurien Bay,Fished,NA,23,Yes,Yes,Damon Driessen,Daisy Church,General Use,NA
+BS08-4,-30.4134,114.9768,20210506,9:46:10,Jurien Bay,Fished,NA,21,Yes,Yes,Chris Douglas,Daisy Church,General Use,NA
+BS09-1,-30.4535,114.9827,20210506,8:04:18,Jurien Bay,Fished,NA,28.5,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS09-2,-30.4486,114.9731,20210506,8:09:08,Jurien Bay,Fished,NA,30,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS09-3,-30.4424,114.9747,20210506,8:14:43,Jurien Bay,Fished,NA,29,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS09-4,-30.4435,114.9847,20210506,8:22:06,Jurien Bay,Fished,NA,21.9,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS10-1,-30.4816,114.994,20210506,7:35:03,Jurien Bay,Fished,NA,23,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS10-2,-30.4785,114.9921,20210506,7:39:17,Jurien Bay,Fished,NA,23.5,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS10-3,-30.4754,114.9909,20210506,7:44:21,Jurien Bay,Fished,NA,22.8,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS10-4,-30.4705,114.9891,20210506,7:49:25,Jurien Bay,Fished,NA,22.3,Yes,No,Chris Douglas,NA,General Use,NA
+BS1-1,-30.1121,114.9243,20210506,15:10:00,Jurien Bay,Fished,NA,19,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS1-2,-30.1096,114.9224,20210506,15:14:00,Jurien Bay,Fished,NA,22.6,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS1-3,-30.1067,114.9214,20210506,15:16:00,Jurien Bay,Fished,NA,22,Yes,Yes,Chris Douglas,Damon Driessen,General Use,NA
+BS1-4,-30.1022,114.9189,20210506,15:18:00,Jurien Bay,Fished,NA,20.4,Yes,Yes,Chris Douglas,Daisy Church,General Use,NA
+BS2-1,-30.1323,114.9318,20210506,15:22:00,Jurien Bay,Fished,NA,19.3,Yes,Yes,Damon Driessen,Daisy Church,General Use,NA
+BS2-2,-30.1282,114.9306,20210506,15:24:00,Jurien Bay,Fished,NA,18.6,Yes,Yes,Damon Driessen,Daisy Church,General Use,NA
+BS2-3,-30.1247,114.9297,20210506,15:28:00,Jurien Bay,Fished,NA,20.2,Yes,No,Chris Douglas,NA,General Use,NA
+BS2-4,-30.1216,114.9279,20210506,15:30:00,Jurien Bay,Fished,NA,20.8,Yes,No,Damon Driessen,NA,General Use,NA
+FISPZS2-1,-30.1711,114.9558,20210505,10:47:24,Jurien Bay,No-take,NA,6.5,Yes,Yes,Brae,Daisy Church,SP Scientific Reference,Fisherman Islands
+FISPZS2-2,-30.1704,114.9529,20210505,10:51:34,Jurien Bay,No-take,NA,5.9,Yes,Yes,Brae,Daisy Church,SP Scientific Reference,Fisherman Islands
+FISPZS2-3,-30.1716,114.9513,20210505,10:57:03,Jurien Bay,No-take,NA,6,Yes,Yes,Damon Driessen,Daisy Church,SP Scientific Reference,Fisherman Islands
+FISPZS2-4,-30.1688,114.9469,20210505,11:02:32,Jurien Bay,No-take,NA,5.4,Yes,Yes,Brae,Daisy Church,SP Scientific Reference,Fisherman Islands
+FISPZS3-1,-30.1596,114.9699,20210505,9:10:59,Jurien Bay,No-take,NA,4.5,Yes,Yes,Brae,Chris Douglas,SP Scientific Reference,Fisherman Islands
+FISPZS3-2,-30.1566,114.9718,20210505,9:16:56,Jurien Bay,No-take,NA,4.9,Yes,Yes,Brae,Chris Douglas,SP Scientific Reference,Fisherman Islands
+FISPZS3-3,-30.1542,114.9679,20210505,9:22:20,Jurien Bay,No-take,NA,4.8,Yes,Yes,Brae,Chris Douglas,SP Scientific Reference,Fisherman Islands
+FISPZS3-4,-30.157,114.9672,20210505,9:26:01,Jurien Bay,No-take,NA,5.9,Yes,Yes,Brae,Chris Douglas,SP Scientific Reference,Fisherman Islands
+FISPZS4-1,-30.1595,114.9944,20210428,14:29:00,Jurien Bay,No-take,NA,6.2,Yes,Yes,Ethan,Mike Taylor,SP Scientific Reference,Fisherman Islands
+FISPZS4-2,-30.1569,114.9955,20210428,14:32:00,Jurien Bay,No-take,NA,2.2,Yes,Yes,Ethan,Mike Taylor,SP Scientific Reference,Fisherman Islands
+FISPZS4-3,-30.1541,114.995,20210428,14:34:00,Jurien Bay,No-take,NA,3.8,Yes,Yes,Ethan,Mike Taylor,SP Scientific Reference,Fisherman Islands
+FISPZS4-4,-30.1517,114.994,20210428,14:38:00,Jurien Bay,No-take,NA,3.5,Yes,Yes,Damon Driessen,Mike Taylor,SP Scientific Reference,Fisherman Islands
+FISZS1-1,-30.1341,114.949,20210428,12:19:00,Jurien Bay,No-take,NA,4.2,Yes,Yes,Sarah,Mike Taylor,Sanctuary,Fisherman Islands
+FISZS1-2,-30.1347,114.9511,20210428,12:23:00,Jurien Bay,No-take,NA,4.6,No,No,NA,NA,Sanctuary,Fisherman Islands
+FISZS1-3,-30.1332,114.9525,20210428,12:25:00,Jurien Bay,No-take,NA,5.1,Yes,Yes,Ethan,Mike Taylor,Sanctuary,Fisherman Islands
+FISZS1-4,-30.1356,114.9561,20210505,12:39:39,Jurien Bay,No-take,NA,5.2,Yes,Yes,Brae,Chris Douglas,Sanctuary,Fisherman Islands
+FISZS2-1,-30.1347,114.9678,20210428,12:34:00,Jurien Bay,No-take,NA,4.7,Yes,Yes,Damon Driessen,Mike Taylor,Sanctuary,Fisherman Islands
+FISZS2-2,-30.1306,114.9687,20210505,12:29:06,Jurien Bay,No-take,NA,4.8,Yes,Yes,Brae,Daisy Church,Sanctuary,Fisherman Islands
+FISZS2-3,-30.1349,114.9736,20210505,12:23:47,Jurien Bay,No-take,NA,3.3,Yes,Yes,Damon Driessen,Daisy Church,Sanctuary,Fisherman Islands
+FISZS2-4,-30.1317,114.9668,20210505,12:33:26,Jurien Bay,No-take,NA,4,Yes,Yes,Damon Driessen,Daisy Church,Sanctuary,Fisherman Islands
+GUZ(C)S1-1,-30.4759,115.0447,20210502,7:39:59,Jurien Bay,Fished,NA,5.6,No,No,Katrina Bornt,NA,General Use,Hill River
+GUZ(C)S1-2,-30.4773,115.0485,20210502,7:45:49,Jurien Bay,Fished,NA,4.9,Yes,Yes,Ethan,Mike Taylor,General Use,Hill River
+GUZ(C)S1-3,-30.4751,115.0389,20210502,7:52:42,Jurien Bay,Fished,NA,4.5,Yes,Yes,Ethan,Mike Taylor,General Use,Hill River
+GUZ(C)S1-4,-30.4733,115.0387,20210502,7:58:09,Jurien Bay,Fished,NA,5.1,Yes,Yes,Katrina Bornt,Mike Taylor,General Use,Hill River
+GUZ(ER)S1-1,-30.3617,115.0038,20210501,14:11:13,Jurien Bay,Fished,NA,6,Yes,Yes,Katrina Bornt,Mike Taylor,General Use,Boullanger Island
+GUZ(ER)S1-2,-30.3596,115.0022,20210501,14:17:44,Jurien Bay,Fished,NA,4.1,Yes,Yes,Caprice,Mike Taylor,General Use,Boullanger Island
+GUZ(ER)S1-3,-30.3608,115.0001,20210501,14:23:08,Jurien Bay,Fished,NA,3,Yes,Yes,Caprice,Mike Taylor,General Use,Boullanger Island
+GUZ(ER)S1-4,-30.3575,114.9987,20210501,14:27:27,Jurien Bay,Fished,NA,3.5,Yes,Yes,Caprice,Mike Taylor,General Use,Boullanger Island
+GUZ(ER)S2-1,-30.3576,115.0428,20210429,12:31:15,Jurien Bay,Fished,NA,3.6,Yes,Yes,Ethan,Mike Taylor,General Use,Boullanger Island
+GUZ(ER)S2-2,-30.36,115.044,20210429,12:35:12,Jurien Bay,Fished,NA,2.5,No,No,NA,NA,General Use,Boullanger Island
+GUZ(ER)S2-3,-30.3632,115.0446,20210429,12:41:01,Jurien Bay,Fished,NA,4.1,No,No,NA,NA,General Use,Boullanger Island
+GUZ(ER)S2-4,-30.3669,115.045,20210429,12:44:17,Jurien Bay,Fished,NA,3.2,Yes,Yes,Ethan,Mike Taylor,General Use,Boullanger Island
+GUZ(JB)S1-1,-30.2554,115.0359,20210429,10:39:34,Jurien Bay,Fished,NA,3.1,No,No,NA,NA,General Use,Pumpkin Hollow
+GUZ(JB)S1-2,-30.2588,115.0368,20210429,10:44:05,Jurien Bay,Fished,NA,2.3,Yes,Yes,Caprice,Damon Driessen,General Use,Pumpkin Hollow
+GUZ(JB)S1-3,-30.2626,115.0378,20210429,10:51:30,Jurien Bay,Fished,NA,2.3,No,No,NA,NA,General Use,Pumpkin Hollow
+GUZ(JB)S1-4,-30.2644,115.0386,20210429,10:56:39,Jurien Bay,Fished,NA,3.3,Yes,Yes,Caprice,Damon Driessen,General Use,Pumpkin Hollow
+GUZ(JB)S2-1,-30.2796,115.0088,20210501,8:29:34,Jurien Bay,Fished,NA,3.5,Yes,Yes,Katrina Bornt,Mike Taylor,General Use,Boullanger Island
+GUZ(JB)S2-2,-30.2796,115.0051,20210501,8:35:39,Jurien Bay,Fished,NA,4.6,Yes,Yes,Damon Driessen,Mike Taylor,General Use,Boullanger Island
+GUZ(JB)S2-3,-30.2824,115.0061,20210501,8:41:46,Jurien Bay,Fished,NA,4.5,Yes,Yes,Katrina Bornt,Mike Taylor,General Use,Boullanger Island
+GUZ(JB)S2-4,-30.2795,115.0022,20210501,8:46:55,Jurien Bay,Fished,NA,4.5,Yes,No,Katrina Bornt,NA,General Use,Boullanger Island
+GUZ(SC)S1-1,-30.1769,114.9733,20210428,14:54:00,Jurien Bay,Fished,NA,4.2,Yes,Yes,Caprice,Mike Taylor,General Use,Fisherman Islands
+GUZ(SC)S1-2,-30.1795,114.9725,20210428,14:58:00,Jurien Bay,Fished,NA,5.2,Yes,Yes,Caprice,Mike Taylor,General Use,Fisherman Islands
+GUZ(SC)S1-3,-30.1809,114.9697,20210428,15:02:00,Jurien Bay,Fished,NA,5.5,Yes,Yes,Mike Taylor,Mike Taylor,General Use,Fisherman Islands
+GUZ(SC)S1-4,-30.1838,114.9688,20210428,15:05:00,Jurien Bay,Fished,NA,6.1,No,No,NA,NA,General Use,Fisherman Islands
+GUZGHS2-1,-30.1073,114.9657,20210428,9:32:00,Jurien Bay,Fished,NA,6.1,Yes,Yes,Ethan,MTaylor,General Use,Fisherman Islands
+GUZGHS2-2,-30.1066,114.9663,20210428,9:44:00,Jurien Bay,Fished,NA,5.4,No,No,NA,NA,General Use,Fisherman Islands
+GUZGHS2-3,-30.1053,114.9669,20210428,9:52:00,Jurien Bay,Fished,NA,5,No,No,NA,NA,General Use,Fisherman Islands
+GUZGHS2-4,-30.1039,114.9671,20210428,9:57:00,Jurien Bay,Fished,NA,4.5,Yes,Yes,Ethan,Mike Taylor,General Use,Fisherman Islands
+GUZGHS3-1,-30.1178,114.9524,20210428,10:13:00,Jurien Bay,Fished,NA,7.6,Yes,Yes,Sarah,Mike Taylor,General Use,Fisherman Islands
+GUZGHS3-2,-30.1205,114.9537,20210428,10:20:00,Jurien Bay,Fished,NA,3.6,Yes,Yes,Sarah,Mike Taylor,General Use,Fisherman Islands
+GUZGHS3-3,-30.1234,114.9535,20210428,10:25:00,Jurien Bay,Fished,NA,4.6,Yes,Yes,Ethan,Mike Taylor,General Use,Fisherman Islands
+GUZGHS3-4,-30.1234,114.9499,20210428,10:30:00,Jurien Bay,Fished,NA,4.6,Yes,Yes,Ethan,Mike Taylor,General Use,Fisherman Islands
+HRSPZS2-1,-30.4393,115.0357,20210502,9:13:46,Jurien Bay,No-take,NA,4.2,Yes,Yes,Katrina Bornt,Mike Taylor,SP Scientific Reference,Hill River
+HRSPZS2-2,-30.4398,115.0337,20210502,9:18:26,Jurien Bay,No-take,NA,6.6,Yes,Yes,Ethan,Mike Taylor,SP Scientific Reference,Hill River
+HRSPZS2-3,-30.4376,115.0357,20210502,9:23:01,Jurien Bay,No-take,NA,5.3,Yes,Yes,Ethan,Mike Taylor,SP Scientific Reference,Hill River
+HRSPZS2-4,-30.435,115.0359,20210502,9:27:17,Jurien Bay,No-take,NA,4.9,Yes,Yes,Ethan,Mike Taylor,SP Scientific Reference,Hill River
+HRSPZS3-1,-30.4358,115.0006,20210504,9:16:47,Jurien Bay,No-take,NA,6.5,Yes,Yes,Brae,Mike Taylor,SP Scientific Reference,Hill River
+HRSPZS3-2,-30.4424,114.9987,20210504,9:25:19,Jurien Bay,No-take,NA,5.3,Yes,Yes,Brae,Mike Taylor,SP Scientific Reference,Hill River
+HRSPZS3-3,-30.445,114.9984,20210504,9:29:30,Jurien Bay,No-take,NA,6.4,Yes,Yes,Brae,Mike Taylor,SP Scientific Reference,Hill River
+HRSPZS3-4,-30.4395,114.9995,20210504,9:42:06,Jurien Bay,No-take,NA,6.9,Yes,Yes,Brae,Mike Taylor,SP Scientific Reference,Hill River
+HRSPZS4-1,-30.4209,115.0019,20210504,7:52:40,Jurien Bay,No-take,NA,4.1,Yes,Yes,Katrina Bornt,Mike Taylor,SP Scientific Reference,Hill River
+HRSPZS4-2,-30.4248,115.0028,20210504,7:57:17,Jurien Bay,No-take,NA,4.9,Yes,Yes,Brae,Mike Taylor,SP Scientific Reference,Hill River
+HRSPZS4-3,-30.4278,115.0032,20210504,8:01:16,Jurien Bay,No-take,NA,6.8,Yes,Yes,Brae,Mike Taylor,SP Scientific Reference,Hill River
+HRSPZS4-4,-30.4298,115.0029,20210504,8:05:15,Jurien Bay,No-take,NA,4.9,Yes,Yes,Brae,Daisy Church,SP Scientific Reference,Hill River
+JC21_JOOR21_1,-30.2917,114.973,20210504,11:50:02,Jurien Bay,Fished,NA,6.9,Yes,Yes,Brae,Chris Douglas,General Use,Fisherman Islands
+JC21_JOOR21-2,-30.2901,114.9725,20210504,11:55:20,Jurien Bay,Fished,NA,5.2,Yes,Yes,Brae,Chris Douglas,General Use,Fisherman Islands
+JC21_JOOR21-3,-30.2887,114.9727,20210504,12:00:34,Jurien Bay,Fished,NA,8,Yes,Yes,Brae,Daisy Church,General Use,Fisherman Islands
+JC21_JOOR21-4,-30.289,114.9739,20210504,12:07:54,Jurien Bay,Fished,NA,4.3,Yes,Yes,Brae,Daisy Church,General Use,Fisherman Islands
+JMPS5-1,-30.329,114.992,20210502,12:50:51,Jurien Bay,Fished,NA,4.7,Yes,Yes,Ethan,Mike Taylor,General Use,Hill River
+JMPS5-2,-30.3274,114.9902,20210502,12:55:20,Jurien Bay,Fished,NA,4.6,Yes,No,Katrina Bornt,NA,General Use,Hill River
+JMPS5-3,-30.329,114.9896,20210502,12:59:02,Jurien Bay,Fished,NA,4.6,Yes,Yes,Ethan,Mike Taylor,General Use,Hill River
+JMPS5-4,-30.3294,114.988,20210502,13:02:39,Jurien Bay,Fished,NA,5.8,Yes,Yes,Ethan,Mike Taylor,General Use,Hill River
+JV013-1,-30.3906,114.9949,20210501,12:32:37,Jurien Bay,Fished,NA,6,Yes,Yes,Katrina Bornt,Mike Taylor,General Use,Hill River
+JV013-2,-30.3945,114.9946,20210501,12:37:22,Jurien Bay,Fished,NA,3.5,Yes,Yes,Katrina Bornt,Mike Taylor,General Use,Hill River
+JV013-3,-30.3985,114.9949,20210501,12:46:16,Jurien Bay,Fished,NA,6,Yes,Yes,Katrina Bornt,Mike Taylor,General Use,Hill River
+JV013-4,-30.3988,114.9983,20210501,12:50:46,Jurien Bay,Fished,NA,5.5,Yes,Yes,Katrina Bornt,Mike Taylor,General Use,Hill River
+PHSZS1-1,-30.2388,115.0235,20210429,9:03:51,Jurien Bay,No-take,NA,3.5,No,No,NA,NA,Sanctuary,Pumpkin Hollow
+PHSZS1-2,-30.2369,115.0232,20210429,9:10:30,Jurien Bay,No-take,NA,2.5,No,No,NA,NA,Sanctuary,Pumpkin Hollow
+PHSZS1-3,-30.2355,115.0192,20210429,9:18:03,Jurien Bay,No-take,NA,0.6,No,No,NA,NA,Sanctuary,Pumpkin Hollow
+PHSZS1-4,-30.2398,115.0226,20210429,9:27:55,Jurien Bay,No-take,NA,2.7,Yes,No,Damon Driessen,NA,Sanctuary,Pumpkin Hollow

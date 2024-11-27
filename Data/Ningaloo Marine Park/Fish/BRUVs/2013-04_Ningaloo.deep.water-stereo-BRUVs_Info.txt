@@ -1,0 +1,144 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+NIN_PSZ1-3-4_20130415	Ryan D	42.1	LeftQ	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-1-1_20130417	Ryan D	45.4	LeftO	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-1-2_20130417	Ryan D	42.7	LeftW	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-1-3_20130417	Ryan D	48.6	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-1-4_20130417	Ryan D	48	LeftE	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-1-5_20130417	Ryan D	56	LeftK	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-1-6_20130417	Ryan D	55.8	LeftC	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-1-5_20130414	Ryan D	42	LeftA	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-3-1_20130416	Ryan D	45.3	LeftS	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-3-3_20130416	Ryan D	58	LeftA	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-3-6_20130416	Ryan D	54.1	LeftI	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-3-1_20130417	Ryan D	52.6	LeftS	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-3-2_20130417	Ryan D	54.7	LeftY	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-3-3_20130417	Ryan D	53.7	LeftA	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-3-4_20130417	Ryan D	52.5	LeftQ	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-3-5_20130417	Ryan D	49.4	LeftM	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-3-6_20130417	Ryan D	55.6	LeftI	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-1-1_20130417	Ryan D	47.3	LeftO	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-1-2_20130417	Ryan D	54.3	LeftW	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-1-3_20130417	Ryan D	48.8	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-1-4_20130417	Ryan D	47.8	LeftE	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-1-5_20130417	Ryan D	50	LeftK	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-1-6_20130417	Ryan D	48.6 	LeftC	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-2-2_20130416	Ryan D	52.1	LeftK	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-2-3_20130416	Ryan D	47	LeftE	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-2-4_20130416	Ryan D	51.2	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-2-5_20130416	Ryan D	50.8	LeftW	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ2-1-6_20130415	Ryan D	43	LeftQ	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ2-1-4_20130415	Ryan D	42	LeftA	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ2-1-3_20130415	Ryan D	42.6	LeftY	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ2-1-1_20130415	Ryan D	41.2	LeftS	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-3-2_20130416	Ryan D	58	LeftY	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-3-4_20130416	Ryan D	59	LeftQ	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-2-5_20130417	Ryan D	51.2	LeftK	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ1-1-1_20130412	Ryan D	47	LeftI																
+NIN_MNZ1-1-1-R_20130418	Ryan D	49	LeftW	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ1-1-2-R_20130418	Ryan D	49.3	LeftO	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-2-4_20130417	Ryan D	42	LeftE	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ1-1-3-R_20130418	Ryan D	53	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-2-3_20130417	Ryan D	50	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ1-1-5-R_20130418	Ryan D	45.5	LeftC	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ1-1-6-R_20130418	Ryan D	49.5	LeftK	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ1-2-1_20130411	RyanD		LeftM	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ1-2-2_20130411	Ryan D	45.4	LeftE	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ1-2-4_20130411	Ryan D	42	LeftC	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ1-2-5_20130411	Ryan D	47.2	LeftK	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ1-2-6_20130411	Ryan D	48	LeftI	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ1-3-2_20130411	Ryan D	54	LeftW	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ1-3-3_20130411	Ryan D	50	LeftS	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CSZ1-3-5_20130416	Ryan D	59	LeftM	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-2-2_20130417	Ryan D	50.5	LeftW	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ1-3-6_20130411	Ryan D	56	LeftQ	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ2-1-1-R_20130411	Ryan D	39.8	LeftM	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ2-1-3_20130410	Ryan D	54.1	LeftI	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ2-1-4-R_20130411	Ryan D	40.1	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ2-1-5-R_20130411	Ryan D	40.9	LeftC	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ2-1-6-R_20130411	Ryan D	41.9	LeftK	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ2-2-3_20130410	Ryan D	54.1	LeftS	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ2-2-5-R_20130411	Ryan D	35.2	LeftA	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ2-2-6-R_20130411	Ryan D	52	LeftY	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_CNZ1-2-1_20130417	Ryan D	51.1	LeftO	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ2-3-3_20130410	Ryan D	43.5	LeftC	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ2-3-4-R_20130411	Ryan D	45.5	LeftS	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_ONZ1-2-5_20130412	Ryan D	51.9	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MNZ2-3-6-R_20130411	Ryan D	44.1	LeftO	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MSZ1-1-5_20130411	Ryan D	50	LeftE	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MSZ1-1-6_20130411	Ryan D	46	LeftM	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MSZ1-2-1_20130412	Ryan D	48	LeftE	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MSZ1-2-2_20130412	Ryan D	45.4	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MSZ1-2-3_20130412	Ryan D	47.3	LeftC	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MSZ1-2-4_20130412	Ryan D	42	LeftK	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MSZ1-2-5_20130412	Ryan D	47.7	LeftM	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MSZ1-2-6_20130412	Ryan D	54.5	LeftI	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MSZ1-3-2_20130412	Ryan D	51	LeftA																
+NIN_MSZ1-3-3_20130412	Ryan D	48.8	LeftY	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_MSZ1-3-4_20130412	Ryan D	55.8	LeftS																
+NIN_MSZ1-3-5_20130412	Ryan D	48.6	LeftW	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_ONZ1-1-1_20130412	Ryan D		LeftO	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_ONZ1-1-2_20130412	Ryan D		LeftW	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_ONZ1-1-3_20130412	Ryan D		LeftS	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_ONZ1-1-4_20130412	Ryan D		LeftY	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_ONZ1-1-5_20130412	Ryan D		LeftA	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_ONZ1-1-6_20130412	Ryan D		LeftQ	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_ONZ1-2-4_20130412	Ryan D	42.6	LeftC	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_ONZ1-2-6	Ryan D	42	LeftE	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_ONZ1-3-1_20130413	Ryan D	42	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_ONZ1-3-2_20130413	Ryan D	42.2	LeftE	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_ONZ1-3-4_20130413	Ryan D	51.4	LeftC	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_ONZ1-3-5_20130413	Ryan D	56.4	LeftI	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_ONZ1-3-6_20130413	Ryan D	53	LeftM	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-1-1_20130413	Ryan D	49.6	LeftM	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-1-2_20130413	Ryan D	44	LeftI	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-1-3_20130413	Ryan D	48.5	LeftC	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-1-4_20130413	Ryan D	49.1	LeftK	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-1-5_20130413	Ryan D	41.3	LeftE	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-1-6_20130413	Ryan D	47.3	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-2-1_20130413	Ryan D	53.3	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-2-3_20130413	Ryan D	50.6	LeftK	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-2-4_20130413	Ryan D	53	LeftC	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-2-5_20130413	Ryan D	53	LeftI	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-2-6_20130413	Ryan D	53.4	LeftM	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-3-1_20130418	Ryan D	52	LeftK	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-3-2_20130418	Ryan D	47	LeftC	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-3-3_20130418	Ryan D	45.8	LeftE	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-3-4_20130418	Ryan D	51.4	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-3-5_20130418	Ryan D	56.4	LeftW	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_OSZ1-3-6_20130418	Ryan D	53	LeftO	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-1-1_20130414	Ryan D	41.5	LeftO	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-1-2_20130414	Ryan D	41	LeftW	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-1-3_20130414	Ryan D	41.1	LeftS	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-1-4_20130414	Ryan D	41	LeftY	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-1-6_20130414	Ryan D	42	LeftQ	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-2-1R_20130416	Ryan D	45.1	LeftI	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-2-2R_20130416	Ryan D	44	LeftM	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-2-3R_20130416	Ryan D	43.6	LeftQ	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-2-4R_20130416	Ryan D	44.5	LeftA	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-2-5R_20130416	Ryan D	44.4	LeftY	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-2-6R_20130416	Ryan D	44	LeftS	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-3-1-R_20130416	Ryan D	43	LeftO	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-3-2-R_20130416	Ryan D	45	LeftW	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-3-3-R_20130416	Ryan D	47	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-3-4-R_20130416	Ryan D	47.3	LeftE	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-3-5-R_20130416	Ryan D	47.8	LeftK	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ1-3-6-R_20130416	Ryan D	47	LeftC	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ2-2-1_20130415	Ryan D	43	LeftE	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ2-2-3_20130415	Ryan D	41.2	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ2-2-4_20130415	Ryan D	43	LeftO																
+NIN_PNZ2-2-6_20130415	Ryan D	41.1	LeftW																
+NIN_PNZ2-3-1_20130415	Ryan D	42.3	LeftK	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ2-3-2_20130415	Ryan D	41.8	LeftC	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ2-3-3_20130415	Ryan D	44.6	LeftI	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PNZ2-3-4_20130415	Ryan D	43.1	LeftM	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PSZ1-1-1_20130415	Ryan D	42	LeftW	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PSZ1-1-2_20130415	Ryan D	41.6	LeftO	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PSZ1-1-3_20130415	Ryan D	42	LeftU	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PSZ1-1-4_20130415	Ryan D	41.6	LeftE	Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+NIN_PSZ1-2-1_20130415	Ryan D	42	LeftK																
+NIN_PSZ1-2-2_20130415	Ryan D	43.2	LeftC																
+NIN_PSZ1-2-3_20130415	Ryan D	41.5	LeftI																
+NIN_PSZ1-2-4_20130415	Ryan D	41.2	LeftM																
+NIN_PSZ1-3-1_20130415	Ryan D	42.5	LeftS																
+NIN_PSZ1-3-2_20130415	Ryan D	42.7	LeftY																
+NIN_PSZ1-3-3_20130415	Ryan D	41.5	LeftA																

@@ -1,0 +1,279 @@
+Opcode,Period,Transect,Latitude_dd,Longitude_dd,Date_time,Site,Location,Status,Depth_m,Successful_count,Successful_length,Observer_count,Observer_length,Transect_Length,DBCA_Zone,DBCA_Sanctuary
+JMP-S10,1,JMP-S10-1,-30.26946392,114.9700154,2021-05-05T11:22:13+08:00,S10,JMP,Fished,11,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,North Head
+JMP-S10,2,JMP-S10-2,-30.26947842,114.9696375,2021-05-05T11:24:04+08:00,S10,JMP,Fished,11,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,North Head
+JMP-S10,3,JMP-S10-3,-30.26941292,114.9692978,2021-05-05T11:24:52+08:00,S10,JMP,Fished,11,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,North Head
+JMP-S10,4,JMP-S10-4,-30.26913475,114.9691008,2021-05-05T11:26:57+08:00,S10,JMP,Fished,11,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,North Head
+JMP-S10,5,JMP-S10-5,-30.26894825,114.969339,2021-05-05T11:28:27+08:00,S10,JMP,Fished,11,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,North Head
+JMP-S10,6,JMP-S10-6,-30.26870408,114.9695753,2021-05-05T11:30:11+08:00,S10,JMP,Fished,11,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,North Head
+JMP-S10,7,JMP-S10-7,-30.26843908,114.9697885,2021-05-05T11:31:49+08:00,S10,JMP,Fished,11,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,North Head
+JMP-S10,8,JMP-S10-8,-30.26813917,114.9699283,2021-05-05T11:33:35+08:00,S10,JMP,Fished,11,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,North Head
+JMP-S10,9,JMP-S10-9,-30.26787075,114.9701044,2021-05-05T11:35:35+08:00,S10,JMP,Fished,11,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,North Head
+JMP-S10,10,JMP-S10-10,-30.26759917,114.9703159,2021-05-05T11:37:02+08:00,S10,JMP,Fished,11,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,North Head
+JMP-S10,11,JMP-S10-11,-30.26750867,114.9706278,2021-05-05T11:38:43+08:00,S10,JMP,Fished,11,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,North Head
+JMP-S10,12,JMP-S10-12,-30.26737225,114.9709248,2021-05-05T11:41:00+08:00,S10,JMP,Fished,11,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,North Head
+JMP-S14,1,JMP-S14-1,-30.15493908,114.9959551,2021-04-29T08:57:39+08:00,S14,JMP,No-take,3.7,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S14,2,JMP-S14-2,-30.15544192,114.9959913,2021-04-29T09:02:53+08:00,S14,JMP,No-take,1.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S14,3,JMP-S14-3,-30.15556067,114.9956821,2021-04-29T09:05:15+08:00,S14,JMP,No-take,3.2,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S14,4,JMP-S14-4,-30.1557515,114.9955753,2021-04-29T09:07:34+08:00,S14,JMP,No-take,3.7,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S14,5,JMP-S14-5,-30.15588175,114.9955108,2021-04-29T09:10:33+08:00,S14,JMP,No-take,3.7,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S14,6,JMP-S14-6,-30.156167,114.995496,2021-04-29T09:12:21+08:00,S14,JMP,No-take,2.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S14,7,JMP-S14-7,-30.15638858,114.9952573,2021-04-29T09:14:34+08:00,S14,JMP,No-take,3.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S14,8,JMP-S14-8,-30.15664708,114.995311,2021-04-29T09:17:02+08:00,S14,JMP,No-take,3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S14,9,JMP-S14-9,-30.15683367,114.9950449,2021-04-29T09:19:35+08:00,S14,JMP,No-take,4.6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S14,10,JMP-S14-10,-30.1570955,114.9950748,2021-04-29T09:22:35+08:00,S14,JMP,No-take,4.6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S14,11,JMP-S14-11,-30.157334,114.994848,2021-04-29T09:25:08+08:00,S14,JMP,No-take,5.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S14,12,JMP-S14-12,-30.15757658,114.9949668,2021-04-29T09:27:36+08:00,S14,JMP,No-take,5.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S15,1,JMP-S15-1,-30.15642142,114.9673223,2021-05-02T08:45:07+08:00,S15,JMP,Fished,4.8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S15,2,JMP-S15-2,-30.15655433,114.9671513,2021-05-02T08:47:12+08:00,S15,JMP,Fished,5.4,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S15,3,JMP-S15-3,-30.156668,114.9668705,2021-05-02T08:49:00+08:00,S15,JMP,Fished,6.3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S15,4,JMP-S15-4,-30.1565535,114.966539,2021-05-02T08:50:30+08:00,S15,JMP,Fished,6.8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S15,5,JMP-S15-5,-30.156857,114.9666055,2021-05-02T08:51:57+08:00,S15,JMP,Fished,6.9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S15,6,JMP-S15-6,-30.15715267,114.9665168,2021-05-02T08:53:14+08:00,S15,JMP,Fished,6.3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S15,7,JMP-S15-7,-30.15745158,114.9665368,2021-05-02T08:54:39+08:00,S15,JMP,Fished,5.6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S15,8,JMP-S15-8,-30.15773908,114.9665135,2021-05-02T08:55:57+08:00,S15,JMP,Fished,6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S15,9,JMP-S15-9,-30.15767725,114.9667643,2021-05-02T08:57:33+08:00,S15,JMP,Fished,5.6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S15,10,JMP-S15-10,-30.15743242,114.9669508,2021-05-02T08:59:02+08:00,S15,JMP,Fished,5.6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S15,11,JMP-S15-11,-30.15719908,114.9671588,2021-05-02T09:00:30+08:00,S15,JMP,Fished,4.4,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S15,12,JMP-S15-12,-30.15694375,114.9673377,2021-05-02T09:02:09+08:00,S15,JMP,Fished,4.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Fisherman Islands
+JMP-S23,1,JMP-S23-1,-30.4860715,115.0298969,2021-05-14T07:57:34+08:00,S23,JMP,Fished,4.9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S23,2,JMP-S23-2,-30.48609433,115.0297013,2021-05-14T07:59:26+08:00,S23,JMP,Fished,4.8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S23,3,JMP-S23-3,-30.4862745,115.0293953,2021-05-14T08:00:10+08:00,S23,JMP,Fished,5.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S23,4,JMP-S23-4,-30.48618875,115.0290516,2021-05-14T08:02:26+08:00,S23,JMP,Fished,6.3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S23,5,JMP-S23-5,-30.48595175,115.0290724,2021-05-14T08:04:36+08:00,S23,JMP,Fished,6.3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S23,6,JMP-S23-6,-30.48579633,115.0288585,2021-05-14T08:07:43+08:00,S23,JMP,Fished,6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S23,7,JMP-S23-7,-30.4855355,115.0287725,2021-05-14T08:09:36+08:00,S23,JMP,Fished,5.9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S23,8,JMP-S23-8,-30.48528325,115.0289988,2021-05-14T08:11:11+08:00,S23,JMP,Fished,5.4,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S23,9,JMP-S23-9,-30.48509425,115.0292923,2021-05-14T08:13:31+08:00,S23,JMP,Fished,4.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S23,10,JMP-S23-10,-30.48493375,115.0296214,2021-05-14T08:14:21+08:00,S23,JMP,Fished,4.4,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S23,11,JMP-S23-11,-30.48475892,115.0299504,2021-05-14T08:16:07+08:00,S23,JMP,Fished,3.9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S23,12,JMP-S23-12,-30.48490908,115.0301324,2021-05-14T08:19:11+08:00,S23,JMP,Fished,4.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S3,1,JMP-S3-1,-30.42103908,115.0019769,2021-05-01T13:42:00+08:00,S3,JMP,No-take,4.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S3,2,JMP-S3-2,-30.42134167,115.0020065,2021-05-01T13:44:10+08:00,S3,JMP,No-take,4.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S3,3,JMP-S3-3,-30.42179608,115.00184,2021-05-01T13:47:42+08:00,S3,JMP,No-take,3.7,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S3,4,JMP-S3-4,-30.42181533,115.0015069,2021-05-01T13:49:53+08:00,S3,JMP,No-take,8.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S3,5,JMP-S3-5,-30.42153525,115.0015548,2021-05-01T13:51:47+08:00,S3,JMP,No-take,5.3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S3,6,JMP-S3-6,-30.42126058,115.0014602,2021-05-01T13:53:28+08:00,S3,JMP,No-take,1.2,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S3,7,JMP-S3-7,-30.42117583,115.0011821,2021-05-01T13:55:16+08:00,S3,JMP,No-take,2.7,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S3,8,JMP-S3-8,-30.42136367,115.0008998,2021-05-01T13:57:19+08:00,S3,JMP,No-take,4.8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S3,9,JMP-S3-9,-30.42164183,115.0007993,2021-05-01T13:58:46+08:00,S3,JMP,No-take,8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S3,10,JMP-S3-10,-30.4217805,115.0010777,2021-05-01T14:00:54+08:00,S3,JMP,No-take,8.6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S3,11,JMP-S3-11,-30.4218405,115.0014126,2021-05-01T14:02:50+08:00,S3,JMP,No-take,8.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S3,12,JMP-S3-12,-30.4218405,115.0014126,2021-05-01T14:02:50+08:00,S3,JMP,No-take,8.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S33,1,JMP-S33-1,-30.44763374,114.991333,2021-05-17T09:29:46+08:00,S33,JMP,No-take,9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S33,2,JMP-S33-2,-30.44763374,114.991333,2021-05-17T09:31:41+08:00,S33,JMP,No-take,9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S33,3,JMP-S33-3,-30.44763374,114.991333,2021-05-17T09:33:37+08:00,S33,JMP,No-take,9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S33,4,JMP-S33-4,-30.44763374,114.991333,2021-05-17T09:35:32+08:00,S33,JMP,No-take,9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S33,5,JMP-S33-5,-30.44763374,114.991333,2021-05-17T09:37:28+08:00,S33,JMP,No-take,9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S33,6,JMP-S33-6,-30.44763374,114.991333,2021-05-17T09:39:23+08:00,S33,JMP,No-take,9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S33,7,JMP-S33-7,-30.44763374,114.991333,2021-05-17T09:41:19+08:00,S33,JMP,No-take,9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S33,8,JMP-S33-8,-30.44763374,114.991333,2021-05-17T09:43:14+08:00,S33,JMP,No-take,9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S33,9,JMP-S33-9,-30.44763374,114.991333,2021-05-17T09:45:10+08:00,S33,JMP,No-take,9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S33,10,JMP-S33-10,-30.44763374,114.991333,2021-05-17T09:47:05+08:00,S33,JMP,No-take,9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S33,11,JMP-S33-11,-30.44763374,114.991333,2021-05-17T09:49:00+08:00,S33,JMP,No-take,9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S33,12,JMP-S33-12,-30.44763374,114.991333,2021-05-17T09:50:56+08:00,S33,JMP,No-take,9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S36,1,JMP-S36-1,-30.34544642,115.0374634,2021-04-28T13:39:45+08:00,S36,JMP,No-take,3.2,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S36,2,JMP-S36-2,-30.34574892,115.0374248,2021-04-28T13:41:27+08:00,S36,JMP,No-take,2.7,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S36,3,JMP-S36-3,-30.34605633,115.0374994,2021-04-28T13:43:25+08:00,S36,JMP,No-take,2.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S36,4,JMP-S36-4,-30.34634825,115.0375032,2021-04-28T13:44:29+08:00,S36,JMP,No-take,4.9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S36,5,JMP-S36-5,-30.34665217,115.0375553,2021-04-28T13:46:09+08:00,S36,JMP,No-take,6.8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S36,6,JMP-S36-6,-30.34669483,115.0378892,2021-04-28T13:48:44+08:00,S36,JMP,No-take,4.9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S36,7,JMP-S36-7,-30.3464905,115.0380299,2021-04-28T13:50:41+08:00,S36,JMP,No-take,4.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S36,8,JMP-S36-8,-30.34620675,115.0381645,2021-04-28T13:53:17+08:00,S36,JMP,No-take,4.6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S36,9,JMP-S36-9,-30.34590558,115.0381551,2021-04-28T13:54:43+08:00,S36,JMP,No-take,4.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S36,10,JMP-S36-10,-30.34583133,115.0378046,2021-04-28T13:56:19+08:00,S36,JMP,No-take,4.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S36,11,JMP-S36-11,-30.34567667,115.0376745,2021-04-28T13:58:00+08:00,S36,JMP,No-take,4.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S36,12,JMP-S36-12,-30.345435,115.0374916,2021-04-28T14:00:22+08:00,S36,JMP,No-take,5.8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S42,1,JMP-S42-1,-30.29100375,114.9665043,2021-05-05T10:24:39+08:00,S42,JMP,Fished,7.4,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,NA
+JMP-S42,2,JMP-S42-2,-30.29092208,114.9663,2021-05-05T10:27:07+08:00,S42,JMP,Fished,11.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,NA
+JMP-S42,3,JMP-S42-3,-30.29083733,114.966181,2021-05-05T10:29:10+08:00,S42,JMP,Fished,13,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,NA
+JMP-S42,4,JMP-S42-4,-30.29060267,114.9664134,2021-05-05T10:30:26+08:00,S42,JMP,Fished,12,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,NA
+JMP-S42,5,JMP-S42-5,-30.29040242,114.9665538,2021-05-05T10:33:08+08:00,S42,JMP,Fished,11.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,NA
+JMP-S42,6,JMP-S42-6,-30.29013917,114.9663855,2021-05-05T10:34:40+08:00,S42,JMP,Fished,13.3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,NA
+JMP-S42,7,JMP-S42-7,-30.28984925,114.9662597,2021-05-05T10:36:14+08:00,S42,JMP,Fished,14.6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,NA
+JMP-S42,8,JMP-S42-8,-30.2896095,114.9663807,2021-05-05T10:37:59+08:00,S42,JMP,Fished,11.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,NA
+JMP-S42,9,JMP-S42-9,-30.28938408,114.966472,2021-05-05T10:39:25+08:00,S42,JMP,Fished,11.3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,NA
+JMP-S42,10,JMP-S42-10,-30.28911108,114.9665637,2021-05-05T10:41:16+08:00,S42,JMP,Fished,11.3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,NA
+JMP-S42,11,JMP-S42-11,-30.28883283,114.9664766,2021-05-05T10:42:51+08:00,S42,JMP,Fished,12.3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,NA
+JMP-S42,12,JMP-S42-12,-30.28854333,114.9664326,2021-05-05T10:44:36+08:00,S42,JMP,Fished,11.6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,NA
+JMP-S44_2,1,JMP-S44_2-1,-30.4789025,115.048891,2021-05-17T12:19:20+08:00,S44,JMP,Fished,4,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S44_2,2,JMP-S44_2-2,-30.47921633,115.0488678,2021-05-17T12:21:01+08:00,S44,JMP,Fished,3.4,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S44_2,3,JMP-S44_2-3,-30.47947767,115.0486886,2021-05-17T12:22:35+08:00,S44,JMP,Fished,4.3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S44_2,4,JMP-S44_2-4,-30.47959208,115.0484263,2021-05-17T12:24:01+08:00,S44,JMP,Fished,5.6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S44_2,5,JMP-S44_2-5,-30.4792905,115.0483583,2021-05-17T12:25:46+08:00,S44,JMP,Fished,5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S44_2,6,JMP-S44_2-6,-30.4791015,115.0481226,2021-05-17T12:27:28+08:00,S44,JMP,Fished,2,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S44_2,7,JMP-S44_2-7,-30.47923675,115.0477956,2021-05-17T12:28:52+08:00,S44,JMP,Fished,3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S44_2,8,JMP-S44_2-8,-30.47937883,115.0475348,2021-05-17T12:30:18+08:00,S44,JMP,Fished,5.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S44_2,9,JMP-S44_2-9,-30.47909292,115.0474353,2021-05-17T12:32:30+08:00,S44,JMP,Fished,7,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S44_2,10,JMP-S44_2-10,-30.47884383,115.0474767,2021-05-17T12:34:30+08:00,S44,JMP,Fished,7,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S44_2,11,JMP-S44_2-11,-30.47856542,115.0474286,2021-05-17T12:36:46+08:00,S44,JMP,Fished,6.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S44_2,12,JMP-S44_2-12,-30.47831417,115.0474668,2021-05-17T12:39:06+08:00,S44,JMP,Fished,5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S5,1,JMP-S5-1,-30.32920025,114.9891924,2021-05-05T09:03:05+08:00,S5,JMP,Fished,3.2,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S5,2,JMP-S5-2,-30.32948083,114.9890033,2021-05-05T09:05:39+08:00,S5,JMP,Fished,2.9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S5,3,JMP-S5-3,-30.32971883,114.9887679,2021-05-05T09:06:52+08:00,S5,JMP,Fished,3.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S5,4,JMP-S5-4,-30.3296215,114.9884313,2021-05-05T09:09:16+08:00,S5,JMP,Fished,3.2,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S5,5,JMP-S5-5,-30.32970292,114.9881064,2021-05-05T09:10:18+08:00,S5,JMP,Fished,3.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S5,6,JMP-S5-6,-30.32963658,114.9877506,2021-05-05T09:13:08+08:00,S5,JMP,Fished,4.4,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S5,7,JMP-S5-7,-30.32940258,114.9874974,2021-05-05T09:14:25+08:00,S5,JMP,Fished,4.3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S5,8,JMP-S5-8,-30.32913708,114.9876518,2021-05-05T09:15:53+08:00,S5,JMP,Fished,5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S5,9,JMP-S5-9,-30.32893692,114.9879067,2021-05-05T09:19:01+08:00,S5,JMP,Fished,5.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S5,10,JMP-S5-10,-30.32875708,114.9876988,2021-05-05T09:20:52+08:00,S5,JMP,Fished,3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S5,11,JMP-S5-11,-30.32889817,114.9873534,2021-05-05T09:22:42+08:00,S5,JMP,Fished,4.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S5,12,JMP-S5-12,-30.32909583,114.9870545,2021-05-05T09:24:15+08:00,S5,JMP,Fished,5.4,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Hill River
+JMP-S9,1,JMP-S9-1,-30.1340332,114.9489136,2021-04-29T10:35:55+08:00,S9,JMP,No-take,8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,Fisherman Islands
+JMP-S9,2,JMP-S9-2,-30.1340332,114.9489136,2021-04-29T10:38:28+08:00,S9,JMP,No-take,8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,Fisherman Islands
+JMP-S9,3,JMP-S9-3,-30.1340332,114.9489136,2021-04-29T10:41:02+08:00,S9,JMP,No-take,8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,Fisherman Islands
+JMP-S9,4,JMP-S9-4,-30.1340332,114.9489136,2021-04-29T10:43:35+08:00,S9,JMP,No-take,8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,Fisherman Islands
+JMP-S9,5,JMP-S9-5,-30.1340332,114.9489136,2021-04-29T10:46:09+08:00,S9,JMP,No-take,8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,Fisherman Islands
+JMP-S9,6,JMP-S9-6,-30.1340332,114.9489136,2021-04-29T10:48:42+08:00,S9,JMP,No-take,8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,Fisherman Islands
+JMP-S9,7,JMP-S9-7,-30.1340332,114.9489136,2021-04-29T10:51:15+08:00,S9,JMP,No-take,8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,Fisherman Islands
+JMP-S9,8,JMP-S9-8,-30.1340332,114.9489136,2021-04-29T10:53:49+08:00,S9,JMP,No-take,8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,Fisherman Islands
+JMP-S9,9,JMP-S9-9,-30.1340332,114.9489136,2021-04-29T10:56:22+08:00,S9,JMP,No-take,8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,Fisherman Islands
+JMP-S9,10,JMP-S9-10,-30.1340332,114.9489136,2021-04-29T10:58:55+08:00,S9,JMP,No-take,8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,Fisherman Islands
+JMP-S24,1,JMP-S24-1,-30.43475325,115.0357196,2021-05-01T14:53:52+08:00,S24,JMP,No-take,4.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S24,2,JMP-S24-2,-30.43503983,115.0356296,2021-05-01T14:55:40+08:00,S24,JMP,No-take,4.4,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S24,3,JMP-S24-3,-30.43525925,115.0355961,2021-05-01T14:58:00+08:00,S24,JMP,No-take,4.4,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S24,4,JMP-S24-4,-30.435432,115.0353945,2021-05-01T15:00:48+08:00,S24,JMP,No-take,4.9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S24,5,JMP-S24-5,-30.43572758,115.0353291,2021-05-01T15:02:44+08:00,S24,JMP,No-take,3.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S24,6,JMP-S24-6,-30.43603633,115.035277,2021-05-01T15:05:31+08:00,S24,JMP,No-take,6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S24,7,JMP-S24-7,-30.43630883,115.0351458,2021-05-01T15:07:35+08:00,S24,JMP,No-take,5.6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S24,8,JMP-S24-8,-30.43659342,115.0351113,2021-05-01T15:10:23+08:00,S24,JMP,No-take,4.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S24,9,JMP-S24-9,-30.43687575,115.0351904,2021-05-01T15:12:41+08:00,S24,JMP,No-take,2.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S24,10,JMP-S24-10,-30.43714333,115.0353353,2021-05-01T15:15:13+08:00,S24,JMP,No-take,5.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S24,11,JMP-S24-11,-30.43739992,115.0353987,2021-05-01T15:17:09+08:00,S24,JMP,No-take,1.3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S24,12,JMP-S24-12,-30.43759942,115.0356403,2021-05-01T15:20:38+08:00,S24,JMP,No-take,3.2,Yes,Yes,Sarah Jessop,Sarah Jessop,25,SP Scientific Reference,Hill River
+JMP-S25,1,JMP-S25-1,-30.11833025,114.952093,2021-05-02T10:03:15+08:00,S25,JMP,Fished,3.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Fisherman Islands
+JMP-S25,2,JMP-S25-2,-30.11862267,114.9520778,2021-05-02T10:04:52+08:00,S25,JMP,Fished,2.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Fisherman Islands
+JMP-S25,3,JMP-S25-3,-30.11891342,114.9522259,2021-05-02T10:07:15+08:00,S25,JMP,Fished,2.9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Fisherman Islands
+JMP-S25,4,JMP-S25-4,-30.11921583,114.9520781,2021-05-02T10:10:00+08:00,S25,JMP,Fished,3.7,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Fisherman Islands
+JMP-S25,5,JMP-S25-5,-30.11950333,114.9521915,2021-05-02T10:11:37+08:00,S25,JMP,Fished,2.7,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Fisherman Islands
+JMP-S25,6,JMP-S25-6,-30.11979792,114.9522392,2021-05-02T10:14:56+08:00,S25,JMP,Fished,3.2,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Fisherman Islands
+JMP-S25,7,JMP-S25-7,-30.12022208,114.952316,2021-05-02T10:19:44+08:00,S25,JMP,Fished,2.9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Fisherman Islands
+JMP-S25,8,JMP-S25-8,-30.12025858,114.9525671,2021-05-02T10:22:31+08:00,S25,JMP,Fished,3.2,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Fisherman Islands
+JMP-S25,9,JMP-S25-9,-30.12052175,114.9527171,2021-05-02T10:24:42+08:00,S25,JMP,Fished,3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Fisherman Islands
+JMP-S25,10,JMP-S25-10,-30.12081083,114.9528727,2021-05-02T10:26:22+08:00,S25,JMP,Fished,2.9,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Fisherman Islands
+JMP-S25,11,JMP-S25-11,-30.1209235,114.9531981,2021-05-02T10:28:00+08:00,S25,JMP,Fished,0.2,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Fisherman Islands
+JMP-S25,12,JMP-S25-12,-30.12075867,114.9535084,2021-05-02T10:29:16+08:00,S25,JMP,Fished,2.5,Yes,Yes,Sarah Jessop,Sarah Jessop,25,General Use,Fisherman Islands
+JMP-S35,1,JMP-S35-1,-30.334673,115.003853,2021-05-05T07:59:54+08:00,S35,JMP,No-take,1.7,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S35,2,JMP-S35-2,-30.334904,115.004137,2021-05-05T08:01:39+08:00,S35,JMP,No-take,1.2,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S35,3,JMP-S35-3,-30.335098,115.004183,2021-05-05T08:02:55+08:00,S35,JMP,No-take,0.8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S35,4,JMP-S35-4,-30.335413,115.003873,2021-05-05T08:05:11+08:00,S35,JMP,No-take,0.8,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S35,5,JMP-S35-5,-30.335747,115.003586,2021-05-05T08:07:33+08:00,S35,JMP,No-take,1.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S35,6,JMP-S35-6,-30.334902,115.003942,2021-05-05T08:14:00+08:00,S35,JMP,No-take,1.1,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S35,7,JMP-S35-7,-30.33455,115.004698,2021-05-05T08:18:37+08:00,S35,JMP,No-take,1.3,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S35,8,JMP-S35-8,-30.334596,115.004216,2021-05-05T08:20:45+08:00,S35,JMP,No-take,1.7,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S35,9,JMP-S35-9,-30.334471,115.003809,2021-05-05T08:22:38+08:00,S35,JMP,No-take,1.6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S35,10,JMP-S35-10,-30.334641,115.003625,2021-05-05T08:24:05+08:00,S35,JMP,No-take,2,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S35,11,JMP-S35-11,-30.33479,115.003388,2021-05-05T08:25:16+08:00,S35,JMP,No-take,1.2,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S35,12,JMP-S35-12,-30.335186,115.003456,2021-05-05T08:26:58+08:00,S35,JMP,No-take,0.6,Yes,Yes,Sarah Jessop,Sarah Jessop,25,Sanctuary,NA
+JMP-S1,1,JMP-S1-1,-30.23017879,114.999067,2021-04-28T08:56:18+08:00,S1,JMP,No-take,1.5,Yes,Yes,Damon,Damon,25,Sanctuary,North Head
+JMP-S1,2,JMP-S1-2,-30.23037763,114.9989967,2021-04-28T08:58:34+08:00,S1,JMP,No-take,1.7,Yes,Yes,Damon,Damon,25,Sanctuary,North Head
+JMP-S1,3,JMP-S1-3,-30.23048701,114.9986958,2021-04-28T09:00:22+08:00,S1,JMP,No-take,2,Yes,Yes,Damon,Damon,25,Sanctuary,North Head
+JMP-S1,4,JMP-S1-4,-30.23095794,114.998563,2021-04-28T09:04:23+08:00,S1,JMP,No-take,2.5,Yes,Yes,Damon,Damon,25,Sanctuary,North Head
+JMP-S1,5,JMP-S1-5,-30.23137034,114.9985479,2021-04-28T09:22:15+08:00,S1,JMP,No-take,2.9,Yes,Yes,Damon,Damon,25,Sanctuary,North Head
+JMP-S1,6,JMP-S1-6,-30.23122325,114.9983869,2021-04-28T09:24:00+08:00,S1,JMP,No-take,2.5,Yes,Yes,Damon,Damon,25,Sanctuary,North Head
+JMP-S1,7,JMP-S1-7,-30.23134464,114.9980275,2021-04-28T09:25:54+08:00,S1,JMP,No-take,2.2,Yes,Yes,Damon,Damon,25,Sanctuary,North Head
+JMP-S18,1,JMP-S18-1,-30.75500079,115.1703423,2021-05-18T09:12:16+08:00,S18,JMP,No-take,4.9,Yes,Yes,Damon,Damon,25,Sanctuary,Target Rock
+JMP-S18,2,JMP-S18-2,-30.75472162,115.1702435,2021-05-18T09:13:42+08:00,S18,JMP,No-take,4.5,Yes,Yes,Damon,Damon,25,Sanctuary,Target Rock
+JMP-S18,3,JMP-S18-3,-30.75447348,115.1700505,2021-05-18T09:15:13+08:00,S18,JMP,No-take,4.6,Yes,Yes,Damon,Damon,25,Sanctuary,Target Rock
+JMP-S18,4,JMP-S18-4,-30.75425891,115.1698107,2021-05-18T09:16:31+08:00,S18,JMP,No-take,4.9,Yes,Yes,Damon,Damon,25,Sanctuary,Target Rock
+JMP-S18,5,JMP-S18-5,-30.75393366,115.1698087,2021-05-18T09:18:05+08:00,S18,JMP,No-take,4.8,Yes,Yes,Damon,Damon,25,Sanctuary,Target Rock
+JMP-S18,6,JMP-S18-6,-30.75365586,115.1696953,2021-05-18T09:19:32+08:00,S18,JMP,No-take,4.6,Yes,Yes,Damon,Damon,25,Sanctuary,Target Rock
+JMP-S18,7,JMP-S18-7,-30.75341735,115.1694568,2021-05-18T09:20:55+08:00,S18,JMP,No-take,4.5,Yes,Yes,Damon,Damon,25,Sanctuary,Target Rock
+JMP-S18,8,JMP-S18-8,-30.75313003,115.1693494,2021-05-18T09:22:16+08:00,S18,JMP,No-take,4.9,Yes,Yes,Damon,Damon,25,Sanctuary,Target Rock
+JMP-S18,9,JMP-S18-9,-30.75285071,115.1692301,2021-05-18T09:23:58+08:00,S18,JMP,No-take,5.1,Yes,Yes,Damon,Damon,25,Sanctuary,Target Rock
+JMP-S18,10,JMP-S18-10,-30.75260815,115.168958,2021-05-18T09:25:32+08:00,S18,JMP,No-take,4.6,Yes,Yes,Damon,Damon,25,Sanctuary,Target Rock
+JMP-S18,11,JMP-S18-11,-30.75236136,115.1687598,2021-05-18T09:26:50+08:00,S18,JMP,No-take,4.7,Yes,Yes,Damon,Damon,25,Sanctuary,Target Rock
+JMP-S18,12,JMP-S18-12,-30.75205513,115.168642,2021-05-18T09:28:22+08:00,S18,JMP,No-take,4.9,Yes,Yes,Damon,Damon,25,Sanctuary,Target Rock
+JMP-S22,1,JMP-S22-1,-30.5887206,115.0631052,2021-05-17T15:03:26+08:00,S22,JMP,Fished,2.9,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S22,2,JMP-S22-2,-30.58854938,115.0633513,2021-05-17T15:04:54+08:00,S22,JMP,Fished,2.6,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S22,3,JMP-S22-3,-30.58841768,115.063916,2021-05-17T15:07:42+08:00,S22,JMP,Fished,3.7,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S22,4,JMP-S22-4,-30.58853137,115.0642346,2021-05-17T15:09:03+08:00,S22,JMP,Fished,3.4,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S22,5,JMP-S22-5,-30.58866155,115.064586,2021-05-17T15:10:28+08:00,S22,JMP,Fished,3.7,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S22,6,JMP-S22-6,-30.58862064,115.064869,2021-05-17T15:11:51+08:00,S22,JMP,Fished,2.6,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S22,7,JMP-S22-7,-30.5883042,115.0648796,2021-05-17T15:13:21+08:00,S22,JMP,Fished,2.7,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S22,8,JMP-S22-8,-30.58803316,115.0649403,2021-05-17T15:14:48+08:00,S22,JMP,Fished,2.9,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S22,9,JMP-S22-9,-30.58821772,115.0645844,2021-05-17T15:18:30+08:00,S22,JMP,Fished,1.8,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S22,10,JMP-S22-10,-30.58833406,115.0643778,2021-05-17T15:20:02+08:00,S22,JMP,Fished,2.6,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S22,11,JMP-S22-11,-30.58810744,115.0643261,2021-05-17T15:21:52+08:00,S22,JMP,Fished,4.3,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S22,12,JMP-S22-12,-30.58782183,115.0643599,2021-05-17T15:23:40+08:00,S22,JMP,Fished,4.2,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S26,1,JMP-S26-1,-30.68196791,115.0963593,2021-05-18T14:35:03+08:00,S26,JMP,Fished,9.4,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S26,2,JMP-S26-2,-30.68171082,115.0964487,2021-05-18T14:36:29+08:00,S26,JMP,Fished,9,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S26,3,JMP-S26-3,-30.68145668,115.0961396,2021-05-18T14:38:12+08:00,S26,JMP,Fished,9.5,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S26,4,JMP-S26-4,-30.68132168,115.0953897,2021-05-18T14:41:14+08:00,S26,JMP,Fished,12.8,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S26,5,JMP-S26-5,-30.68102391,115.09526,2021-05-18T14:42:47+08:00,S26,JMP,Fished,11.5,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S26,6,JMP-S26-6,-30.68081015,115.0949947,2021-05-18T14:44:19+08:00,S26,JMP,Fished,10.2,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S26,7,JMP-S26-7,-30.68057613,115.0948432,2021-05-18T14:45:48+08:00,S26,JMP,Fished,10.8,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S26,8,JMP-S26-8,-30.68030311,115.0946745,2021-05-18T14:47:12+08:00,S26,JMP,Fished,11.4,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S26,9,JMP-S26-9,-30.68009602,115.0943563,2021-05-18T14:49:11+08:00,S26,JMP,Fished,10.2,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S26,10,JMP-S26-10,-30.68006054,115.0945189,2021-05-18T15:01:17+08:00,S26,JMP,Fished,8.6,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S26,11,JMP-S26-11,-30.67982604,115.0947108,2021-05-18T15:03:17+08:00,S26,JMP,Fished,9.5,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S26,12,JMP-S26-12,-30.67953843,115.0948202,2021-05-18T15:04:46+08:00,S26,JMP,Fished,9.7,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S28,1,JMP-S28-1,-30.58869602,115.0495351,2021-05-17T14:02:53+08:00,S28,JMP,Fished,10,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S28,2,JMP-S28-2,-30.58897329,115.0486477,2021-05-17T14:11:22+08:00,S28,JMP,Fished,12.1,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S28,3,JMP-S28-3,-30.58923675,115.0482864,2021-05-17T14:24:54+08:00,S28,JMP,Fished,13.3,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S28,4,JMP-S28-4,-30.58946651,115.0485444,2021-05-17T14:26:12+08:00,S28,JMP,Fished,13,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S28,5,JMP-S28-5,-30.58949118,115.048924,2021-05-17T14:28:01+08:00,S28,JMP,Fished,10.2,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S28,6,JMP-S28-6,-30.58945971,115.0493342,2021-05-17T14:29:41+08:00,S28,JMP,Fished,10.3,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S28,7,JMP-S28-7,-30.58931473,115.0497415,2021-05-17T14:31:20+08:00,S28,JMP,Fished,8.2,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S28,8,JMP-S28-8,-30.58917272,115.0501943,2021-05-17T14:33:30+08:00,S28,JMP,Fished,9,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S28,9,JMP-S28-9,-30.58900155,115.050445,2021-05-17T14:34:40+08:00,S28,JMP,Fished,8.2,Yes,Yes,Damon,Damon,25,General Use,Green Islands
+JMP-S30,1,JMP-S30-1,-30.64705566,115.1247684,2021-05-18T15:34:48+08:00,S30,JMP,Fished,4.2,Yes,Yes,Damon,Damon,25,General Use,Cavanagh Reef
+JMP-S30,2,JMP-S30-2,-30.64694512,115.1248044,2021-05-18T15:37:29+08:00,S30,JMP,Fished,3.7,Yes,Yes,Damon,Damon,25,General Use,Cavanagh Reef
+JMP-S30,3,JMP-S30-3,-30.64676505,115.1250158,2021-05-18T15:39:06+08:00,S30,JMP,Fished,4.6,Yes,Yes,Damon,Damon,25,General Use,Cavanagh Reef
+JMP-S30,4,JMP-S30-4,-30.64648913,115.1249856,2021-05-18T15:40:48+08:00,S30,JMP,Fished,4.9,Yes,Yes,Damon,Damon,25,General Use,Cavanagh Reef
+JMP-S30,5,JMP-S30-5,-30.64610366,115.1248049,2021-05-18T15:44:37+08:00,S30,JMP,Fished,4.3,Yes,Yes,Damon,Damon,25,General Use,Cavanagh Reef
+JMP-S30,6,JMP-S30-6,-30.64552875,115.1243681,2021-05-18T15:48:41+08:00,S30,JMP,Fished,2.7,Yes,Yes,Damon,Damon,25,General Use,Cavanagh Reef
+JMP-S30,7,JMP-S30-7,-30.64559802,115.1240504,2021-05-18T15:50:33+08:00,S30,JMP,Fished,2.4,Yes,Yes,Damon,Damon,25,General Use,Cavanagh Reef
+JMP-S30,8,JMP-S30-8,-30.64562498,115.1237372,2021-05-18T15:52:12+08:00,S30,JMP,Fished,3.7,Yes,Yes,Damon,Damon,25,General Use,Cavanagh Reef
+JMP-S30,9,JMP-S30-9,-30.64583293,115.1236491,2021-05-18T15:54:05+08:00,S30,JMP,Fished,3.5,Yes,Yes,Damon,Damon,25,General Use,Cavanagh Reef
+JMP-S30,10,JMP-S30-10,-30.64607298,115.1237687,2021-05-18T15:55:36+08:00,S30,JMP,Fished,3.9,Yes,Yes,Damon,Damon,25,General Use,Cavanagh Reef
+JMP-S30,11,JMP-S30-11,-30.64629637,115.1238404,2021-05-18T15:57:23+08:00,S30,JMP,Fished,3.5,Yes,Yes,Damon,Damon,25,General Use,Cavanagh Reef
+JMP-S30,12,JMP-S30-12,-30.64636171,115.1238567,2021-05-18T15:59:32+08:00,S30,JMP,Fished,4,Yes,Yes,Damon,Damon,25,General Use,Cavanagh Reef
+JMP-S38,1,JMP-S38-1,-30.80020823,115.1871948,2021-05-18T10:13:04+08:00,S38,JMP,Fished,6.9,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S38,2,JMP-S38-2,-30.79991682,115.1871717,2021-05-18T10:14:55+08:00,S38,JMP,Fished,8.9,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S38,3,JMP-S38-3,-30.79950407,115.187188,2021-05-18T10:18:10+08:00,S38,JMP,Fished,8.9,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S38,4,JMP-S38-4,-30.79921573,115.1871416,2021-05-18T10:20:15+08:00,S38,JMP,Fished,8.2,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S38,5,JMP-S38-5,-30.79894464,115.1870301,2021-05-18T10:21:59+08:00,S38,JMP,Fished,7.7,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S38,6,JMP-S38-6,-30.79862953,115.1866616,2021-05-18T10:26:14+08:00,S38,JMP,Fished,8.2,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S38,7,JMP-S38-7,-30.79822461,115.1863425,2021-05-18T10:29:41+08:00,S38,JMP,Fished,7.6,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S38,8,JMP-S38-8,-30.79808313,115.186006,2021-05-18T10:31:28+08:00,S38,JMP,Fished,7.4,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S38,9,JMP-S38-9,-30.7976841,115.1857021,2021-05-18T10:36:17+08:00,S38,JMP,Fished,8.5,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S38,10,JMP-S38-10,-30.79823611,115.1853031,2021-05-18T10:42:44+08:00,S38,JMP,Fished,8.3,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S38,11,JMP-S38-11,-30.79849233,115.1854624,2021-05-18T10:44:05+08:00,S38,JMP,Fished,7.6,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S38,12,JMP-S38-12,-30.79867332,115.1857243,2021-05-18T10:46:00+08:00,S38,JMP,Fished,7.9,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S40,1,JMP-S40-1,-30.76850919,115.1417125,2021-05-18T08:14:44+08:00,S40,JMP,Fished,8.5,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Target Rock
+JMP-S40,2,JMP-S40-2,-30.76855528,115.1422448,2021-05-18T08:17:09+08:00,S40,JMP,Fished,10.9,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Target Rock
+JMP-S40,3,JMP-S40-3,-30.76821752,115.1425959,2021-05-18T08:19:37+08:00,S40,JMP,Fished,7.5,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Target Rock
+JMP-S40,4,JMP-S40-4,-30.76798129,115.1431956,2021-05-18T08:22:38+08:00,S40,JMP,Fished,10,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Target Rock
+JMP-S40,5,JMP-S40-5,-30.76766116,115.1431223,2021-05-18T08:24:12+08:00,S40,JMP,Fished,9,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Target Rock
+JMP-S40,6,JMP-S40-6,-30.76772787,115.1428123,2021-05-18T08:25:35+08:00,S40,JMP,Fished,8.9,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Target Rock
+JMP-S40,7,JMP-S40-7,-30.76776441,115.1423774,2021-05-18T08:27:14+08:00,S40,JMP,Fished,10.2,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Target Rock
+JMP-S40,8,JMP-S40-8,-30.76744229,115.142288,2021-05-18T08:28:37+08:00,S40,JMP,Fished,10,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Target Rock
+JMP-S40,9,JMP-S40-9,-30.76714916,115.1422434,2021-05-18T08:30:07+08:00,S40,JMP,Fished,9.8,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Target Rock
+JMP-S40,10,JMP-S40-10,-30.76663783,115.1419416,2021-05-18T08:32:41+08:00,S40,JMP,Fished,11.5,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Target Rock
+JMP-S40,11,JMP-S40-11,-30.76632993,115.1415042,2021-05-18T08:35:21+08:00,S40,JMP,Fished,11,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Target Rock
+JMP-S40,12,JMP-S40-12,-30.76623136,115.1412494,2021-05-18T08:37:05+08:00,S40,JMP,Fished,11.4,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Target Rock
+JMP-S41,1,JMP-S41-1,-30.71198718,115.1135265,2021-05-18T13:33:18+08:00,S41,JMP,Fished,11.9,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S41,2,JMP-S41-2,-30.71199652,115.1138688,2021-05-18T13:34:50+08:00,S41,JMP,Fished,10.4,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S41,3,JMP-S41-3,-30.71174782,115.1141715,2021-05-18T13:36:42+08:00,S41,JMP,Fished,8.5,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S41,4,JMP-S41-4,-30.71132192,115.1142396,2021-05-18T13:39:05+08:00,S41,JMP,Fished,7,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S41,5,JMP-S41-5,-30.71107612,115.1141717,2021-05-18T13:40:55+08:00,S41,JMP,Fished,6.2,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S41,6,JMP-S41-6,-30.7113036,115.1139069,2021-05-18T13:43:40+08:00,S41,JMP,Fished,8.4,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S41,7,JMP-S41-7,-30.7111318,115.1140435,2021-05-18T13:49:25+08:00,S41,JMP,Fished,6.7,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S41,8,JMP-S41-8,-30.71146862,115.1138857,2021-05-18T13:51:31+08:00,S41,JMP,Fished,9.4,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S41,9,JMP-S41-9,-30.71147583,115.1136279,2021-05-18T13:52:54+08:00,S41,JMP,Fished,9.1,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S41,10,JMP-S41-10,-30.71105253,115.1138324,2021-05-18T13:55:00+08:00,S41,JMP,Fished,8.3,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S41,11,JMP-S41-11,-30.71076052,115.1139432,2021-05-18T13:56:34+08:00,S41,JMP,Fished,7.5,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S41,12,JMP-S41-12,-30.71053074,115.1141077,2021-05-18T13:58:01+08:00,S41,JMP,Fished,7.6,Yes,Yes,Damon,Damon,25,SP Scientific Reference,Green Islands
+JMP-S43,1,JMP-S43-1,-30.80622285,115.1648331,2021-05-18T11:13:38+08:00,S43,JMP,Fished,7.2,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S43,2,JMP-S43-2,-30.80592801,115.1648493,2021-05-18T11:15:10+08:00,S43,JMP,Fished,6.8,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S43,3,JMP-S43-3,-30.80561566,115.1647923,2021-05-18T11:16:37+08:00,S43,JMP,Fished,6.4,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S43,4,JMP-S43-4,-30.80541377,115.1645552,2021-05-18T11:18:01+08:00,S43,JMP,Fished,7,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S43,5,JMP-S43-5,-30.80518958,115.1643149,2021-05-18T11:19:25+08:00,S43,JMP,Fished,7.5,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S43,6,JMP-S43-6,-30.80493004,115.1641901,2021-05-18T11:21:05+08:00,S43,JMP,Fished,7.5,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S43,7,JMP-S43-7,-30.80468464,115.1639929,2021-05-18T11:22:29+08:00,S43,JMP,Fished,7.4,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S43,8,JMP-S43-8,-30.80442943,115.1638697,2021-05-18T11:24:01+08:00,S43,JMP,Fished,7.4,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S43,9,JMP-S43-9,-30.80418034,115.1636805,2021-05-18T11:25:41+08:00,S43,JMP,Fished,7.8,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S43,10,JMP-S43-10,-30.80391988,115.1638405,2021-05-18T11:28:40+08:00,S43,JMP,Fished,6.6,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S43,11,JMP-S43-11,-30.80370125,115.1640448,2021-05-18T11:30:33+08:00,S43,JMP,Fished,6.4,Yes,Yes,Damon,Damon,25,General Use,Target Rock
+JMP-S43,12,JMP-S43-12,-30.80340786,115.1640952,2021-05-18T11:32:06+08:00,S43,JMP,Fished,7.1,Yes,Yes,Damon,Damon,25,General Use,Target Rock

@@ -1,0 +1,8 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+SBBFLAT_20180322_DOV	Tanika			Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+SB Shelter_20180323_DOV	Tanika			Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+SB204_20180320_DOV	Tanika			Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+SBY_HSTD_20180322_DOV	Caprice			Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+SBTurtle_20180321_DOV	Tanika			Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+SBY_SPT_20180321_DOV	Caprice 			Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	
+SB202_20180321_DOV	Tanika			Spare		Spare		Spare		Spare		Spare		Spare		Spare		Spare	

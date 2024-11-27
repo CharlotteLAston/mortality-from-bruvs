@@ -1,0 +1,35 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+NMP_20190730_MI1_DOV	Caprice Hyde	3-5m		Date	30/07/2019	Time	0.447916667	Location	Murion Islands	Site	MI1	Status	Rec	Latitude	-21.63678	Longitude	114.39077	Visibility	
+NMP_20190730_MI2_DOV	Caprice Hyde	3-4m		Date	30/07/2019	Time	0.479166667	Location	Murion Islands	Site	MI2	Status	SZ	Latitude	-21.65079	Longitude	114.37691	Visibility	
+NMP_20190730_MI3_DOV	Caprice Hyde	4-6m		Date	30/07/2019	Time	0.520833333	Location	Murion Islands	Site	MI3	Status	SZ	Latitude	-21.66043	Longitude	114.3735	Visibility	
+NMP_20190730_MI4_DOV	Caprice Hyde	4-6m		Date	30/07/2019	Time	0.553472222	Location	Murion Islands	Site	MI4	Status	Rec	Latitude	-21.67022	Longitude	114.35251	Visibility	
+NMP_20190731_B1_DOV	Caprice Hyde	3-4m		Date	31/07/2019	Time	0.541666667	Location	Bundegi	Site	B1	Status	Rec	Latitude	-21.83921	Longitude	114.17564	Visibility	
+NMP_20190731_B2_DOV	Caprice Hyde	4-6m		Date	31/07/2019	Time	0.571527778	Location	Bundegi	Site	B2	Status	SZ	Latitude	-21.856	Longitude	114.16995	Visibility	
+NMP_20190731_L1_DOV	Caprice Hyde	11-13m		Date	31/07/2019	Time	0.443055556	Location	Lighthouse Bay	Site	L1	Status	Rec	Latitude	-21.79904	Longitude	114.12791	Visibility	
+NMP_20190731_L2_DOV	Caprice Hyde	10-12m		Date	31/07/2019	Time	0.479861111	Location	Lighthouse Bay	Site	L2	Status	SZ	Latitude	-21.79652	Longitude	114.13527	Visibility	
+NMP_20190801_B3_DOV	Caprice Hyde	3-5m		Date	1/08/2019	Time	0.542361111	Location	Bundegi	Site	B3	Status	SZ	Latitude	-21.86648	Longitude	114.15926	Visibility	
+NMP_20190801_B4_DOV	Caprice Hyde	3-4m		Date	1/08/2019	Time	0.492361111	Location	Bundegi	Site	B4	Status	Rec	Latitude	-21.83633	Longitude	114.1777	Visibility	
+NMP_20190802_M1_DOV	Caprice Hyde	3m		Date	2/08/2019	Time	0.469444444	Location	Mandu	Site	M1	Status	SZ	Latitude	-22.10341	Longitude	113.88142	Visibility	
+NMP_20190802_M3_DOV	Caprice Hyde	5m		Date	2/08/2019	Time	0.413194444	Location	Mandu	Site	M3	Status	Rec	Latitude	-22.05195	Longitude	113.89831	Visibility	
+NMP_20190803_MB1_DOV	Caprice Hyde	2m		Date	3/08/2019	Time	0.479166667	Location	Mangrove Bay	Site	MB1	Status	SZ	Latitude	-21.96544	Longitude	113.92226	Visibility	
+NMP_20190803_MB2_DOV	Caprice Hyde	2m		Date	3/08/2019	Time	0.447222222	Location	Mangrove Bay	Site	MB2	Status	Rec	Latitude	-21.99948	Longitude	113.91345	Visibility	
+NMP_20190803_MB5_DOV	Caprice Hyde	2m		Date	3/08/2019	Time	0.527777778	Location	Mangrove Bay	Site	MB5	Status	SZ	Latitude	-21.95062	Longitude	113.92059	Visibility	
+NMP_20190803_T1_DOV	Caprice Hyde	3-5m		Date	3/08/2019	Time	0.604166667	Location	Tantabiddi	Site	T1	Status	Rec	Latitude	-21.90432	Longitude	113.9684	Visibility	
+NMP_20190803_T2_DOV	Caprice Hyde	3-4m		Date	3/08/2019	Time	0.569444444	Location	Tantabiddi	Site	T2	Status	SZ	Latitude	-21.90879	Longitude	113.96397	Visibility	
+NMP_20190804_CB1_DOV	Caprice Hyde	2-4m		Date	4/08/2019	Time	0.5625	Location	Coral Bay	Site	CB1	Status	Rec	Latitude	-23.17701	Longitude	113.75987	Visibility	
+NMP_20190804_CB2_DOV	Caprice Hyde	2-4m		Date	4/08/2019	Time	0.454861111	Location	Coral Bay	Site	CB2	Status	SZ	Latitude	-23.14517	Longitude	113.76387	Visibility	
+NMP_20190805_O3_DOV	Caprice Hyde	2m		Date	5/08/2019	Time	0.541666667	Location	Osprey	Site	O3	Status	SZ	Latitude	-22.22635	Longitude	113.83485	Visibility	
+NMP_20190805_O4_DOV	Caprice Hyde	2m		Date	5/08/2019	Time	0.506944444	Location	Osprey	Site	O4	Status	Rec	Latitude	-22.20492	Longitude	113.84399	Visibility	
+NMP_20190806_CB3_DOV	Caprice Hyde	2-3m		Date	6/08/2019	Time	0.569444444	Location	Coral Bay	Site	CB3	Status	SZ	Latitude	-23.14875	Longitude	113.75278	Visibility	
+NMP_20190806_CB5_DOV	Caprice Hyde	2m		Date	6/08/2019	Time	0.534722222	Location	Maud	Site	CB5	Status	Rec	Latitude	-23.21458	Longitude	113.76228	Visibility	
+NMP_20190806_P2_DOV	Caprice Hyde	2-3m		Date	6/08/2019	Time	0.447916667	Location	Pelican	Site	P2	Status	SZ	Latitude	-23.31876	Longitude	113.78	Visibility	
+NMP_20190806_P3_DOV	Caprice Hyde	2-4m		Date	6/08/2019	Time	0.489583333	Location	Pelican	Site	P3	Status	Rec	Latitude	-23.23191	Longitude	113.76211	Visibility	
+NMP_20190831_CL4_DOV	Caprice Hyde	2m		Date	31/08/2019	Time	0.447916667	Location	Cloates	Site	CL4	Status	Rec	Latitude	-22.55429	Longitude	113.65923	Visibility	
+NMP_20190831_W1_DOV	Caprice Hyde	2m		Date	31/08/2019	Time	0.489583333	Location	Winderabandi	Site	W1	Status	SZ	Latitude	-22.48597	Longitude	113.70692	Visibility	
+NMP_20190831_W2_DOV	Caprice Hyde	2m		Date	31/08/2019	Time	0.534722222	Location	Winderabandi	Site	W2	Status	Rec	Latitude	-22.36853	Longitude	113.75797	Visibility	
+NMP_20190901_CL2_DOV	Caprice Hyde	2-4m		Date	1/09/2019	Time	0.597222222	Location	Cloates	Site	CL2	Status	Rec	Latitude	-22.92786	Longitude	113.77872	Visibility	
+NMP_20190901_CL3_DOV	Caprice Hyde	3m		Date	1/09/2019	Time	0.527777778	Location	Cloates	Site	CL3	Status	SZ	Latitude	-22.64138	Longitude	113.62766	Visibility	
+NMP_20190901_CL5_DOV	Caprice Hyde	2m		Date	1/09/2019	Time	0.972222222	Location	Cloates	Site	CL5	Status	SZ	Latitude	-22.71045	Longitude	113.65596	Visibility	
+NMP_20190902_CF1_DOV	Caprice Hyde	2m		Date	2/09/2019	Time	0.402777778	Location	Cape Farquhar	Site	CF1	Status	Rec	Latitude	-23.65255	Longitude	113.60065	Visibility	
+NMP_20190902_CF2_DOV	Caprice Hyde	2m		Date	2/09/2019	Time	0.447916667	Location	Cape Farquhar	Site	CF2	Status	SZ	Latitude	-23.62978	Longitude	113.61387	Visibility	
+NMP_20190902_CF3_DOV	Caprice Hyde	2m		Date	2/09/2019	Time	0.475694444	Location	Cape Farquhar	Site	CF3	Status	SZ	Latitude	-23.58848	Longitude	113.64269	Visibility	
