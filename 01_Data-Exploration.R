@@ -86,19 +86,12 @@ dpird <- read.csv("Length data for Charlotte with brownspot.csv") %>%
   dplyr::select(Species, Year, Region, Lat, Lon, TL)
 
 dpird_sp <- dpird %>% 
-  filter(!is.na(Lat)) #%>% 
-  #st_as_sf(coords = c("Lat", "Lon"))
+  filter(!is.na(Lat))%>% 
+  mutate(sample_type = ifelse(Species %in% c("Pink Snapper", "Breaksea Cod"), "Fishery dependent", "Fishery independent"))
 
 
 #* Read in BRUV data ####
 setwd(data_dir)
-# SE_data <- readRDS("australian-synthesis_complete_length_lethrinus_nebulosus.RDS") %>% 
-#   dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"2006|2007|2008|2009|2010|2011|2012|2013|2014|2015|2016"))) %>% 
-#   dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Ningaloo|Exmouth")))  %>% 
-#   dplyr::select(sample, campaign, latitude, longitude) %>% 
-#   rename(x = longitude, y = latitude) %>% 
-#   filter(x <115.1) %>% 
-#   distinct(sample, .keep_all=TRUE)
 
 PS_data <- readRDS("australian-synthesis_complete_length_chrysophrys_auratus.RDS") %>% 
   dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Marmion|TwoRocks|Two.Rocks|Capes|Geographe|SwC|south-west|Ngari|Warnbro|Rottnest"))) %>% 
@@ -108,12 +101,12 @@ PS_data <- readRDS("australian-synthesis_complete_length_chrysophrys_auratus.RDS
   rename(x = longitude, y = latitude) %>% 
   distinct(sample, .keep_all=TRUE)
 
-WKW_metro_data <- readRDS("australian-synthesis_complete_length_coris_auricularis.RDS") %>% 
-  dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Two.Rocks|TwoRocks|Warnbro|Marmion|Rottnest"))) %>%
-  dplyr::filter(str_detect(campaign, "2006|2007|2008|2009")) %>% 
-  dplyr::select(sample, campaign, latitude, longitude) %>% 
-  rename(x = longitude, y = latitude) %>% 
-  distinct(sample, .keep_all=TRUE)
+# WKW_metro_data <- readRDS("australian-synthesis_complete_length_coris_auricularis.RDS") %>% 
+#   dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Two.Rocks|TwoRocks|Warnbro|Marmion|Rottnest"))) %>%
+#   dplyr::filter(str_detect(campaign, "2006|2007|2008|2009")) %>% 
+#   dplyr::select(sample, campaign, latitude, longitude) %>% 
+#   rename(x = longitude, y = latitude) %>% 
+#   distinct(sample, .keep_all=TRUE)
 
 WKW_jurien_data <- readRDS("australian-synthesis_complete_length_coris_auricularis.RDS") %>% 
   dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Jurien"))) %>%
@@ -140,12 +133,12 @@ MW_metro_data <-readRDS("australian-synthesis_complete_length_opthalmolepis_line
   rename(x = longitude, y = latitude) %>% 
   distinct(sample, .keep_all=TRUE)
 
-MW_jurien_data <- readRDS("australian-synthesis_complete_length_opthalmolepis_lineolatus.RDS") %>% 
-  dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Jurien"))) %>% 
-  dplyr::filter(str_detect(campaign,"2006|2007|2008|2009")) %>% 
-  dplyr::select(sample, campaign, latitude, longitude) %>% 
-  rename(x = longitude, y = latitude) %>% 
-  distinct(sample, .keep_all=TRUE)
+# MW_jurien_data <- readRDS("australian-synthesis_complete_length_opthalmolepis_lineolatus.RDS") %>% 
+#   dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Jurien"))) %>% 
+#   dplyr::filter(str_detect(campaign,"2006|2007|2008|2009")) %>% 
+#   dplyr::select(sample, campaign, latitude, longitude) %>% 
+#   rename(x = longitude, y = latitude) %>% 
+#   distinct(sample, .keep_all=TRUE)
 
 # MW_capes_data <- readRDS("australian-synthesis_complete_length_opthalmolepis_lineolatus.RDS") %>% 
 #   dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Capes"))) %>% 
@@ -156,40 +149,42 @@ MW_jurien_data <- readRDS("australian-synthesis_complete_length_opthalmolepis_li
 
 BS_Data <- readRDS("australian-synthesis_complete_length_epinephelides-armatus.RDS") %>% 
   # filter(length<MaxLen) %>% 
-  dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Jurien|Marmion|TwoRocks|Two.Rocks|Capes|Geographe|SwC|south-west|Ngari|Warnbro|Rottnest"))) %>% 
+  dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Marmion|TwoRocks|Two.Rocks|Capes|Geographe|SwC|south-west|Ngari|Warnbro|Rottnest"))) %>% 
   dplyr::filter(str_detect(campaign,"2006|2007|2008|2009|2010|2011")) %>% 
   dplyr::select(sample, campaign, latitude, longitude) %>% 
   rename(x = longitude, y = latitude) %>% 
   distinct(sample, .keep_all=TRUE)
 
-# BW_Data <- readRDS("australian-synthesis_complete_length_notolabrus-parilus.RDS") %>% 
-#   # filter(length<MaxLen) %>% 
-#   dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"2006|2007|2008|2009"))) %>% 
-#   dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Jurien|Marmion|TwoRocks|Two.Rocks|Warnbro|Rottnest"))) %>% 
-#   dplyr::select(sample, campaign, latitude, longitude) %>% 
-#   rename(x = longitude, y = latitude) %>% 
-#   distinct(sample, .keep_all=TRUE)
+BW_Data <- readRDS("australian-synthesis_complete_length_notolabrus-parilus.RDS") %>%
+  # filter(length<MaxLen) %>%
+  dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"2006|2007|2008|2009"))) %>%
+  dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"JMarmion|TwoRocks|Two.Rocks|Warnbro|Rottnest"))) %>%
+  dplyr::select(sample, campaign, latitude, longitude) %>%
+  rename(x = longitude, y = latitude) %>%
+  distinct(sample, .keep_all=TRUE)
 
-all_data <- rbind(PS_data,WKW_metro_data, WKW_jurien_data, MW_metro_data, MW_jurien_data, BS_Data)
+all_data <- rbind(PS_data, WKW_jurien_data, MW_metro_data, BS_Data, BW_Data) 
 
 #* plot heat map of all samples ####
 
 p1 <- ggplot() +
   geom_spatraster(data = bathy) +
-  scale_fill_gradient(high = "#b9cded", low = "#09357d",  name = "Depth") +
+  scale_fill_gradient(high = "#b9cded", low = "#09357d",  name = "Depth (m)") +
   new_scale_fill() +
   stat_density2d(data = all_data, aes(x = x, y = y, fill = after_stat(level),
                                            alpha = after_stat(level)),
-                 geom = "polygon", binwidth = 0.05, show.legend = F) + # , breaks = c(0, 0.05, 0.1, 0.99, 1)
-  geom_point(data = dpird_sp, aes(x=Lon, y=Lat), size=1)+
-  scale_fill_gradient2(low = "#f5ece1", mid = "#f2b46d", high = "#f78a05") +
+                 geom = "polygon", binwidth = 0.05, show.legend = T)+
+  scale_fill_gradient2(low = "#f5ece1", mid = "#f2b46d", high = "#f78a05", name="Area covered by\nstereo-BRUV sampling") +
   scale_alpha(range = c(0.5, 0.8), guide = "none") +   
+  geom_point(data = dpird_sp, aes(x=Lon, y=Lat, shape=sample_type), size=1, fill=NA)+
+  scale_shape_manual(values=c(4,19), name="Line fishing\nsampling type")+
   geom_sf(data = ausc, fill = "seashell2", colour = "black") +
-  coord_sf(xlim = c(112, 118), #124.9889
+  coord_sf(xlim = c(114, 118), #124.9889
            ylim = c(-36, -30)) + #-35.5, 21.9
   theme_minimal()+
-  theme(legend.position = c(1.2,0.4),
-        legend.justification = "right")+
+  theme(legend.position = c(1.4,0.3),
+        legend.justification = "right",
+        legend.key = element_rect(fill=NA, colour=NA))+
   annotation_scale(location="tr")
 p1
 
@@ -203,9 +198,7 @@ inset.map <- ggplot() +
   #          colour = "grey25", fill = "white", alpha = 1/5, size = 0.2) +
   # annotate("rect", xmin = 113, xmax = 115.061, ymin = -29.25, ymax = -28,
   #          colour = "grey25", fill = "white", alpha = 1/5, size = 0.2) +
-  annotate("rect", xmin=114.5, xmax=115.55, ymin=-34.5, ymax=-33.25,
-           colour = "grey25", fill = "white", alpha = 1/5, size = 0.2)+
-  annotate("rect", xmin=115, xmax=116, ymin=-33, ymax=-31,
+  annotate("rect", xmin=114, xmax=118, ymin=-36, ymax=-30,
            colour = "grey25", fill = "white", alpha = 1/5, size = 0.2)+
   theme_bw() +
   theme(axis.text = element_blank(), 
@@ -216,11 +209,11 @@ inset.map <- ggplot() +
   xlab(NULL)
 inset.map
 
-sample.plot <- p1 + inset_element(inset.map, left = -1.29, right = 3.675, top = 1, bottom = 0.6)  
+sample.plot <- p1 + inset_element(inset.map, left = -1.29, right = 3.8, top = 1, bottom = 0.6)  
 sample.plot
 
 setwd(fig_dir)
-ggsave(sample.plot, filename="Sample_plot.png", height = a4.width*1, width = a4.width*2, units  ="mm", dpi = 300 )
+ggsave(sample.plot, filename="Sample_plot.png", height = a4.width*1.5, width = a4.width*2.5, units  ="mm", dpi = 300 )
 
 
 #### Spatial plots of sample overlap ####
@@ -269,7 +262,7 @@ setwd(fig_dir)
 ggsave(breaksea, filename="breaksea_plot.png", height = a4.width*1, width = a4.width*2, units  ="mm", dpi = 300 )
 
 #* Western King Wrasse
-temp_wkw <- rbind(WKW_jurien_data, WKW_metro_data) 
+temp_wkw <- rbind(WKW_jurien_data) 
 
 
 KingWrasse <- ggplot() +
@@ -282,9 +275,9 @@ KingWrasse <- ggplot() +
   scale_fill_gradient2(low = "#f5ece1", mid = "#f2b46d", high = "#f78a05") +
   scale_alpha(range = c(0.5, 0.8), guide = "none") +   
   geom_sf(data = ausc, fill = "seashell2", colour = "black") +
-  geom_point(data = dpird_sp %>% filter(Species %in% "King Wrasse"), aes(x=Lon, y=Lat))+
+  geom_point(data = dpird_sp %>% filter(Species %in% "King Wrasse" & Region %in% "Jurien"), aes(x=Lon, y=Lat))+
   coord_sf(xlim = c(113, 117), #124.9889
-           ylim = c(-32.5, -29)) + #-35.5, 21.9
+           ylim = c(-29.5, -33)) + #-35.5, 21.9
   theme_minimal()+
   annotation_scale(location="tr")
 KingWrasse
@@ -293,7 +286,7 @@ setwd(fig_dir)
 ggsave(KingWrasse, filename="KingWrasse_plot.png", height = a4.width*1, width = a4.width*2, units  ="mm", dpi = 300 )
 
 #* Maori Wrasse
-temp_mw <- rbind(MW_jurien_data, MW_metro_data) 
+temp_mw <- rbind(MW_metro_data) 
 
 MaoriWrasse <- ggplot() +
   geom_spatraster(data = bathy) +
@@ -305,9 +298,9 @@ MaoriWrasse <- ggplot() +
   scale_fill_gradient2(low = "#f5ece1", mid = "#f2b46d", high = "#f78a05") +
   scale_alpha(range = c(0.5, 0.8), guide = "none") +   
   geom_sf(data = ausc, fill = "seashell2", colour = "black") +
-  geom_point(data = dpird_sp %>% filter(Species %in% "Maori Wrasse"), aes(x=Lon, y=Lat))+
-  coord_sf(xlim = c(113, 117), #124.9889
-           ylim = c(-32.5, -29)) + #-35.5, 21.9
+  geom_point(data = dpird_sp %>% filter(Species %in% "Maori Wrasse"&Region %in% "Metro"), aes(x=Lon, y=Lat))+
+  coord_sf(xlim = c(114, 117), #124.9889
+           ylim = c(-32.5, -30.5)) + #-35.5, 21.9
   theme_minimal()+
   annotation_scale(location="tr")
 MaoriWrasse
@@ -316,8 +309,7 @@ setwd(fig_dir)
 ggsave(MaoriWrasse, filename="MaoriWrasse_plot.png", height = a4.width*1, width = a4.width*2, units  ="mm", dpi = 300 )
 
 #* Brownspot Wrasse
-temp_mw <- rbind(BW_jurien_data, BW_metro_data) 
-
+temp_mw <- rbind(BW_Data) 
 
 BrownspotWrasse <- ggplot() +
   geom_spatraster(data = bathy) +
@@ -329,12 +321,16 @@ BrownspotWrasse <- ggplot() +
   scale_fill_gradient2(low = "#f5ece1", mid = "#f2b46d", high = "#f78a05") +
   scale_alpha(range = c(0.5, 0.8), guide = "none") +   
   geom_sf(data = ausc, fill = "seashell2", colour = "black") +
-  geom_point(data = dpird_sp %>% filter(Species %in% "Brownspot Wrasse"), aes(x=Lon, y=Lat))+
-  coord_sf(xlim = c(112, 118), #124.9889
-           ylim = c(-32.5, -29)) + #-35.5, 21.9
+  geom_point(data = dpird_sp %>% filter(Species %in% "Brownspot Wrasse"&Region %in% "Metro"), aes(x=Lon, y=Lat))+
+  coord_sf(xlim = c(113, 118), #124.9889
+           ylim = c(-32.5, -30.5)) + #-35.5, 21.9
   theme_minimal()+
   annotation_scale(location="tr")
 BrownspotWrasse
+
+setwd(fig_dir)
+ggsave(BrownspotWrasse, filename="BrownspottedWrasse_plot.png", height = a4.width*1, width = a4.width*2, units  ="mm", dpi = 300 )
+
 
 #### Plots of length distributions ####
 #* Pink snapper ####
@@ -362,7 +358,7 @@ snapper_metro_plot <- ggplot()+
   xlab(NULL)+
   ylab(NULL)+
   theme_classic()
-snapper_metro_plot
+
 
 
 #* Breaksea Cod  ####
@@ -496,51 +492,61 @@ MaoriWrasse_metro_plot <- ggplot()+
 MaoriWrasse_metro_plot
 
 #* Brownspot Wrasse ####
-# setwd(data_dir)
-# 
-# BW_length <-readRDS("australian-synthesis_complete_length_notolabrus-parilus.RDS") %>% 
-#   dplyr::filter(str_detect(campaign, "2006|2006|2007|2009")) %>%
-#   dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Rottnest|TwoRocks|Marmion|Warnbro|Two.Rocks"))) %>% 
-#   dplyr::select(species, length) %>% 
-#   mutate(Method = "BRUV")
-# 
-# BW_dpird <- dpird %>% 
-#   filter(Species %in% "Brownspot Wrasse") %>% 
-#   filter(Region %in% "Metro") %>% 
-#   select(Species, TL) %>% 
-#   rename(length = "TL",
-#          species = "Species") %>% 
-#   mutate(Method = "DPIRD")
-# 
-# BrownspotWrasse_lengths_metro <- rbind(BW_length, BW_dpird)
-# 
-# BrownspotWrasse_metro_plot <- ggplot()+
-#   geom_histogram(data=BrownspotWrasse_lengths_metro, aes(x=length, fill=Method))+
-#   theme_classic()
-# BrownspotWrasse_metro_plot
-# 
-# setwd(data_dir)
-# 
-# BW_length <-readRDS("australian-synthesis_complete_length_notolabrus-parilus.RDS") %>% 
-#   dplyr::filter(str_detect(campaign, "2006|2007|2008|2009")) %>%
-#   dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Jurien"))) %>% 
-#   dplyr::select(species, length) %>% 
-#   mutate(Method = "BRUV")
-# 
-# BW_dpird <- dpird %>% 
-#   filter(Species %in% "Brownspot Wrasse") %>% 
-#   filter(Region %in% "Jurien") %>% 
-#   select(Species, TL) %>% 
-#   rename(length = "TL",
-#          species = "Species") %>% 
-#   mutate(Method = "DPIRD")
-# 
-# BrownspotWrasse_lengths_jurien <- rbind(BW_length, BW_dpird)
-# 
-# BrownspotWrasse_jurien_plot <- ggplot()+
-#   geom_histogram(data=BrownspotWrasse_lengths_jurien, aes(x=length, fill=Method))+
-#   theme_classic()
-# BrownspotWrasse_jurien_plot
+setwd(data_dir)
+
+BW_length <-readRDS("australian-synthesis_complete_length_notolabrus-parilus.RDS") %>%
+  dplyr::filter(str_detect(campaign, "2006|2006|2007|2009")) %>%
+  dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Rottnest|TwoRocks|Marmion|Warnbro|Two.Rocks"))) %>%
+  dplyr::select(species, length) %>%
+  mutate(Method = "BRUV")
+range(BW_length$length)
+estimate_mode(BW_length$length)
+
+BW_dpird <- dpird %>%
+  filter(Species %in% "Brownspot Wrasse") %>%
+  filter(Region %in% "Metro") %>%
+  select(Species, TL) %>%
+  rename(length = "TL",
+         species = "Species") %>%
+  mutate(Method = "DPIRD")
+range(BW_dpird$length)
+estimate_mode(BW_dpird$length)
+
+BrownspotWrasse_lengths_metro <- rbind(BW_length, BW_dpird)
+
+BrownspotWrasse_metro_plot <- ggplot()+
+  geom_histogram(data=BrownspotWrasse_lengths_metro, aes(x=length, fill=Method), position="identity",alpha=0.5)+
+  scale_fill_manual(values=c("#66CCEE", "#BBCC33"), labels=c("Stereo-BRUV", "Line fishing"))+
+  xlab(NULL)+
+  ylab(NULL)+
+  theme_classic()
+BrownspotWrasse_metro_plot
+
+setwd(data_dir)
+
+BW_length <-readRDS("australian-synthesis_complete_length_notolabrus-parilus.RDS") %>%
+  dplyr::filter(str_detect(campaign, "2006|2007|2008|2009")) %>%
+  dplyr::filter_all(.vars_predicate = any_vars(str_detect(.,"Jurien"))) %>%
+  dplyr::select(species, length) %>%
+  mutate(Method = "BRUV")
+
+BW_dpird <- dpird %>%
+  filter(Species %in% "Brownspot Wrasse") %>%
+  filter(Region %in% "Jurien") %>%
+  select(Species, TL) %>%
+  rename(length = "TL",
+         species = "Species") %>%
+  mutate(Method = "DPIRD")
+
+BrownspotWrasse_lengths_jurien <- rbind(BW_length, BW_dpird)
+
+BrownspotWrasse_jurien_plot <- ggplot()+
+  geom_histogram(data=BrownspotWrasse_lengths_jurien, aes(x=length, fill=Method), position="identity",alpha=0.5)+
+  scale_fill_manual(values=c("#66CCEE", "#BBCC33"), labels=c("Stereo-BRUV", "Line fishing"))+
+  xlab(NULL)+
+  ylab(NULL)+
+  theme_classic()
+BrownspotWrasse_jurien_plot
 
 #### Put plots together ####
 setwd(fig_dir)
@@ -551,12 +557,13 @@ legend <- gtable_filter(ggplotGrob(snapper_metro_plot), "guide-box")
 
 Length_Dist_Plot <- grid.arrange(arrangeGrob(snapper_metro_plot + theme(legend.position="none"),
                                           Breaksea_metro_plot + theme(legend.position="none"),
-                                          KingWrasse_metro_plot + theme(legend.position="none"),
                                           KingWrasse_Jur_plot + theme(legend.position="none"),
                                           MaoriWrasse_metro_plot + theme(legend.position="none"),
+                                          BrownspotWrasse_metro_plot + theme(legend.position="none"),
                                           left=y.label,
                                           bottom=x.label,
-                                          right=legend))
+                                          right=legend,
+                                          ncol=2))
 ggsave(Length_Dist_Plot, filename="Length_Dist_Plot.png",height = a4.width*1, width = a4.width*1.1, units  ="mm", dpi = 300 )
 
 

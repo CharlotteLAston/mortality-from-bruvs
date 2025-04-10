@@ -2,6 +2,8 @@
 # Fitting catch curves to stereo-BRUV and DPIRD
 # length data for Pink Snapper
 ###################################################
+devtools::install_github("SAlexHesp/L3AssessRPackage", build_vignettes=TRUE, force=TRUE)
+
 library(tidyr)
 library(dplyr)
 library(stringr)
@@ -168,7 +170,7 @@ HistData
 SelParams = c(470, 50) # L50, L95-L50 for gear selectivity
 
 # SelectivityType=2 # 1=selectivity inputted as vector, 2=asymptotic logistic selectivity curve
-SelectivityType=1 # 1=selectivity inputted as vector, 2=asymptotic logistic selectivity curve
+SelectivityType=2 # 1=selectivity inputted as vector, 2=asymptotic logistic selectivity curve
 SelectivityAtLen = c(0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1) # selectivity vector
 PS_dpird_sel <- PS_dpird %>%
   filter(TL >410)
@@ -185,14 +187,14 @@ lbnd = midpt - (LenInterval/2)
 ubnd = midpt + (LenInterval/2)
 InitFishMort = 0.2 # specify starting parameters
 InitFishMort_logit = log(InitFishMort/(1-InitFishMort)) # logit transform
-InitL50 = 200
-InitDelta = 50
+InitL50 = 400
+InitDelta = 100
 DistnType=1 #2
 # InitTheta = 0.3 # specify starting parameters
 # InitTheta_logit = log(InitTheta/(1-InitTheta)) # logit transform
 # params = c(InitFishMort_logit, log(InitL50), log(InitDelta),InitTheta_logit)
-# params = c(InitFishMort_logit, log(InitL50), log(InitDelta))
-params = c(InitFishMort_logit)
+params = c(InitFishMort_logit, log(InitL50), log(InitDelta))
+# params = c(InitFishMort_logit)
 
 FittedRes_dpird=GetLengthBasedCatchCurveResults(params, DistnType, GrowthCurveType, GrowthParams, RefnceAges, MLL, SelectivityType, ObsRetCatchFreqAtLen,
                                           lbnd, ubnd, midpt, SelectivityAtLen, PropReleased, ObsDiscCatchFreqAtLen, DiscMort, CVSizeAtAge, MaxAge, NatMort, TimeStep)
