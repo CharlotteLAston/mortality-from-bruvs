@@ -723,3 +723,37 @@ WKWxSMW.sim.comp <- grid.arrange(arrangeGrob(comp_line_WKW_high+xlab(NULL)+ylab(
 
 ggsave(WKWxSMW.sim.comp, filename="WKWxSMW.sim.comp.png",height = a4.width*1.1, width = a4.height, units  ="mm", dpi = 300 )
 
+
+#### Additional plots for the paper ####
+## NEED TO RUN THE PLOTS IN THEIR ORIGINAL SCRIPTS 
+
+# Comparisons of selectivity
+
+setwd(fig_dir)
+x.label <- textGrob("Length (mm)", gp=gpar(fontsize=12))
+y.label <- textGrob("Probability", gp=gpar(fontsize=12), rot=90)
+
+a4.height=290
+
+selectivity_plots <- grid.arrange(arrangeGrob(selectivity_plot_auratus + geom_text(aes(label = "a)", x=25, y=1)),
+                                              selectivity_plot_armatus + geom_text(aes(label = "b)", x=25, y=1)),
+                                              selectivity_plot_lineolatus + geom_text(aes(label = "c)", x=25, y=1)),
+                                              left=y.label,
+                                              bottom=x.label,
+                                              nrow=2, ncol=2))
+
+ggsave(selectivity_plots, filename="Selectivity_comp.png",height = a4.height*0.5, width = a4.width, units  ="mm", dpi = 300 )
+
+y.label <- textGrob(expression(paste(italic("F") ~ (year^{-1}))), gp=gpar(fontsize=12), rot=90)
+
+mortlaity_plots <- grid.arrange(arrangeGrob(mortality.at.length_auratus + xlab(NULL)+ylab(NULL) + ylim(0,1) 
+                                            + scale_x_continuous(breaks=seq(0,1300, 200))+ geom_text(aes(label = "a)", x=25, y=1)),
+                                            mortality.at.length_armatus + xlab(NULL)+ylab(NULL)+ ylim(0,1)
+                                            + scale_x_continuous(breaks=seq(0,600, 100)) + geom_text(aes(label = "b)", x=25, y=1)),
+                                            mortality.at.length_lineolatus + xlab(NULL)+ylab(NULL)+ ylim(0,1)
+                                            +scale_x_continuous(breaks=seq(0,500, 100)) + geom_text(aes(label = "c)", x=25, y=1)),
+                                              left=y.label,
+                                              bottom=x.label,
+                                              nrow=2, ncol=2))
+
+ggsave(mortlaity_plots, filename="Mortality_at_length_comp.png",height = a4.height*0.5, width = a4.width, units  ="mm", dpi = 300 )

@@ -390,12 +390,22 @@ PlotLengthBasedCatchCurve_RetCatch(params, DistnType, MLL, SelectivityType, ObsR
                                    SelectivityAtLen, RetenAtLen, ObsDiscCatchFreqAtLen, DiscMort, GrowthCurveType, GrowthParams,
                                    RefnceAges, MaxAge, NatMort, TimeStep, MainLabel=NA,
                                    xaxis_lab=NA, yaxis_lab=NA, xmax=650, xint=50,
-                                   ymax=0.30, yint=0.02, PlotCLs=TRUE, FittedRes, nReps=200)
+                                   ymax=0.30, yint=0.02, PlotCLs=TRUE, FittedRes_bruv, nReps=200)
 
 PlotLengthBasedCatchCurve_Selectivity(params, DistnType, MLL, SelectivityType, ObsRetCatchFreqAtLen, lbnd, ubnd, midpt, SelectivityAtLen,
                                       RetenAtLen, ObsDiscCatchFreqAtLen, DiscMort, GrowthCurveType, GrowthParams, RefnceAges,
                                       MaxAge, NatMort, TimeStep, MainLabel=NA, xaxis_lab=NA, yaxis_lab=NA, xmax=1500, xint=50,
                                       ymax=1.0, yint=0.2, PlotCLs=TRUE, FittedRes, nReps=200)
+
+selectivity_plot <- X_PlotLengthBasedCatchCurve_Selectivity(params, DistnType, MLL, SelectivityType, ObsRetCatchFreqAtLen, lbnd, ubnd, midpt, SelectivityAtLen,
+                                                            RetenAtLen, ObsDiscCatchFreqAtLen, DiscMort, GrowthCurveType, GrowthParams, RefnceAges,
+                                                            MaxAge, NatMort, TimeStep, MainLabel=NA, xaxis_lab=NA, yaxis_lab=NA, xmax=600, xint=50,
+                                                            ymax=1.0, yint=0.2, PlotCLs=TRUE, FittedRes1=FittedRes_bruv, FittedRes2=FittedRes_line,
+                                                            nReps=200, colour1 = bruv_colour, colour2 = line_colour)
+selectivity_plot_armatus = print(selectivity_plot)
+
+setwd(fig_dir)
+ggsave(selectivity_plot, filename="Selectivity_E-armatus.png", height = a4.width*0.5, width = a4.width*0.75, units  ="mm", dpi = 300 )
 
 plot(midpt, lendat_bruv3/sum(lendat_bruv3), type="l", ylim=c(0,0.2))
 lines(midpt,ObsRetCatchFreqAtLen/sum(ObsRetCatchFreqAtLen),col="blue") #Actual observed data
@@ -404,7 +414,7 @@ plotting <- X_PlotLengthBasedCatchCurve_RetCatch(params, DistnType, MLL, Selecti
                                                  SelectivityAtLen, RetenAtLen, ObsDiscCatchFreqAtLen, DiscMort, GrowthCurveType, GrowthParams,
                                                  RefnceAges, MaxAge, NatMort, TimeStep, MainLabel=NA,
                                                  xaxis_lab=NA, yaxis_lab=NA, xmax=1500, xint=50,
-                                                 ymax=0.20, yint=0.02, PlotCLs=TRUE, FittedRes, nReps=200, Data="bruv")
+                                                 ymax=0.20, yint=0.02, PlotCLs=TRUE, FittedRes_bruv, nReps=200, Data="bruv")
 
 plot.label = deparse1(bquote(.(plotting$Fest)))
 
@@ -429,8 +439,11 @@ ggsave(good.plot, filename="Catch-Curve_E-armatus_bruv.png", height = a4.width*0
 # Plot mortality at length
 mortality.at.length <-X_PlotLengthBasedCatchCurve_Mortality(params, DistnType, MLL, SelectivityType, ObsRetCatchFreqAtLen, lbnd, ubnd, midpt, SelectivityAtLen,
                                                             PropReleased, ObsDiscCatchFreqAtLen, DiscMort, GrowthCurveType, GrowthParams, RefnceAges,
-                                                            MaxAge, NatMort, TimeStep, xmax=1500, xint=50, ymax=1, yint=0.02, 
+                                                            MaxAge, NatMort, TimeStep, xmax=600, xint=50, ymax=1, yint=0.02, 
                                                             FittedRes_1=FittedRes_bruv, FittedRes_2=FittedRes_line, colour_1=bruv_colour, colour_2=line_colour) 
+mortality.at.length_armatus <- print(mortality.at.length)
+
+
 setwd(fig_dir)
 ggsave(mortality.at.length, filename="Mortality-at-length_E-armatus.png", height = a4.width*0.5,width = a4.width, units  ="mm", dpi = 300 )
 

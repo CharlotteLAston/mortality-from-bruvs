@@ -402,5 +402,134 @@ X_PlotLengthBasedCatchCurve_Mortality <- function(params, DistnType, MLL, Select
   #par(.pardefault)
 }
 
+#### Plotting selectivity and retention ####
+X_PlotLengthBasedCatchCurve_Selectivity <- function (params, DistnType, MLL, SelectivityType, ObsRetCatchFreqAtLen, 
+                                                       lbnd, ubnd, midpt, SelectivityAtLen, RetenAtLen, ObsDiscCatchFreqAtLen, 
+                                                       DiscMort, GrowthCurveType, GrowthParams, RefnceAges, MaxAge, 
+                                                       NatMort, TimeStep, MainLabel, xaxis_lab, yaxis_lab, xmax, 
+                                                       xint, ymax, yint, PlotCLs, FittedRes1, FittedRes2, nReps, colour1, colour2) 
+{
+  
+    res = FittedRes1
+    res2 = FittedRes2
+    
+    FishLen = seq(0, max(ubnd), 1)
+    nFishLen = length(FishLen)
+    SelAtLength.sim = as.matrix(data.frame(matrix(nrow = nReps, 
+                                                  ncol = nFishLen)))
+    RetAtLength.sim = SelAtLength.sim
+    SelLandAtLength.sim = SelAtLength.sim
+    params = res$params
+    vcov.params = res$vcov.Params
+    set.seed(123)
+    sims = data.frame(MASS::mvrnorm(n = nReps, params, vcov.params))
+    for (j in 1:nReps) {
+      ParamVals = exp(unlist(sims[j, ]))
+      SelAtLength.sim[j, ] = 1/(1 + exp(-log(19) * (FishLen - ParamVals[2])/ParamVals[3]))
+      if (length(ParamVals == 5)) {
+        RetAtLength.sim[j, ] = 1/(1 + exp(-log(19) *  (FishLen - ParamVals[4])/ParamVals[5]))
+        SelLandAtLength.sim[j, ] = SelAtLength.sim[j, ] * RetAtLength.sim[j, ]
+      }
+      cat("j", j, "ParamVals", ParamVals, "\n")
+    }
+    EstGearSel.sim.med = as.vector(apply(SelAtLength.sim, 
+                                         2, median, na.rm = T))
+    EstGearSel.sim.low = as.vector(apply(SelAtLength.sim, 
+                                         2, quantile, probs = 0.025, na.rm = T))
+    EstGearSel.sim.up = as.vector(apply(SelAtLength.sim, 
+                                        2, quantile, probs = 0.975, na.rm = T))
+    
+      if (is.na(MLL)) {
+        EstRet.sim.med = rep(1, length(FishLen))
+        EstRet.sim.low = rep(1, length(FishLen))
+        EstRet.sim.up = rep(1, length(FishLen))
+      }
+      else {
+        RetAtLength = rep(1e-20, length(FishLen))
+        RetAtLength[which(FishLen >= MLL)] = 1
+        EstRet.sim.med = RetAtLength
+        EstRet.sim.low = RetAtLength
+        EstRet.sim.up = RetAtLength
+      }
+      
+      EstLandSel.sim.med = EstGearSel.sim.med * EstRet.sim.med
+      EstLandSel.sim.low = EstGearSel.sim.low * EstRet.sim.low
+      EstLandSel.sim.up = EstGearSel.sim.up * EstRet.sim.up
+    
+    SelAtLength.sim2 = as.matrix(data.frame(matrix(nrow = nReps, 
+                                                  ncol = nFishLen)))
+    RetAtLength.sim2 = SelAtLength.sim2
+    SelLandAtLength.sim2 = SelAtLength.sim2
+    
+    params2 = res2$params
+    vcov.params2 = res2$vcov.Params
+    set.seed(123)
+    sims2 = data.frame(MASS::mvrnorm(n = nReps, params2, vcov.params2))
+    for (j in 1:nReps) {
+      ParamVals2 = exp(unlist(sims2[j, ]))
+      SelAtLength.sim2[j, ] = 1/(1 + exp(-log(19) * (FishLen - 
+                                                      ParamVals2[2])/ParamVals2[3]))
+      if (length(ParamVals2 == 5)) {
+        RetAtLength.sim2[j, ] = 1/(1 + exp(-log(19) * 
+                                            (FishLen - ParamVals2[4])/ParamVals2[5]))
+        SelLandAtLength.sim2[j, ] = SelAtLength.sim2[j, 
+        ] * RetAtLength.sim2[j, ]
+      }
+      cat("j", j, "ParamVals", ParamVals, "\n")
+    }
+    EstGearSel.sim.med2 = as.vector(apply(SelAtLength.sim2, 
+                                         2, median, na.rm = T))
+    EstGearSel.sim.low2 = as.vector(apply(SelAtLength.sim2, 
+                                         2, quantile, probs = 0.025, na.rm = T))
+    EstGearSel.sim.up2 = as.vector(apply(SelAtLength.sim2, 
+                                        2, quantile, probs = 0.975, na.rm = T))
 
+      if (is.na(MLL)) {
+        EstRet.sim.med2 = rep(1, length(FishLen))
+        EstRet.sim.low2 = rep(1, length(FishLen))
+        EstRet.sim.up2 = rep(1, length(FishLen))
+      }
+      else {
+        RetAtLength2 = rep(1e-20, length(FishLen))
+        RetAtLength2[which(FishLen >= MLL)] = 1
+        EstRet.sim.med2 = RetAtLength2
+        EstRet.sim.low2 = RetAtLength2
+        EstRet.sim.up2 = RetAtLength2
+      }
+      
+      EstLandSel.sim.med2 = EstGearSel.sim.med2 * EstRet.sim.med2
+      EstLandSel.sim.low2 = EstGearSel.sim.low2 * EstRet.sim.low2
+      EstLandSel.sim.up2 = EstGearSel.sim.up2 * EstRet.sim.up2
+    
+    
+    if (PlotCLs == TRUE) {
+      sm1 = spline(FishLen, EstGearSel.sim.low, n = 100, 
+                   method = "natural")
+      sm2 = spline(FishLen, EstGearSel.sim.up, n = 100, 
+                   method = "natural")
+      smx = c(sm1$x, rev(sm2$x))
+      smy = c(sm1$y, rev(sm2$y))
+      
+      sm1.2 = spline(FishLen, EstGearSel.sim.low2, n = 100, 
+                   method = "natural")
+      sm2.2 = spline(FishLen, EstGearSel.sim.up2, n = 100, 
+                   method = "natural")
+      smx2 = c(sm1.2$x, rev(sm2.2$x))
+      smy2 = c(sm1.2$y, rev(sm2.2$y))
+    }
+    
+    nice_plot <- ggplot()+
+      geom_polygon(aes(x=smx, y=smy), colour=NA, fill=colour1, alpha=0.5)+ ## ADD TO PARAMETER LIST
+      geom_line(aes(x=FishLen, y=EstGearSel.sim.med), colour="grey40")+
+      geom_polygon(aes(x=smx2, y=smy2), colour=NA, fill=colour2, alpha=0.5)+ ## ADD TO PARAMETER LIST
+      geom_line(aes(x=FishLen, y=EstGearSel.sim.med2), colour="grey40")+
+      xlim(0, xmax)+
+      ylim(0,1)+
+      xlab(NULL)+
+      ylab(NULL)+
+      theme_classic()
+    
+    return(nice_plot)
+
+}
 
